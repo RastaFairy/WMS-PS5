@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Taller de colada</title>
+<style>
+:root{--bg:#F3F8FB;--sf:#fff;--ink:#12212E;--mu:#4F6477;--ln:#D3E0E8;--br:#1B4F7A;--bi:#fff;--rn:#2A9BC0;--wl:#E0A030;--dt:#A82019;--ok:#1F7A4D;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0E1A24;--sf:#152634;--ink:#E7F0F6;--mu:#9DB3C4;--ln:#27404F;--br:#6BB8E6;--bi:#0E1A24;--rn:#4CC3E6;--dt:#FF8A80;--ok:#5FD39A;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0E1A24;--sf:#152634;--ink:#E7F0F6;--mu:#9DB3C4;--ln:#27404F;--br:#6BB8E6;--bi:#0E1A24;--rn:#4CC3E6;--dt:#FF8A80;--ok:#5FD39A;color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 ui-rounded,"Avenir Next","Nunito","Segoe UI",system-ui,sans-serif}
+.wrap{max-width:1000px;margin:0 auto;padding:18px 16px 44px}
+header{display:flex;justify-content:space-between;gap:12px}
+h1{margin:0;font-size:clamp(1.6rem,5vw,2.2rem);line-height:1.1;font-weight:800;letter-spacing:-.015em}
+h2{font-size:1.05rem;margin:14px 0 6px}h3{margin:10px 0 4px;font-size:1rem}
+p{margin:0}.mu{color:var(--mu)}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible,.dial:focus-visible{outline:3px solid var(--rn);outline-offset:2px}
+.card,.pn,#side{background:var(--sf);border:1px solid var(--ln);border-radius:16px;padding:14px 16px}
+.card{margin:14px 0 10px}
+.g{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:3px}
+.g li::before{content:"○ "}
+.g .d{color:var(--mu);text-decoration:line-through}
+.g .d::before{content:"✔ ";color:var(--ok);display:inline-block}
+.bad{color:var(--dt);font-weight:600}
+#msg>div{border-left:5px solid var(--rn);background:var(--sf);border-radius:10px;padding:10px 14px;margin-bottom:12px;font-weight:600}
+#msg .o{border-color:var(--ok)}#msg .e{border-color:var(--dt)}#msg .w{border-color:var(--wl)}
+.grid{display:grid;gap:16px}
+@media(min-width:820px){.grid{grid-template-columns:1.05fr .95fr;align-items:start}}
+.row{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.chip{border:1.5px solid var(--ln);background:var(--bg);border-radius:999px;padding:7px 13px;font-weight:600}
+.chip[aria-pressed=true]{background:var(--br);border-color:var(--br);color:var(--bi)}
+.btn{background:var(--br);color:var(--bi);border:0;border-radius:12px;padding:10px 18px;font-weight:800}
+.pn{margin-top:12px;background:var(--bg)}
+.pn[hidden],.tray[hidden]{display:none}
+ol{margin:6px 0 0;padding-left:20px}li{margin:3px 0}
+.gb{display:grid;grid-template-columns:50px 1fr;gap:0 10px;text-align:left;border:1.5px solid var(--ln);background:var(--bg);border-radius:12px;padding:8px;width:100%;margin-bottom:8px}
+.gb svg{grid-row:1/3;align-self:center}.gb small{color:var(--mu)}
+.hs{border:1.5px solid var(--ln);background:var(--bg);border-radius:12px;padding:9px 12px;text-align:left;display:grid}
+.hs small{color:var(--mu)}
+.bk{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-top:8px}
+.mw{container-type:inline-size;max-width:440px;margin:0 auto}
+.mc{position:relative;width:100%;aspect-ratio:400/590;border-radius:6.5cqw;background:linear-gradient(160deg,#fcfdfe,#d5dde3);box-shadow:inset 0 0 0 .7cqw #bcc7cf,0 3cqw 5cqw rgba(0,0,0,.22);color:#16222d;font-size:3cqw}
+.mc>*{position:absolute}.mc button{border:0;padding:0}
+.pnl{inset:0 0 auto 0;height:37%;border-radius:6.5cqw 6.5cqw 0 0;background:linear-gradient(#f4f7f9,#dbe2e8);border-bottom:.8cqw solid #c2ccd4}
+.dwb{left:6cqw;top:6cqw;width:26cqw;height:15cqw;border:.4cqw solid #aab6bf!important;border-radius:2cqw;background:linear-gradient(#e9eef2,#c9d3da)}
+.dwb::after{content:"";position:absolute;left:30%;right:30%;bottom:2cqw;height:2cqw;border-radius:1cqw;background:#8996a0}
+.tray{left:4cqw;top:21.5cqw;width:62cqw;padding:2cqw;border-radius:2.5cqw;background:#f7f9fa;box-shadow:0 1.5cqw 3cqw rgba(0,0,0,.3);display:flex;gap:1.5cqw;z-index:3}
+.tray button{flex:1;height:11cqw;border:.4cqw solid #aeb9c1!important;border-radius:1.5cqw;background:#e3e9ed;font-weight:700;font-size:2.5cqw}
+.tray .f{background:#9ed0ee}.tray #dF.f{background:#f3b6cf}
+.lcd{left:35cqw;top:6cqw;width:30cqw;height:18cqw;background:#0e2a37;border-radius:2cqw;box-shadow:inset 0 0 2cqw #000;color:#8be9ff;font:600 2.9cqw/1.35 ui-monospace,Menlo,Consolas,monospace;padding:1.6cqw 2cqw;overflow:hidden}
+.dial{left:68cqw;top:3cqw;width:30cqw;height:30cqw;touch-action:none;cursor:grab;border-radius:50%}
+.dl span{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(calc(var(--b)*1deg)) translateY(-13.4cqw) rotate(calc(var(--b)*-1deg));font-size:2.1cqw;font-weight:700;white-space:nowrap}
+.dl .on{color:#c0281d}
+.kn{position:absolute;inset:6cqw;border-radius:50%;background:radial-gradient(circle at 35% 30%,#fff,#c9d2d9 60%,#98a5ae);box-shadow:0 .6cqw 1.4cqw rgba(0,0,0,.35);transform:rotate(calc(var(--a)*1deg));transition:transform .2s}
+.kn::after{content:"";position:absolute;left:44%;top:6%;width:12%;height:24%;border-radius:1cqw;background:#d33}
+.ob{left:6cqw;top:27cqw;display:flex;gap:1.5cqw}
+.pb{position:relative;width:11cqw;height:8cqw;border-radius:2cqw;background:linear-gradient(#fff,#d3dbe1);border:.4cqw solid #b4bfc7!important;font-size:2.4cqw;font-weight:700}
+.pb i{position:absolute;top:.9cqw;right:.9cqw;width:1.5cqw;height:1.5cqw;border-radius:50%;background:#9aa6ae}
+.pb.on i{background:#3ddc84;box-shadow:0 0 1.2cqw #3ddc84}
+.go{left:6cqw;top:37cqw;width:61cqw;height:10cqw;border-radius:2.5cqw;background:linear-gradient(#2f86c9,#1b5f98);color:#fff!important;font-weight:800;font-size:3.4cqw}
+.gk{left:15cqw;top:59cqw;width:70cqw;aspect-ratio:1;border-radius:50%;background:#1a2127;box-shadow:inset 0 0 0 3cqw #333d45,0 0 0 1cqw #aeb9c1}
+.drum{position:absolute;inset:4.5cqw;border-radius:50%;overflow:hidden;background:radial-gradient(#0009 .35cqw,transparent .5cqw) 0 0/2.6cqw 2.6cqw,radial-gradient(circle,#3b4953,#1c252c 75%)}
+.drum svg{position:absolute;inset:0;width:100%;height:100%}
+#tb{transform-origin:50px 50px}
+.w1{animation:sp 5s linear infinite}.w2{animation:sp .4s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.w1,.w2{animation:none}}
+.wt{position:absolute;left:0;right:0;bottom:0;background:rgba(90,175,215,.55);transition:height .8s}
+.door{left:15cqw;top:59cqw;width:70cqw;aspect-ratio:1;border-radius:50%;transform-origin:0 50%;transition:transform .9s cubic-bezier(.5,0,.3,1);background:radial-gradient(circle at 30% 25%,rgba(255,255,255,.35),rgba(150,190,210,.16) 45%,rgba(120,160,185,.22));box-shadow:inset 0 0 0 4.5cqw #c7d0d7,inset 0 0 0 5.2cqw #8a97a1,0 .6cqw 1.2cqw rgba(0,0,0,.25)}
+.door.op{transform:perspective(120cqw) rotateY(-115deg)}
+.door::after{content:"";position:absolute;right:-1cqw;top:46%;width:2.5cqw;height:8cqw;border-radius:1cqw;background:#2a333a}
+.flt,.ft{top:134cqw;height:7cqw;border-radius:1.5cqw;border:.4cqw solid #aab6bf!important;background:linear-gradient(#e5ebef,#c5cfd6);font-size:2.4cqw;font-weight:700}
+.flt{left:60cqw;width:22cqw}.ft{left:16cqw;width:16cqw}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<symbol id="tee" viewBox="0 0 64 64"><path d="M20 8 6 18l7 11 7-4v31h24V25l7 4 7-11L44 8Q32 18 20 8Z" fill="currentColor" stroke="#0005" stroke-width="1.5" stroke-linejoin="round"/></symbol>
+<symbol id="jeans" viewBox="0 0 64 64"><path d="M16 6h32l4 52H35l-3-32-3 32H12Z" fill="currentColor" stroke="#0005" stroke-width="1.5" stroke-linejoin="round"/><path d="M16 12h32M32 26V6" fill="none" stroke="#0004"/></symbol>
+<symbol id="sock" viewBox="0 0 64 64"><path d="M24 6h16v26l14 11q6 11-6 14-9 2-15-7l-9-10Z" fill="currentColor" stroke="#0005" stroke-width="1.5" stroke-linejoin="round"/><path d="M24 14h16" stroke="#0004"/></symbol>
+<symbol id="towel" viewBox="0 0 64 64"><path d="M10 10h44v44H10Z" fill="currentColor" stroke="#0005" stroke-width="1.5"/><path d="M10 18h44M10 46h44" stroke="#fff8" stroke-width="3"/></symbol>
+<symbol id="sweater" viewBox="0 0 64 64"><path d="M20 8q12 8 24 0l16 24-9 6-7-10v32H20V28l-7 10-9-6Z" fill="currentColor" stroke="#0005" stroke-width="1.5" stroke-linejoin="round"/><path d="M20 54h24M8 34l5 3M56 34l-5 3" stroke="#0004" stroke-width="1.5"/></symbol>
+<symbol id="sheet" viewBox="0 0 64 64"><path d="M5 14h54v38H5Z" fill="currentColor" stroke="#0005" stroke-width="1.5"/><path d="M5 33h54M5 14l9 19" stroke="#0003"/><circle cx="46" cy="24" r="4" fill="#8a6b3a" opacity=".6"/></symbol>
+<symbol id="scarf" viewBox="0 0 64 64"><path d="M6 22h52v16H6Z" fill="currentColor" stroke="#0005" stroke-width="1.5"/><path d="M8 38v6m8-6v6m8-6v6m8-6v6m8-6v6m8-6v6" stroke="currentColor" stroke-width="2"/></symbol>
+</defs></svg>
+<div class="wrap">
+<header><div><h1>Taller de colada</h1><p class="mu" id="mt"></p></div><div style="font-weight:800;font-size:1.2rem" id="tot"></div></header>
+<section class="card" id="brief"></section>
+<div id="msg" role="status" aria-live="polite"></div>
+<div class="grid">
+<section id="mach"><div class="mw"><div class="mc">
+<div class="pnl"></div>
+<button class="dwb" data-a="drw" aria-label="Cajón del detergente"></button>
+<div class="tray" id="tray" hidden><button data-a="dI" id="dI">I<br>prelavado</button><button data-a="dII" id="dII">II<br>lavado</button><button data-a="dF" id="dF">🌸<br>suavizante</button></div>
+<div class="lcd" id="lcd"></div>
+<div class="dial" id="dial" tabindex="0" role="slider" aria-label="Selector de programa" aria-valuemin="0" aria-valuemax="6"><div class="dl" id="dl"></div><div class="kn" id="kn"></div></div>
+<div class="ob"><button class="pb" id="b-pw" data-a="pw" aria-label="Encendido">⏻<i></i></button><button class="pb" data-a="tmp">Temp<i></i></button><button class="pb" data-a="sp">Giro<i></i></button><button class="pb" id="b-pre" data-a="pre">Prel.<i></i></button><button class="pb" id="b-ax" data-a="ax">Acl.+<i></i></button></div>
+<button class="go" data-a="go">Inicio</button>
+<div class="gk"><div class="drum"><svg viewBox="0 0 100 100" aria-hidden="true"><g id="tb"></g></svg><div class="wt" id="wt"></div></div></div>
+<button class="door" id="door" data-a="door"></button>
+<button class="ft" data-a="feet">Patas</button><button class="flt" data-a="pf">Filtro</button>
+</div></div>
+<div class="pn" id="pump" hidden>Filtro de la bomba:<div class="row"><button class="chip" id="trb" data-a="tray">Poner bandeja</button><button class="chip" data-a="fo">Abrir despacio</button><button class="chip" data-a="fx">Sacar lo atascado</button><button class="chip" data-a="fc">Cerrar filtro</button></div></div>
+</section>
+<aside id="side"></aside>
+</div>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const PR=[
+{n:'Algodón',T:[20,30,40,60,90],t:40,V:[0,400,800,1000,1200],s:1000,m:120},
+{n:'Sintét.',T:[20,30,40,60],t:40,V:[0,400,800,1000],s:800,m:90},
+{n:'Delicados',T:[20,30,40],t:30,V:[0,400,600],s:400,m:55},
+{n:'Lana',T:[20,30],t:30,V:[0,400,600,800],s:600,m:40},
+{n:'Rápido',T:[20,30,40],t:30,V:[0,800,1000],s:800,m:15},
+{n:'Aclarado',T:[],t:0,V:[0,400,800,1000],s:800,m:25},
+{n:'Centrif.',T:[],t:0,V:[400,800,1000,1200],s:1000,m:12}];
+const G={};
+[['tb','Camiseta blanca','tee','#f7f7f2',60,1200,'a','w'],['sb','Sábana blanca','sheet','#e8eef3',90,1200,'a','w',1],['cb','Calcetines blancos','sock','#fff',60,1200,'a','w'],['cr','Calcetín rojo','sock','#d23b3b',40,1200,'a','x'],['cm','Camisa blanca','tee','#fbfbfb',60,1200,'a','w'],['vq','Vaqueros','jeans','#2d4a74',40,1000,'a','k'],['tn','Camiseta negra','tee','#23272d',40,1200,'a','k'],['sd','Sudadera azul marino','sweater','#1e3150',40,1000,'a','k'],['jl','Jersey de lana','sweater','#c4936b',30,600,'l','c'],['bl','Bufanda de lana','scarf','#a43f4f',30,600,'l','c'],['to','Toalla de baño','towel','#7db4c7',60,1200,'a','c',0,40]].forEach(([id,n,s,c,t,v,p,k,d,m])=>G[id]={n,s,c,t,v,p,k,d,m});
+const CK={w:'blanco',x:'destiñe, lavar aparte',k:'oscuro',c:'color claro'};
+const tag=g=>[g.t+' °C máx.',g.v+' rpm máx.',CK[g.k],g.p==='l'?'solo lana':'',g.d?'muy sucia':''].filter(Boolean).join(', ');
+const MAN={
+uso:['Uso básico',['Lee la etiqueta de cada prenda y separa por colores.','Carga con la puerta abierta, sin llenar del todo.','Detergente en el II (en el I solo si usas prelavado).','Enciende con ⏻ y gira el dial al programa.','Ajusta Temp y Giro sin pasarte de lo que dicen las etiquetas.','Pulsa Inicio. La puerta se desbloquea al terminar.']],
+etq:['Etiquetas',['El número es la temperatura máxima: no la superes.','Blancos, oscuros y colores que destiñen: cada grupo por separado.','Lana y delicados: programa Lana o Delicados y poco centrifugado.','Muy sucia: prelavado o 60 °C si la etiqueta lo permite.','Toallas y sábanas: de 40 a 60 °C.']],
+E10:['E10: no entra agua',['Comprueba que el grifo esté abierto.','Mira si la manguera de entrada está doblada.','Si todo está bien: cierra el grifo, desenchufa y limpia el filtro de la entrada.','Abre el grifo, enchufa y reinicia.']],
+E21:['E21: no desagua',['Mira si la manguera de desagüe está doblada.','Desenchufa antes de tocar nada.','Pon una bandeja bajo el filtro de la bomba y ábrelo despacio.','Saca lo atascado y cierra el filtro a fondo.','Enchufa y reinicia.']],
+E50:['E50: vibra o se desequilibra',['Ropa mal repartida: abre la puerta y repártela.','Tornillos de transporte: quítalos de la parte trasera.','Patas sin nivelar: ajústalas con el nivel.','Reinicia el ciclo.']]};
+const MS=[
+{t:'Colada de blancos',i:'Hay ropa blanca muy sucia y algún intruso en la cesta. Lee las etiquetas, carga lo que toca y programa la máquina como si fuera la tuya.',it:['tb','sb','cb','cr','cm'],need:['tb','sb','cb'],h:'Blancos: Algodón. La sábana está muy sucia: prelavado (con detergente en el I) o 60 °C. El calcetín rojo destiñe.'},
+{t:'Vaqueros y oscuros',i:'Ropa oscura para lavar sin que destiña ni se estropee. Ojo con lo que no pinta nada aquí.',it:['vq','tn','sd','cm','cb'],need:['vq','tn','sd'],h:'Solo oscuros, Algodón a 40 °C y sin pasarte de 1000 rpm.'},
+{t:'Jersey de lana',i:'El jersey y la bufanda son de lana. Elige el programa y los ajustes que piden sus etiquetas.',it:['jl','bl','to'],need:['jl','bl'],h:'Lana a 30 °C y 600 rpm como máximo. La toalla no pinta nada aquí.'},
+{t:'No entra agua',i:'La colada ya está programada. Pulsa Inicio y averigua qué pasa.',it:['tb','cb','cm'],f:'E10'},
+{t:'No desagua',i:'Otra colada lista. Pulsa Inicio: esta vez el fallo llega más tarde.',it:['tb','cb','cm'],f:'E21'},
+{t:'Vibra y baila',i:'Máquina recién instalada. Pulsa Inicio y escucha.',it:['tb','cb','cm'],f:'E50'}];
+const CA={E10:['tap','kinkIn','dirtIn'],E21:['dirtPump','kinkOut'],E50:['screws','feet','unbal']},SC={Llenando:'E10','Desagüe':'E21',Centrifugado:'E50'};
+let S,P,K,M,mi=0,E=0,H=0,TM=[],MSG={},stars=[],fin=0,dg=null;
+const say=(t,k)=>{MSG={t,k}},err=t=>{E++;say(t,'e')};
+const fn=()=>(!S.tap||P.kinkIn||P.dirtIn)?'E10':(P.kinkOut||P.dirtPump)?'E21':(P.screws||P.feet||P.unbal)?'E50':'';
+const fixp=(k,a,b)=>{if(P[k]){P[k]=0;say(a,'o')}else say(b,'t')};
+const tot=()=>PR[S.pi].m+(S.pre?20:0)+(S.ax?15:0)+(PR[S.pi].T.length?Math.round((S.tmp-30)/3):0);
+const hm=m=>Math.floor(m/60)+':'+String(m%60).padStart(2,'0');
+
+function init(i){
+ TM.forEach(clearTimeout);TM=[];mi=i;M=MS[i];E=0;H=0;K={};P={};const pre=!!M.f;
+ S={plug:1,tap:1,on:pre?1:0,op:!pre,drw:0,pan:0,fo:0,tray:0,bv:0,ld:pre?[...M.it]:[],bk:pre?[]:[...M.it],det:{I:0,II:pre?1:0,F:0},pi:0,tmp:40,sp:1000,pre:0,ax:0,ph:'',st:'',rem:0,code:'',w:0,lock:0,mo:0,man:''};
+ if(M.f){const c=CA[M.f][Math.random()*CA[M.f].length|0];if(c==='tap')S.tap=0;else P[c]=1}
+ say(M.i,'t');draw();
+}
+function setProg(i){
+ if(S.ph==='run')return say('No cambies de programa durante el ciclo.','w');
+ S.pi=i;const p=PR[i];S.tmp=p.t;S.sp=p.s;if(i>1)S.pre=0;if(i>3)S.ax=0;say('Programa: '+p.n+'.','t');
+}
+function judge(){
+ const L=S.ld.map(k=>G[k]),r=[],p=S.pi,tm=S.tmp;
+ if(p>4)r.push('Ese programa solo aclara o centrifuga: la ropa no se ha lavado.');
+ if(!S.det.II)r.push('Sin detergente en el compartimento II la ropa solo se moja.');
+ if(S.pre&&!S.det.I)r.push('Activaste el prelavado pero no echaste detergente en el compartimento I.');
+ const ms=M.need.filter(k=>!S.ld.includes(k));if(ms.length)r.push('Faltan prendas por lavar: '+ms.map(k=>G[k].n).join(', ')+'.');
+ L.forEach(g=>{
+  if(tm>g.t)r.push(g.n+': se encoge o se daña a '+tm+' °C (admite '+g.t+' °C).');
+  if(S.sp>g.v)r.push(g.n+': se deforma con '+S.sp+' rpm (admite '+g.v+').');
+  if(g.p==='l'&&p!==2&&p!==3)r.push(g.n+': la lana se apelmaza si no usas el programa Lana o Delicados.');
+  if(g.m&&tm<g.m&&p<5)r.push(g.n+': necesita al menos '+g.m+' °C para quedar bien.');
+  if(g.d&&!S.pre&&tm<60&&p<5)r.push(g.n+': está muy sucia: usa prelavado o 60 °C.');
+ });
+ if(L.some(g=>g.k==='w')&&L.some(g=>g.k==='x'||g.k==='k'))r.push('Ha desteñido sobre la ropa blanca: separa blancos, oscuros y colores que destiñen.');
+ return r;
+}
+function go(){
+ if(S.ph==='run')return;
+ if(!S.plug)return err('La lavadora no tiene corriente: enchúfala (parte trasera).');
+ if(!S.on)return err('Pulsa ⏻ para encender la lavadora.');
+ if(S.op)return err('Cierra la puerta antes de empezar.');
+ if(S.fo)return err('La tapa del filtro de la bomba sigue abierta: ciérrala.');
+ if(!S.ld.length)return err('El tambor está vacío: carga ropa primero.');
+ if(S.ph==='fault'&&fn())return err('Sigue la avería: busca la causa antes de reiniciar.');
+ K.try=1;S.code='';S.w=0;say('Ciclo en marcha...','t');
+ const p=S.pi,a=[];
+ if(p===6)a.push(['Desagüe',1200]);
+ else{a.push(['Llenando',1300]);if(p<5){if(S.pre)a.push(['Prelavado',1100]);a.push(['Lavado',1500])}a.push(['Aclarado',1100]);if(S.ax&&p<4)a.push(['Aclarado extra',1100]);a.push(['Desagüe',1200])}
+ if(S.sp>0)a.push(['Centrifugado',1500]);
+ step(0,a,tot());
+}
+function step(i,a,T){
+ if(i===a.length){S.ph='done';S.st='Fin';S.rem=0;S.lock=1;K.run=1;K.rep=M.f?[]:judge();K.ok=!K.rep.length;
+  say(K.ok?'¡Ciclo terminado! La puerta se desbloquea en unos segundos.':'Ciclo terminado. Mira el informe de arriba.',K.ok?'o':'w');
+  TM.push(setTimeout(()=>{S.lock=0;draw()},1300));return draw()}
+ S.ph='run';S.st=a[i][0];S.rem=Math.round(T*(1-i/a.length));draw();
+ TM.push(setTimeout(()=>{
+  const c=SC[S.st];if(c&&fn()===c)return fault(c);
+  if(S.st==='Llenando')S.w=55;if(S.st==='Desagüe')S.w=0;
+  step(i+1,a,T);
+ },a[i][1]));
+}
+function fault(c){
+ S.ph='fault';S.code=c;S.mo=1;
+ if(c==='E50'){S.lock=1;TM.push(setTimeout(()=>{S.lock=0;draw()},1500))}
+ say('El display muestra '+c+'. Busca ese código en el manual y sigue sus indicaciones.','w');draw();
+}
+function ld(k){
+ if(!S.op)return err('Abre la puerta para cargar la ropa.');
+ if(S.ld.length>=5)return err('El tambor está lleno: no metas más de 5 prendas.');
+ S.ld.push(k);S.bk=S.bk.filter(x=>x!==k);say(G[k].n+' dentro.','o');
+}
+function act(a){
+ const run=S.ph==='run',lk=run||S.lock||S.w>0,p=PR[S.pi];
+ const cyc=(l,v)=>l[(l.indexOf(v)+1)%l.length];
+ switch(a){
+ case'drw':S.drw=!S.drw;break;
+ case'go':go();break;
+ case'pw':if(run)return err('No apagues en pleno ciclo.');S.on=!S.on;say(S.on?'Lavadora encendida.':'Lavadora apagada.','o');break;
+ case'tmp':case'sp':case'pre':case'ax':
+  if(!S.on)return err('Pulsa ⏻ para encender la lavadora.');
+  if(run)return say('No cambies los ajustes durante el ciclo.','w');
+  if(a==='tmp'){if(!p.T.length)say('Este programa no calienta el agua.','w');else{S.tmp=cyc(p.T,S.tmp);say('Temperatura: '+S.tmp+' °C.','t')}}
+  if(a==='sp'){S.sp=cyc(p.V,S.sp);say('Centrifugado: '+S.sp+' rpm.','t')}
+  if(a==='pre'){if(S.pi>1)say('El prelavado solo está en Algodón y Sintéticos.','w');else{S.pre=S.pre?0:1;say(S.pre?'Prelavado activado: pon detergente en el I.':'Prelavado desactivado.','t')}}
+  if(a==='ax'){if(S.pi>3)say('Este programa no admite aclarado extra.','w');else{S.ax=S.ax?0:1;say('Aclarado extra '+(S.ax?'activado.':'desactivado.'),'t')}}
+  break;
+ case'door':if(S.op){S.op=0;say('Puerta cerrada: clic.','o')}else if(lk)say('La puerta está bloqueada por seguridad. Espera a que termine o resuelve el fallo.','w');else{S.op=1;say('Puerta abierta.','o')}break;
+ case'dI':case'dII':case'dF':{const k=a.slice(1);S.det[k]=S.det[k]?0:1;say(S.det[k]?{I:'Detergente de prelavado en el I.',II:'Detergente del lavado principal en el II.',F:'Suavizante en la flor.'}[k]:'Compartimento vaciado.','o')}break;
+ case'sp2':if(!S.op)return err('Abre la puerta para repartir la ropa.');fixp('unbal','Ropa repartida por igual por todo el tambor.','La ropa ya estaba bien repartida.');break;
+ case'out':S.ld=[];say('Tambor vacío.','o');break;
+ case'bv':S.bv=!S.bv;break;
+ case'pf':S.pan=!S.pan;break;
+ case'tray':S.tray=1;say('Bandeja colocada bajo el filtro.','o');break;
+ case'fo':
+  if(S.plug)return err('¡Desenchufa antes de tocar el filtro! Hay agua y electricidad cerca.');
+  if(!S.tray)return err('Sin bandeja el agua inunda el suelo: colócala antes de abrir.');
+  S.fo=1;S.w=0;say('Abres despacio: el agua sale a la bandeja.','o');break;
+ case'fx':
+  if(!S.fo)return err('Abre primero el filtro, girándolo despacio.');
+  if(P.dirtPump){P.dirtPump=0;say('¡Un calcetín atascado! Fuera.','o')}else say('El filtro estaba limpio: la causa es otra.','t');break;
+ case'fc':if(S.fo){S.fo=0;S.tray=0;say('Filtro cerrado a fondo. Enchufa de nuevo y reinicia.','o')}break;
+ case'feet':fixp('feet','Patas niveladas con el nivel de burbuja.','Las patas ya están niveladas.');break;
+ case'plug':if(run)return err('No la desenchufes en pleno lavado.');S.plug=S.plug?0:1;say(S.plug?'Enchufada.':'Desenchufada.','o');break;
+ case'tap':if(run)return err('Espera a que termine el ciclo.');S.tap=S.tap?0:1;say(S.tap?'Grifo abierto.':'Grifo cerrado.','o');break;
+ case'kI':fixp('kinkIn','Manguera de entrada estirada.','La manguera de entrada ya estaba recta.');break;
+ case'kO':fixp('kinkOut','Manguera de desagüe estirada.','La manguera de desagüe ya estaba recta.');break;
+ case'fI':
+  if(S.tap||S.plug)return err('Cierra el grifo y desenchufa antes de desenroscar la manguera: ¡sale agua a presión!');
+  if(P.dirtIn){P.dirtIn=0;say('Sedimentos en el filtro: limpio. Ahora abre el grifo, enchufa y reinicia.','o')}else say('El filtro de entrada estaba limpio: la causa es otra.','t');break;
+ case'scr':fixp('screws','Tornillos de transporte quitados.','Ya no quedan tornillos de transporte.');break;
+ }
+}
+function hint(){
+ if(M.f){
+  if(!K.try)return 'Pulsa Inicio y observa qué pasa.';
+  if(!K.man)return 'Abre el manual y busca la página del código '+M.f+'.';
+  const h={E10:()=>!S.tap?'Parte trasera: el grifo está cerrado.':P.kinkIn?'Parte trasera: la manguera de entrada está doblada.':'Limpia el filtro de la entrada (parte trasera): primero cierra el grifo y desenchufa.',
+  E21:()=>P.kinkOut?'Parte trasera: la manguera de desagüe está doblada.':'Filtro de la bomba (abajo): desenchufa, pon la bandeja, ábrelo despacio, saca lo atascado y ciérralo.',
+  E50:()=>P.screws?'Parte trasera: quedan los tornillos de transporte.':P.feet?'Nivela las patas (abajo).':'Abre la puerta y reparte bien la ropa.'}[M.f];
+  return fn()?h():'Arreglado. Enchufa, abre el grifo si hace falta y pulsa Inicio de nuevo.';
+ }
+ if(!M.need.every(k=>S.ld.includes(k)))return 'Lee las etiquetas: carga las prendas que toca (con la puerta abierta).';
+ if(!S.det.II)return 'Abre el cajón y toca el compartimento II para echar el detergente.';
+ if(!S.on)return 'Enciende la lavadora con ⏻.';
+ if(S.op)return 'Cierra la puerta tocando el cristal.';
+ return K.try?'Mira el informe y reintenta con otros ajustes.':M.h;
+}
+function draw(){
+ const fa=document.activeElement.dataset.a;
+ if(fin){
+  const t=stars.reduce((a,b)=>a+(b||0),0);$('#tot').textContent='★ '+t;$('#mt').textContent='Fin del turno';
+  $('#brief').innerHTML=`<h2 style="margin-top:0">¡Dominas la lavadora!</h2><p>Has superado las ${MS.length} misiones con ★ ${t} de ${MS.length*3}.</p><div class="row"><button class="btn" data-a="re">Jugar de nuevo</button></div>`;
+  $('#mach').hidden=true;$('#side').innerHTML='';$('#msg').innerHTML='';return;
+ }
+ $('#mach').hidden=false;
+ const won=K.run&&K.ok;
+ if(won&&!K.w){K.w=1;stars[mi]=E===0&&H===0?3:E<=2&&H<=1?2:1}
+ $('#tot').textContent='★ '+stars.reduce((a,b)=>a+(b||0),0);
+ $('#mt').textContent='Misión '+(mi+1)+' de '+MS.length+': '+M.t;
+ const run=S.ph==='run',lk=run||S.lock||S.w>0,p=PR[S.pi],pw=S.on&&S.plug;
+ $('#lcd').innerHTML=pw?`<b>${p.n}</b><br>${p.T.length?S.tmp+'°':'--'} ${S.sp} rpm${S.pre?' PRE':''}${S.ax?' A+':''}<br>${S.ph==='fault'?S.code:run?S.st+' '+hm(S.rem):S.ph==='done'?'Fin':hm(tot())}`:'';
+ $('#kn').style.setProperty('--a',-120+40*S.pi);
+ const dl=$('#dl');if(!dl.children.length)dl.innerHTML=PR.map((q,i)=>`<span style="--b:${-120+40*i}">${q.n}</span>`).join('');
+ [...dl.children].forEach((s,i)=>s.classList.toggle('on',i===S.pi));
+ $('#dial').setAttribute('aria-valuenow',S.pi);$('#dial').setAttribute('aria-valuetext',p.n);
+ $('#b-pw').classList.toggle('on',!!pw);$('#b-pre').classList.toggle('on',!!S.pre);$('#b-ax').classList.toggle('on',!!S.ax);
+ const dr=$('#door');dr.className='door'+(S.op?' op':'');dr.setAttribute('aria-label','Puerta '+(S.op?'abierta':lk?'bloqueada':'cerrada'));
+ $('#wt').style.height=S.w+'%';
+ $('#tb').setAttribute('class',run?(S.st==='Centrifugado'?'w2':'w1'):'');
+ $('#tb').innerHTML=S.ld.map((k,i)=>{const a=i*72*Math.PI/180,x=50+23*Math.cos(a)-15,y=50+23*Math.sin(a)-15;return `<use href="#${G[k].s}" x="${x}" y="${y}" width="30" height="30" style="color:${G[k].c}" transform="rotate(${i*40} ${x+15} ${y+15})"/>`}).join('');
+ $('#tray').hidden=!S.drw;['I','II','F'].forEach(c=>$('#d'+c).classList.toggle('f',!!S.det[c]));
+ $('#pump').hidden=!S.pan;$('#trb').textContent='Poner bandeja'+(S.tray?' ✔':'');
+ const G2=M.f?[['Pulsa Inicio',K.try],['Busca '+M.f+' en el manual',K.man],['Encuentra la causa y arréglala',K.try&&!fn()],['Termina el lavado',K.run]]
+ :[['Carga las prendas que toca',M.need.every(k=>S.ld.includes(k))],['Detergente en su compartimento',S.det.II],['Programa la máquina leyendo las etiquetas',K.try],['Lava sin estropear nada',won]];
+ const s=stars[mi]||0;
+ $('#brief').innerHTML=`<p>${M.i}</p><ul class="g">${G2.map(([t,d])=>`<li class="${d?'d':''}">${t}</li>`).join('')}</ul>`
+ +(K.run&&!K.ok?`<h3>Informe del lavado</h3><ul class="g">${K.rep.map(x=>`<li class="bad">${x}</li>`).join('')}</ul><div class="row"><button class="btn" data-a="rt">Reintentar misión</button></div>`:'')
+ +(won?`<div class="row"><b>¡Misión superada! ${'★'.repeat(s)}${'☆'.repeat(3-s)}</b><span class="mu">Errores: ${E}. Pistas: ${H}.</span><button class="btn" data-a="nx">${mi<MS.length-1?'Siguiente misión':'Ver resultado final'}</button></div>`:'');
+ $('#msg').innerHTML=`<div class="${MSG.k}">${MSG.t}</div>`;
+ const bt=(a,l,t)=>`<button class="hs" data-a="${a}"><b>${l}</b><small>${t}</small></button>`;
+ $('#side').innerHTML=`<h2 style="margin-top:0">Cesta</h2>${S.bk.length?S.bk.map(k=>`<button class="gb" data-a="l:${k}"><svg viewBox="0 0 64 64" width="46" height="46"><use href="#${G[k].s}" style="color:${G[k].c}"/></svg><b>${G[k].n}</b><small>Etiqueta: ${tag(G[k])}</small></button>`).join(''):'<p class="mu">Cesta vacía</p>'}
+<h2>En el tambor</h2><div class="row" style="margin:0">${S.ld.length?S.ld.map(k=>`<button class="chip" data-a="u:${k}" aria-label="Sacar ${G[k].n}">${G[k].n} ✕</button>`).join(''):'<span class="mu">Vacío</span>'}${S.op?'<button class="chip" data-a="sp2">Repartir la ropa</button>':''}</div>
+<div class="row" style="margin-top:16px"><button class="chip" data-a="man" aria-pressed="${!!S.mo}">📖 Manual</button><button class="chip" data-a="hint">💡 Pista</button><button class="chip" data-a="bv" aria-pressed="${!!S.bv}">Parte trasera</button></div>
+${S.bv?`<div class="bk">${bt('plug','Enchufe',S.plug?'enchufada':'desenchufada')}${bt('tap','Grifo',S.tap?'abierto':'cerrado')}${bt('kI','Manguera de entrada',P.kinkIn?'doblada':'recta')}${bt('fI','Filtro de la entrada','limpiar')}${bt('kO','Manguera de desagüe',P.kinkOut?'doblada':'recta')}${bt('scr','Tornillos de transporte',P.screws?'puestos':'quitados')}</div>`:''}
+${S.mo?`<div class="pn"><div class="row" style="margin:0">${Object.keys(MAN).map(k=>`<button class="chip" data-a="m:${k}" aria-pressed="${S.man===k}">${k==='uso'?'Uso básico':k==='etq'?'Etiquetas':k}</button>`).join('')}</div>${S.man?`<h3>${MAN[S.man][0]}</h3><ol>${MAN[S.man][1].map(x=>`<li>${x}</li>`).join('')}</ol>`:'<p class="mu" style="margin-top:8px">Elige una página del manual.</p>'}</div>`:''}`;
+ if(fa){const el=document.querySelector('[data-a="'+fa+'"]');if(el&&document.activeElement!==el)el.focus()}
+}
+document.addEventListener('click',e=>{
+ const b=e.target.closest('[data-a]');if(!b)return;
+ const a=b.dataset.a;
+ if(a==='re'){stars=[];fin=0;return init(0)}
+ if(a==='rt')return init(mi);
+ if(a==='nx'){if(mi<MS.length-1)return init(mi+1);fin=1;return draw()}
+ if(a==='man')S.mo=!S.mo;
+ else if(a==='hint'){H++;say(hint(),'t')}
+ else if(a.startsWith('l:'))ld(a.slice(2));
+ else if(a.startsWith('u:')){if(!S.op)err('Abre la puerta para sacar la ropa.');else{const k=a.slice(2);S.ld=S.ld.filter(x=>x!==k);S.bk.push(k);say(G[k].n+' fuera del tambor.','o')}}
+ else if(a.startsWith('m:')){S.man=a.slice(2);if(S.man===M.f)K.man=1}
+ else act(a);
+ draw();
+});
+const dial=$('#dial');
+function pt(e){const x=e.clientX-dg.left-dg.width/2,y=e.clientY-dg.top-dg.height/2;if(Math.hypot(x,y)<dg.width*.12)return;const a=Math.max(-120,Math.min(120,Math.atan2(x,-y)*180/Math.PI)),i=Math.round((a+120)/40);if(i!==S.pi){setProg(i);draw()}}
+dial.addEventListener('pointerdown',e=>{dg=dial.getBoundingClientRect();pt(e)});
+document.addEventListener('pointermove',e=>{if(dg)pt(e)});
+document.addEventListener('pointerup',()=>dg=null);
+document.addEventListener('pointercancel',()=>dg=null);
+dial.addEventListener('keydown',e=>{const d={ArrowRight:1,ArrowUp:1,ArrowLeft:-1,ArrowDown:-1}[e.key];if(d&&S.pi+d>=0&&S.pi+d<7){setProg(S.pi+d);draw();e.preventDefault()}});
+init(0);
+</script>
+</body>
+</html>
