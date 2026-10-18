@@ -1,0 +1,17 @@
+* text=auto
+*.cpp text eol=lf
+*.cc text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.ps5vproj text eol=lf
+*.huifont binary
+*.rgba binary
+*.png binary
+*.dds binary
+*.at9 binary
+*.bin binary
+*.prx binary
+*.ffpfsc binary

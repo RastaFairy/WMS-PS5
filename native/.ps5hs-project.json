@@ -1,0 +1,13 @@
+{
+  "schema": "ps5hs-native-project",
+  "repository": "blackbearreloaded/ps5-homebrew-ui",
+  "category": "game",
+  "initializedAt": "2026-10-16T20:40:22.075436+02:00",
+  "titleId": "PPSA19918",
+  "name": "Taller-de-Colada-PS5",
+  "template": "hui-gl",
+  "visualBackend": "opengl-ui",
+  "generatedFromStudio": true,
+  "generatedSource": "src/concepts/ps5hs_generated.cpp",
+  "visualModel": "ps5hs-model.json"
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "bytes": 696328,
+    "file": "ps5hs/asset-machine.rgba",
+    "sourceName": "machine.png",
+    "sha256": "6de5f08963f95ad5f9e22a7e2ac1fc503272879d48d3441474b21598a6841739",
+    "width": 340,
+    "height": 512,
+    "id": "asset-machine"
+  },
+  {
+    "bytes": 1048584,
+    "file": "ps5hs/asset-white-shirt.rgba",
+    "sourceName": "garment-atlas.png",
+    "sha256": "46236577fd1291ebaf6048bce05ce45f5bb6701d4f5991816739dbabf8207898",
+    "width": 512,
+    "height": 512,
+    "id": "asset-white-shirt"
+  },
+  {
+    "bytes": 493576,
+    "file": "ps5hs/asset-jeans.rgba",
+    "sourceName": "jeans.png",
+    "sha256": "3ddf08a7f1af8f303b64e2b5709ef3c0a7afc21a57020f7feb29798ad0c8ab4b",
+    "width": 241,
+    "height": 512,
+    "id": "asset-jeans"
+  },
+  {
+    "bytes": 278968,
+    "file": "ps5hs/asset-red-sock.rgba",
+    "sourceName": "red-sock.png",
+    "sha256": "2a236a7832404fda46e6f21a77e11270dacc82f50c85f3b74f364b9105d8001f",
+    "width": 220,
+    "height": 317,
+    "id": "asset-red-sock"
+  },
+  {
+    "bytes": 372092,
+    "file": "ps5hs/asset-dark-shirt.rgba",
+    "sourceName": "dark-shirt.png",
+    "sha256": "e0814d6da1f6d651282e8581a810fd05c73790616acff34ee7fe60e670e58419",
+    "width": 303,
+    "height": 307,
+    "id": "asset-dark-shirt"
+  },
+  {
+    "bytes": 472452,
+    "file": "ps5hs/asset-wool-sweater.rgba",
+    "sourceName": "wool-sweater.png",
+    "sha256": "f1fb2bf39a353def33d8748ab43fa78fc582fd42655c919ab442e3d127505db7",
+    "width": 329,
+    "height": 359,
+    "id": "asset-wool-sweater"
+  },
+  {
+    "bytes": 279848,
+    "file": "ps5hs/asset-towel.rgba",
+    "sourceName": "towel.png",
+    "sha256": "3d350c86a84cde3e7154b662bd2fe5e92cfdbe622ca9780fd4cea10411f65631",
+    "width": 265,
+    "height": 264,
+    "id": "asset-towel"
+  },
+  {
+    "bytes": 423944,
+    "file": "ps5hs/asset-detergent.rgba",
+    "sourceName": "detergent.png",
+    "sha256": "1bdca21865c2706d836af5badaf89ce43e48b99adc78a8f9c0bcaad47856b53c",
+    "width": 276,
+    "height": 384,
+    "id": "asset-detergent"
+  },
+  {
+    "bytes": 330920,
+    "file": "ps5hs/asset-softener.rgba",
+    "sourceName": "softener.png",
+    "sha256": "77f3cfa80ddd52498523ac62b100d913521dee55d56a18e1d506fcc0439b29b4",
+    "width": 216,
+    "height": 383,
+    "id": "asset-softener"
+  },
+  {
+    "bytes": 339308,
+    "file": "ps5hs/asset-tap.rgba",
+    "sourceName": "tap.png",
+    "sha256": "acbc640ff987f5cb9f3c4a4ae93208ea72ce4e57a2622d833348e3786afe7558",
+    "width": 261,
+    "height": 325,
+    "id": "asset-tap"
+  },
+  {
+    "bytes": 360104,
+    "file": "ps5hs/asset-drain-hose.rgba",
+    "sourceName": "drain-hose.png",
+    "sha256": "d222920995e5d075bc30d8adaa94020c98c2d209cc9d3509192aa6a933143dc8",
+    "width": 264,
+    "height": 341,
+    "id": "asset-drain-hose"
+  },
+  {
+    "bytes": 294344,
+    "file": "ps5hs/asset-pump-filter.rgba",
+    "sourceName": "pump-filter.png",
+    "sha256": "bcb0f0d934cd86f585378fee48158c3299a7831eeb82ca7e5fd15444c54b5319",
+    "width": 292,
+    "height": 252,
+    "id": "asset-pump-filter"
+  },
+  {
+    "bytes": 259592,
+    "file": "ps5hs/asset-level-foot.rgba",
+    "sourceName": "level-foot.png",
+    "sha256": "764c0e7ce6f1ff3536903973d1f57c21a7e0ce4552a1b2e3bed54099afdb878f",
+    "width": 208,
+    "height": 312,
+    "id": "asset-level-foot"
+  },
+  {
+    "bytes": 316856,
+    "file": "ps5hs/asset-transit-bolt.rgba",
+    "sourceName": "transit-bolt.png",
+    "sha256": "585b902ac00b38e262dfabce2cdda51bd704d32050e0d9b27e02f33986bc516f",
+    "width": 287,
+    "height": 276,
+    "id": "asset-transit-bolt"
+  },
+  {
+    "bytes": 214616,
+    "file": "ps5hs/asset-power-plug.rgba",
+    "sourceName": "power-plug.png",
+    "sha256": "84bdc0aa489360b72485a1d8e2db8b7d09d46deb9507bb6653875fe0dae2aec7",
+    "width": 204,
+    "height": 263,
+    "id": "asset-power-plug"
+  },
+  {
+    "bytes": 138248,
+    "file": "ps5hs/asset-water-drop.rgba",
+    "sourceName": "water-drop.png",
+    "sha256": "d4c91b5fc217618bb120d1b97554d7568867af72eff1361f1895079120b3763f",
+    "width": 160,
+    "height": 216,
+    "id": "asset-water-drop"
+  },
+  {
+    "bytes": 655368,
+    "file": "ps5hs/asset-simulation-alarm-atlas.rgba",
+    "sourceName": "simulation-alarm-atlas.png",
+    "sha256": "d6eda9097d8b26e259c8e35427951f19aa3ec141e5263d1f122fd408ea101015",
+    "width": 640,
+    "height": 256,
+    "id": "asset-simulation-alarm-atlas"
+  }
+]

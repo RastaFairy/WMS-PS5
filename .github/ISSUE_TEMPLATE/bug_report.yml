@@ -1,0 +1,35 @@
+name: Informar un fallo
+description: Describe un fallo reproducible del simulador.
+title: "[Fallo] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Versión
+      description: Indica la versión o el commit que estás usando.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos para reproducir
+      description: Enumera las acciones realizadas antes del fallo.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Resultado observado
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidencia
+      description: Añade capturas o logs sin incluir datos personales ni credenciales.

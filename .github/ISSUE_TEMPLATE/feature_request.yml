@@ -1,0 +1,23 @@
+name: Proponer una mejora
+description: Describe una mejora concreta del simulador.
+title: "[Mejora] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Necesidad
+      description: ¿Qué problema o necesidad resolvería?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Propuesta
+      description: Explica el cambio que propones.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impacto esperado
+      description: Indica qué modos, pantallas o idiomas afectaría.

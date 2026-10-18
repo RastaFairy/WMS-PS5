@@ -1,0 +1,21 @@
+# Generated native build output
+/native/.deps/
+/native/build/
+/native/dist/
+/native/tmp/
+/native/runtime/libc.prx
+/native/**/__pycache__/
+/native/**/*.pyc
+/native/**/*.log
+/native/**/*.elf
+/native/**/*.self
+/native/**/*.sprx
+/native/**/*.prx
+/native/**/*.pkg
+/native/.env
+
+# Local editor and operating-system files
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
