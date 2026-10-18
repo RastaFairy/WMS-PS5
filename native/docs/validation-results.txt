@@ -1,0 +1,17 @@
+# Validación del proyecto y del paquete
+
+Fecha de las comprobaciones estáticas: 2026-10-18.
+
+## Código fuente
+
+- PASS — `python tools/check-localization.py --require-fonts`: 38 tablas localizadas, ocho idiomas, sincronización de fuentes/modelos y cobertura de glifos requeridos.
+- PASS — `python tools/check-mode-font-integration.py`: fuentes embebidas, modelos, controles y etiquetas de cuidado sincronizados.
+- PASS — `python tools/validate-expert-mode.py`: metadatos P-1..P-8, recursos de máquina, modo experto y regresión española.
+
+## Paquete
+
+- PASS — `PPSA19918.ffpfsc`, versión 01.000.010, tipo PFSC PS5; verificado con MkPFS.CSharp 2.5.0.
+- PASS — extracción profunda: 113 archivos coinciden con el directorio compilado.
+- SHA-256: `43D89A7152A17DDF59B704EB1FFC890A1A8F4B345ADE0F7757587A3FA1C3B51D`.
+
+El paquete proviene de la compilación autorizada anterior. En esta preparación para GitHub no se repitió la compilación. No se ha validado la ejecución en una consola PS5 física.
