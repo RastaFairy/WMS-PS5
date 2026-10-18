@@ -19,10 +19,13 @@ cd native
 .\build.ps1
 ```
 
-Para las comprobaciones estáticas de traducciones, fuentes, sincronización del proyecto y recursos:
+Las comprobaciones estáticas usan Python 3.13 y Pillow, fijado en `native/tools/requirements-validation.txt` para validar imágenes PNG/RGBA.
+
+Para ejecutarlas:
 
 ```powershell
 cd native
+python -m pip install -r tools/requirements-validation.txt
 python tools/check-localization.py --require-fonts
 python tools/check-mode-font-integration.py
 python tools/validate-expert-mode.py

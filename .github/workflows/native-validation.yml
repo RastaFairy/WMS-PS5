@@ -29,6 +29,8 @@ jobs:
         uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
         with:
           python-version: "3.13"
+      - name: Instalar dependencia de validación PNG
+        run: python -m pip install --disable-pip-version-check -r tools/requirements-validation.txt
       - name: Validar traducciones y glifos
         working-directory: native
         run: python tools/check-localization.py --require-fonts
