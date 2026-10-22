@@ -1,0 +1,39 @@
+builddir = /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host
+rule step1
+  command = ccache /usr/bin/clang++-18 -std=c++20 -O2 -Wall -Wextra -Werror -I /mnt/d/TALLERDECOLADAPS-OpenGL-UI/.deps/native/zlib/root/usr/include -MD -MF /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/native_app_builder.o.d -c /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/native_app_builder.cpp -o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/native_app_builder.o 
+  description = CXX native_app_builder.o
+  depfile = /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/native_app_builder.o.d
+  deps = gcc
+build /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/native_app_builder.o: step1 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/native_app_builder.cpp /usr/bin/clang++-18
+rule step2
+  command = ccache /usr/bin/clang++-18 -std=c++20 -O2 -Wall -Wextra -Werror -I /mnt/d/TALLERDECOLADAPS-OpenGL-UI/.deps/native/zlib/root/usr/include -MD -MF /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/self_container.o.d -c /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/self_container.cpp -o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/self_container.o 
+  description = CXX self_container.o
+  depfile = /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/self_container.o.d
+  deps = gcc
+build /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/self_container.o: step2 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/self_container.cpp /usr/bin/clang++-18
+rule step3
+  command = ccache /usr/bin/clang++-18 -std=c++20 -O2 -Wall -Wextra -Werror -I /mnt/d/TALLERDECOLADAPS-OpenGL-UI/.deps/native/zlib/root/usr/include -MD -MF /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/elf_object.o.d -c /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/elf_object.cpp -o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/elf_object.o 
+  description = CXX elf_object.o
+  depfile = /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/elf_object.o.d
+  deps = gcc
+build /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/elf_object.o: step3 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/elf_object.cpp /usr/bin/clang++-18
+rule step4
+  command = ccache /usr/bin/clang++-18 -std=c++20 -O2 -Wall -Wextra -Werror -I /mnt/d/TALLERDECOLADAPS-OpenGL-UI/.deps/native/zlib/root/usr/include -MD -MF /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/sce_module_writer.o.d -c /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/sce_module_writer.cpp -o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/sce_module_writer.o 
+  description = CXX sce_module_writer.o
+  depfile = /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/sce_module_writer.o.d
+  deps = gcc
+build /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/sce_module_writer.o: step4 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/sce_module_writer.cpp /usr/bin/clang++-18
+rule step5
+  command = ccache /usr/bin/clang++-18 -std=c++20 -O2 -Wall -Wextra -Werror -I /mnt/d/TALLERDECOLADAPS-OpenGL-UI/.deps/native/zlib/root/usr/include -MD -MF /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc_builder.o.d -c /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/libc_builder.cpp -o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc_builder.o 
+  description = CXX libc_builder.o
+  depfile = /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc_builder.o.d
+  deps = gcc
+build /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc_builder.o: step5 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/tooling/native/libc_builder.cpp /usr/bin/clang++-18
+rule step6
+  command = /usr/bin/clang++-18 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/native_app_builder.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/self_container.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/elf_object.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/sce_module_writer.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/.deps/native/zlib/root/usr/lib/libz.a -o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/ps5-native-tool 
+  description = LINK ps5-native-tool
+build /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/ps5-native-tool: step6 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/native_app_builder.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/self_container.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/elf_object.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/sce_module_writer.o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/.deps/native/zlib/root/usr/lib/libz.a /usr/bin/clang++-18
+rule step7
+  command = /usr/bin/clang++-18 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc_builder.o -o /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc-builder 
+  description = LINK libc-builder
+build /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc-builder: step7 /mnt/d/TALLERDECOLADAPS-OpenGL-UI/build/host/libc_builder.o /usr/bin/clang++-18
