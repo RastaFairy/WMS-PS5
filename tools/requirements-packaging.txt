@@ -1,0 +1,2 @@
+# Pinned PS5-compatible .ffpfsc image packer.
+mkpfs==1.1.0

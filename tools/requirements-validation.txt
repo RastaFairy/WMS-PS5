@@ -1,0 +1,2 @@
+# Pillow is used by image and atlas integrity validators.
+Pillow>=10.0,<13

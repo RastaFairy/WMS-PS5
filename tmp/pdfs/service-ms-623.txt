@@ -1,0 +1,3472 @@
+
+===== PDF page 1 =====
+Operating
+Instructions Manual for
+LOGI CONTROL
+LOGI PRO CONTROL
+GIRBAU, SA
+Crta de Manlleu, km. 1
+08500 VIC (Barcelona) • SPAIN
+National sales:
+T.(+ 34) 902 300 359
+comercial@girbau.es
+International sales:
+T.(+ 34) 938 862 219
+sales@girbau.es
+Service:
+T.(+ 34) 902 300 357
+sat@girbau.es EN
+www.girbau.es
+LOGI
+For USA and CANADÁ:
+CONTINENTAL GIRBAU Inc.
+2500 State Road 44
+LOGIPRO
+WI 54904 Oshkosh • USA
+Tel. 1(920) 231-8222
+control
+info@continentalgirbau.com
+www.continentalgirbau.com
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 2 =====
+Model From serial no.
+High speed
+HS-6008 2,080,884
+HS-6013 2,110,200
+HS-6017 2,120,320
+HS-6023 2,140,001
+HS-6024 2,390,001
+EH020 1,430,001
+EH030 1,460,021
+EH040 1,470,060
+EH055 1,490,001
+EH060 2,400,001
+Medium speed
+RMS610 2,021,494
+RMS/RMG613 2,330,000
+RMS/RMG617 2,340,000
+RMS/RMG623 2,350,000
+RMS/RMG628 2,410,001
+REM025 1,371,423
+REM/RMG033 2,360,000
+REM/RMG040 2,370,000
+REM/RMG055 2,380,000
+REM/RMG070 2,420,001
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 3 =====
+Contents
+3
+CONTENTS
+SAFETY INSTRUCTIONS ....................................................................................................................................... 6
+1. INTRODUCTION AND APPLICATION ................................................................................................................ 9
+2. DESCRIPTION .................................................................................................................................................... 9
+2.1. Intended use of the machine and inappropriate use .................................................................................... 9
+2.2. Construction characteristics ......................................................................................................................... 9
+2.3. Protection, safety and control elements ..................................................................................................... 10
+2.4. Safety functions .......................................................................................................................................... 10
+2.5. Characteristics of the controls .................................................................................................................... 10
+3. MODES OF USE ............................................................................................................................................... 11
+4. PROGRAM EXECUTION MODE ...................................................................................................................... 12
+4.1. LOGI CONTROL control panel ................................................................................................................... 12
+........................................................................................................................................................................... 12
+4.2. LOGI PRO CONTROL control panel .......................................................................................................... 13
+4.3. Stop modes ................................................................................................................................................ 14
+4.3.1. End of cycle ........................................................................................................................................ 14
+4.3.2. Interrupting a program ........................................................................................................................ 14
+4.4. Unbalance control ....................................................................................................................................... 15
+4.5. Loading the washing machine .................................................................................................................... 15
+4.6. Using the dispenser .................................................................................................................................... 16
+4.7. Starting a program ...................................................................................................................................... 17
+4.8. Modifying a program in progress ................................................................................................................ 19
+4.8.1. Program acceleration ......................................................................................................................... 19
+4.8.2. Crease-guard stop .............................................................................................................................. 19
+4.9. DELAY option ............................................................................................................................................. 19
+4.9.1. Delaying a program ............................................................................................................................ 20
+4.10. Consultations during a program ............................................................................................................... 20
+LOGI CONTROL. SPECIFIC INFORMATION ...................................................................................................... 22
+5. LOGI CONTROL. WASH PROGRAMS ............................................................................................................. 22
+5.1. Main reports that appear on the display ..................................................................................................... 22
+5.2. Interpretation of the program tables ........................................................................................................... 23
+5.3. Original content of the washing programs .................................................................................................. 24
+5.3.1. General application. HS, RMS models ............................................................................................... 24
+5.3.2. USA/Canada application. EH020 model: SP-0 .................................................................................. 25
+5.3.3. USA/Canada application. EH020 model: SP-I; EH, REM: other models except REM025 ................ 26
+5.3.4. United Kingdom application. HS, RMS models .................................................................................. 27
+6. LOGI CONTROL. ADVANCED USE MODE ..................................................................................................... 28
+6.1. ADVANCED MODE menus ....................................................................................................................... 28
+6.2. Access to ADVANCED MODE .................................................................................................................. 28
+6.3. Modifying the contents of programs. Menu Pro.......................................................................................... 28
+6.4. Initial program content ................................................................................................................................ 29
+6.4.1. General application HS, RMS models ................................................................................................ 29
+6.4.2. USA/Canada application. EH020 model: SP-0 .................................................................................. 30
+6.4.3. USA/Canada application. EH020 model: SP-I; EH, REM: other models except REM025 ................ 31
+6.4.4. United Kingdom application. HS, MS, RMS models ......................................................................... 32
+6.5. Modifying a program ................................................................................................................................... 33
+6.5.1. Programming vectors ......................................................................................................................... 33
+6.5.2. Definition of phases ............................................................................................................................ 33
+6.5.3. Definition of programmable functions and values for each phase ..................................................... 34
+6.5.4. Program modification sequence ......................................................................................................... 35
+6.6. Information menu. INFO menu ................................................................................................................... 39
+6.7. Modifying the operating parameters. Mod menu ........................................................................................ 40
+6.7.1. Summary table of the changeable parameters .................................................................................. 40
+6.7.2. Summary table of the changeable parameters Applicable only in the United Kingdom .................... 41
+6.7.3. Parameter modification sequence ...................................................................................................... 42
+6.8. Code for accessing the ADVANCED USE MODE. Ncod menu ................................................................. 46
+6.8.1. Modifying of the access code ............................................................................................................. 46
+6.9. System clock. Hour Menu........................................................................................................................... 46
+6.9.1. Setting the clock ................................................................................................................................. 46
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 4 =====
+Contents
+4
+LOGI PRO. SPECIFIC INFORMATION ................................................................................................................ 47
+7. LOGI PRO. WASH PROGRAMS ...................................................................................................................... 47
+7.1. Main reports that appear on the display ..................................................................................................... 47
+7.2. Interpretation of the program tables ........................................................................................................... 48
+7.3. Original content of the washing programs .................................................................................................. 49
+7.3.1. General application. HS-6008, RMS610, RMG models ..................................................................... 49
+7.3.2. USA/CANADA application. EH020, REM025, RMG models ............................................................. 51
+7.3.3. United Kingdom application. HS-6008, RMS610, RMG models ........................................................ 53
+8. LOGI PRO. ADVANCED USE MODE ............................................................................................................... 55
+8.1. ADVANCED MODE menus ....................................................................................................................... 55
+8.2. Access to ADVANCED MODE ................................................................................................................... 55
+8.3. Modifying the contents of programs. Menu Pro.......................................................................................... 55
+8.4. Initial program content ................................................................................................................................ 56
+8.4.1. General application. HS-6008, RMS610, RMG models ..................................................................... 56
+8.4.2. USA/CANADA application. EH020, REM025, RMG models ............................................................. 58
+8.4.3. United Kingdom application. HS-6008, RMS610, RMG models ........................................................ 60
+8.5. Modifying a program ................................................................................................................................... 62
+8.5.1. Programming vectors ......................................................................................................................... 62
+8.5.2. Definition of programmable functions and values for each phase ..................................................... 62
+8.5.3. Program modification sequence ......................................................................................................... 63
+8.6. Information menu. INFO menu ................................................................................................................... 67
+8.7. Modifying the operating parameters. Mod menu ........................................................................................ 68
+8.7.1. Summary table of the changeable parameters .................................................................................. 68
+8.7.2. Parameter modification sequence ...................................................................................................... 68
+8.8. Code for accessing the ADVANCED MODE. Ncod menu ......................................................................... 71
+8.8.1. Modifying of the access code ............................................................................................................. 71
+8.9. System clock. Hour Menu........................................................................................................................... 71
+8.9.1. Setting the clock ................................................................................................................................. 71
+INFORMATION COMMON TO BOTH LOGI CONTROL AND LOGI PRO CONTROL ....................................... 72
+9. TROUBLESHOOTING....................................................................................................................................... 72
+9.1. Freeing a trapped person ........................................................................................................................... 72
+9.2. Manual releasing the safety lock ................................................................................................................ 72
+9.3. Disassembling the door of the washing machine ....................................................................................... 73
+9.4. What to do when … .................................................................................................................................... 74
+9.5. System alarms ............................................................................................................................................ 75
+10. MAINTENANCE ............................................................................................................................................... 76
+10.1. Cleaning the washer ................................................................................................................................. 76
+10.2. Cleaning the door seal.............................................................................................................................. 76
+10.3. Cleaning the solenoid valve filters ............................................................................................................ 77
+10.4. Checking safety mechanisms ................................................................................................................... 77
+10.4.1. Checking the door lock ..................................................................................................................... 77
+10.4.2. Checking the emergency stop .......................................................................................................... 78
+10.5. Cleaning the dispenser ............................................................................................................................. 79
+10.5.1. Washers with front dispenser ........................................................................................................... 79
+10.5.2. Washers with top dispenser ............................................................................................................. 79
+10.6. Cleaning the drain pump .......................................................................................................................... 80
+10.7. Checking the condition of the bearing housing seals ............................................................................... 80
+10.8. General Overhaul ..................................................................................................................................... 80
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 5 =====
+Safety instructions
+5
+WARNING!
+IMPORTANT SAFETY INSTRUCTIONS
+WARNING: To reduce the risk of fire, electric shock or injury to persons when using the machine, follow basic
+precautions, including the following:
+1. READ all instructions before using the machine, and KEEP them in a prominent location for customer use.
+2. Do not wash articles that have been previously cleaned in, washed in, soaked in, or spotted with gasoline,
+dry cleaning solvents, and other flammable or explosive substances as they GIVE OFF VAPOURS that
+could ignite or explode.
+3. DO NOT ADD gasoline, dry-cleaning solvents, or other flammable or explosive substances to the wash
+water. These substances give off vapours that could ignite or explode.
+4. Under certain conditions, hydrogen gas may be produced in a hot water system that has not been used for
+two weeks or more. HYDROGEN GAS IS EXPLOSIVE. If the hot water system has not been used for such
+a period, before using the washing machine, turn on all hot water faucets and let the water flow from each
+for several minutes. This will release any accumulated hydrogen gas. As the gas is flammable, do not
+smoke or use an open flame during this time.
+5. Do not allow children to play on or in the washer. CLOSE SUPERVISION of children is necessary when the
+washer is used near children.
+6. Before the washer is removed from service or discarded, REMOVE the door.
+7. DO NOT TRY TO OPEN THE WASHER’S DOOR if the drum is moving.
+8. Do not install or store the washer where it will be exposed to the WEATHER.
+9. DO NOT TAMPER with controls.
+10. DO NOT REPAIR OR REPLACE any part of the washer or attempt any servicing, unless this is specifically
+recommended in the user instructions or in published user-repair instructions that you understand and have
+the skills to carry out.
+11. DO NOT REMOVE any safety device OR MODIFY OR MANIPULATE any component or part of the
+machine. DO NOT INSTALL any extra elements inside the machine.
+12. Any part of the machine that is replaced may affect its operation and the user’s safety. For this reason,
+USE ONLY THE MANUFACTURER’S ORIGINAL SPARE PARTS. Failure to comply with this warning can
+cause serious accidents, malfunctions and the loss of the machine’s guarantee and certifications.
+13. Failure to comply with or observe the legislation and regulations covering health, safety and prevention of
+risks in the workplace applicable in the country where the machine has been installed, or actions contrary
+to common sense, MAY CAUSE personal injury or even death to the user.
+14. The machine should only be used for those purposes established by the manufacturer and following the
+instructions for use set out in the instruction manuals. Any use not specified in the manuals may lead to
+additional risks. Pay special attention to information headed DANGER, WARNING and PRECAUTION.
+15. The room where the machine is located MUST comply with the environmental conditions (air venting,
+temperature, humidity, etc.) specified in the technical specifications table. NEVER INSTALL THE
+MACHINE IN ENVIRONMENTS where it will be splashed with water or where there is a very high level of
+humidity in the atmosphere.
+16. Clearly mark out danger areas and PREVENT public access to them when the machine is operating. Do
+not expose yourself to drainage areas or to vapour, condensation, combustion gas or ventilation outlets.
+17. All machines working at temperatures present a fire risk. Take EXTREME care: CLEAN the machine of
+inflammable materials: lint, fluff, soot, etc. on a regular basis. KEEP the environment free of combustible
+materials and PLACE suitable extinguishers near the machine in easily accessible places.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 6 =====
+Safety instructions
+6
+18. All installations required for the proper operation of the machine MUST be carried out by a duly accredited
+Registered Installation Contractors (see Note 3), in compliance with the legal regulations applicable in the
+country of use.
+19. The machine MUST be commissioned by the Authorised Technical Service in the presence of the
+Customer Technical Service (see Notes 2 and 4) or a responsible person appointed by the customer.
+20. This machine MUST BE USED by personnel who are properly trained in how to use it (see Note 1).
+21. NEVER START THE MACHINE, OR USE IT, IF THE FOLLOWING ARE ABSENT, INCORRECTLY
+POSITIONED OR MALFUNCTIONING:
+• COVERS (GUARDS) AND PROTECTIVE DEVICES
+• SAFETY DEVICES
+• CONTROL ELEMENTS
+22. DO NOT USE the machine if you notice any abnormal noise or smell or if you suspect that the machine is
+faulty or defective.
+23. The inspections required by the regulations applicable to the country where the machine is being used
+must be carried out. It is advisable to request an overall, detailed service of the machine by the Authorised
+Technical Service every year (see Note 2).
+24. WARNING!!
+INSPECTION, MAINTENANCE OR REPAIR OPERATIONS
+Before carrying out any action on the machine:
+• Close and mechanically lock the manual fluid supply valves.
+• Check that the bath has COMPLETELY drained, that no part of the machine is at a high temperature
+and that no circuits or containers are under pressure.
+• Check that all the machine’s moving parts are halted or in their rest position. Securely fix all the
+machine’s moving parts that could cause an accident.
+To reduce the risk of electric shock:
+• COMPLETELY disconnect the machine from the mains power supply and take steps to prevent
+accidental reconnection. TURNING OFF THE ON SWITCH OR PRESSING THE STOP KEY IS NOT
+ENOUGH.
+• Disconnect the electrical connection of any circuit external to the machine; for example external dosing
+equipment, central vending units, linen feeders or folders, etc. The electrical connection for these circuits
+is independent of the machine’s electrical connection.
+• To prevent the risk of electrical discharge caused by residual voltage, wait at least five minutes before
+removing any guard or cover from the machine.
+Failure to follow these warnings may cause a serious accident.
+25. CONTACT the Installation Contractors or the Authorised Technical Service (see Notes 3 and 2) in the event
+of any doubt, anomaly or problem.
+26. It is advisable to copy and enlarge the SAFETY INSTRUCTIONS and place them in a visible place in the
+laundry.
+27. THE MANUFACTURER ACCEPTS NO RESPONSIBILITY IF THESE SAFETY INSTRUCTIONS AND ALL
+THE INFORMATION IN THE CORRESPONDING MANUALS ARE NOT FOLLOWED.
+SAVE THESE INSTRUCTIONS.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 7 =====
+Safety instructions
+7
+SYMBOLS USED IN MACHINE LABELLING
+Electrical risk High temperature risk
+Protective guard for elements carrying Handle with caution.
+an electric current. Use adequate protection.
+Risk of inhaling harmful or irritant
+Mechanical risk vapours
+Protective guard for moving parts. Keep the doors/covers closed.
+Use adequate protection.
+Flame risk (only on some machines) Risk of falling
+Protective guard for flame. Use proper access and safety methods.
+Refer to instruction
+Access prohibited
+manual/booklet
+SYMBOLS USED IN THIS MANUAL
+Symbol used to highlight a possible This symbol is used to emphasise a
+HAZARD, WARNING or NOTE. particular explanation.
+TRANSLATION OF THE ORIGINAL MANUAL
+NOTES:
+(1) Trained personnel refers to those who have read and understood the Instruction Manual, who have been trained by the Authorised
+Technical Service or by a representative of the customer present at the start-up who is familiar with the operation of the machine and is
+authorised to use it.
+(2) Authorised Technical Service (ATS) is one that has been recognised under contract and properly trained by the manufacturer.
+(3) Registered Installation Contractors are those officially approved by the government of the country the machine is to be installed.
+(4) Customer Technical Service (CTS) is one that has been authorised by the customer and which has sufficient basic technical knowledge
+to correctly interpret and carry out the actions attributed to it in this manual. The manufacturer strongly recommends that the customer
+should have its own technical service, particularly in laundries with large-scale machinery installations.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 8 =====
+Safety instructions
+8
+IMPORTANT INSTRUCTIONS FOR USE AND PRESERVATION
+1. INTENDED USE OF THE MACHINE AND INAPPROPRIATE USE. This machine is designed and intended
+solely for processing fabrics washed in a water bath or that have been previously treated in these
+conditions. Any use other than this is contraindicated without written authorisation from the manufacturer.
+2. Maximum output, performance, reliability and durability are achieved when the machine is installed, used
+and maintained correctly, and if a comprehensive and detailed service is carried out annually by the
+Authorised Technical Service.
+3. The machine’s MATERIALS that are in direct contact with the chemical products involved in treating the
+linen are detailed in the manual.
+4. The user must consult the supplier of the chemical products USED THROUGHOUT THE WHOLE LINEN
+TREATMENT PROCESS regarding the risks associated with its products and their combination. It must be
+confirmed that the products are not flammable, ARE MUTUALLY COMPATIBLE, and that they will not
+cause oxidisation or deterioration of the machine or any injury to the people using them.
+It should be noted that, under certain conditions of use, hypochlorite (bleach) generates chlorine gas.
+Chlorine is a corrosive, oxidising substance which, at high concentrations and temperatures, damages
+stainless steel and elastomers.
+This same effect can also be caused by other strongly oxidising agents, including ozone.
+5. FOLLOW the treatment recommendations for each fabric indicated by its manufacturer. THE
+MANUFACTURER OF THE MACHINE accepts no responsibility for damage caused by inappropriate
+treatment of a fabric.
+6. Periodically CLEAN the outside of the machine to prevent damage to its metal parts. This will improve
+safety and extend its life. To clean the machine, use water and detergent. Rinse with a damp cloth and
+then dry off. To remove accumulated lint, use a suitable vacuum cleaner. Water jet or pressurised steam
+cleaning is prohibited.
+7. NEVER use aggressive products to clean the machine or the premises. There are products on the market
+that give off highly corrosive vapours.
+8. If the machine is left idle for long periods of time, it must be thoroughly PROTECTED from humidity and
+temperature variations.
+9. Faults arising from improper machine operation may VOID THE WARRANTY.
+10. When asking for information on your machine, MENTION the model and serial number. This information
+can be found on the specification nameplate incorporated into the machine.
+With every machine, the manufacturer provides all the necessary technical information and documents required
+for its use. KEEP IT IN GOOD CONDITION.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 9 =====
+Description
+9
+1. INTRODUCTION AND APPLICATION
+This manual contains the OPERATION, PROGRAMMING and ADVANCED USE MODE instructions for
+washing machines with LOGI CONTROL and LOGI PRO CONTROL systems.
+Most of the contents in this manual are common for both controls. However, the information on
+PROGRAMMING and ADVANCED USE MODE is specific for each control. See the Contents section.
+Application
+This manual applies to the following models:
+LOGI CONTROL.
+Applicable to HS-6, EH models with software version 25 or higher
+Applicable to RMS and REM models (except REM025) with software version 01 or higher.
+LOGI PRO
+Applicable to HS-6008, RMS610, RMG, EH020, REM025 and RMG models with software version 01 or
+higher.
+2. DESCRIPTION
+Washer extractor designed to wash or treat fabric in a water bath.
+2.1. Intended use of the machine and inappropriate use
+This machine has been made and designed for treating textile materials in a water bath. These textile materials
+must be free of flammable or explosive products. Unless approved by the manufacturer in writing, it is not
+considered appropriate for any other use.
+Under-loading as well as overloading is not recommended. Always endeavour to match the capacity of the
+machine.
+It is not advisable to insert bags full of laundry. Where necessary, load the machine up to its set limit.
+It is not recommended to spin carpeting, canvas or waterproof fabrics.
+2.2. Construction characteristics
+• HIGH SPEED MODELS (HS / EH). Washing machines capable of spinning at a speed higher than 350G
+(280G in model HS-6008/EH020) without needing to be bolted down. The design of its suspension system
+cushions up to 95% of the vibrations produced during the spin cycle.
+• MEDIUM SPEED MODELS (RMS/REM/RMG). Hard-mount construction. They have to be bolted down to
+the floor.
+Approximate spin speed: 125G, 150G, on models RMS, REM.
+Spin speed: 200G on models RMG.
+• Stainless steel inner and outer drum. The openings in the drum blades promote the uniform distribution of
+bath water and improve the yield of the washer both during the wash and the rinse cycles.
+• The drum rotation is produced by an asynchronous AC motor controlled by an inverter.
+• The hot and cold water connections have a safety mechanism to prevent contaminating by back-flowing
+into the general drinking water system.
+• Large capacity drain valve. (Option for pump drainage in models HS-6008/EH020).
+• Water inlets and all product dispensers made using a common collector with an anti-siphon mechanism.
+• Option for heating the bath using electric heaters or steam injection.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 10 =====
+Description
+10
+2.3. Protection, safety and control elements
+• Fixed guards: Covers. These prevent access to dangerous points or moving parts. Protect from accidental
+machine spattering.
+• Moving guards:
+Dispenser cover.
+Door with interlock microswitch, door lock and delayed opening.
+• Overflow. When the bath level is exceeded due to solenoid valve failure, the bath is drained through the
+drain outlet.
+• Thermal fuse to protect the electric heaters.
+• Emergency stop: a red button on a yellow background, located at the front of the machine. Stops the
+machine from operating and opens the drain valve (applicable in models with a load equal to or exceeding
+13 kg / 30 lb.)
+• Electric circuit safety measures: To protect the electric circuit against external malfunctions and prevent
+any malfunctioning from causing harm to the operator.
+• Sound alarm: Among other functions, the acoustic signal warns of possible alarms.
+• Unbalance microswitch. (Only in high speed models). Additional electromechanical safety to protect
+against unbalance of drum load during the spin cycle.
+2.4. Safety functions
+• Bath level control. Allows selecting different bath levels during the wash cycle and controls the overflow
+safety and minim level of connection to the heating system and door opening.
+• Temperature control. Allows selecting the bath temperature during the wash cycle and controls the bath
+insufficient temperature and overheat safeties.
+• Unbalance control. Repositioning of the washer's load if the inverter power control detects unbalance.
+• Door opening safety. Allows the opening of the door in safety conditions.
+• Safety measures against entrapment. To reduce the risk of a child becoming trapped inside a washing
+machine while playing, or to help in freeing them during the first moments of launching a program, the
+running sequence of a wash cycle is as follows:
+After giving the start order, a 30-second security time is started during which the drum rotation and the water
+inlet operate at short impulses and door remains released. Further information in Sections: Freeing a trapped
+person (Chapter 9) and Stopping methods (Chapter 4)
+2.5. Characteristics of the controls
+• Operation of the washer controlled by microprocessor.
+• Operation of the washer adaptable to the possibilities of the installation and the needs of the user.
+• Great versatility in individually modifying the content of each program. Further information in specific sections
+of the advanced use mode.
+• Temperature control achieved by the hot and cold water mixer in accordance with the programmed
+temperature and the activation of the heating system. Precision of +/- 2 ºC (+/- 3,5 ºF).
+• Level control achieved using an electronic pressure transmitter.
+• Series communication between the washer microprocessor and the inverter’s control of the motor.
+• Multiple controls that assure the safe use of the washer.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 11 =====
+Modes of use
+11
+3. MODES OF USE
+LOGI CONTROL and LOGI PRO CONTROL present TWO MODES OF USE.
+PROGRAM EXECUTION MODE
+Covers the functions or interventions aimed at:
+• Selecting and executing the various wash programs.
+• Programming the delayed start of a program.
+• Accessing information about the different functions that the washing machine is executing.
+• Making small specific modifications to the program being executed.
+Information regarding this intervention mode: Chapter 4 of this manual.
+ADVANCED USE MODE
+Covers the functions or interventions aimed at:
+• Modifying or displaying the content of the washing programs.
+• Consult the software version for the washer and the contents of the different program meters.
+• Modifying the general operating parameters.
+• Modifying the access code for Advanced use mode.
+• Setting the time of the system clock (optional).
+• LOGI CONTROL models. Information regarding this intervention mode: Chapter 5 and 6.
+• LOGI PRO CONTROL models. Information regarding this intervention mode: Chapter 7 and 8.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 12 =====
+Program execution mode
+12
+4. PROGRAM EXECUTION MODE
+4.1. LOGI CONTROL control panel
+Fig. 4.1
+CONTROL PANEL
+A ON switch
+B Display
+C LEDs indicating the phase of the program in progress
+D LED indicating end of cycle
+E Starting and stopping a program
+Access to the ADVANCED USE MODE
+Start program delay (option)
+Modification of the program in progress
+F
+Selection and movement keys
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 13 =====
+Program execution mode
+13
+4.2. LOGI PRO CONTROL control panel
+Fig. 4.2
+CONTROL PANEL
+A ON switch
+B Display
+C Load selection indicator LEDs
+D Starting and stopping a program
+Access to the ADVANCED USE MODE
+Start program delay (option)
+Modification of the program in progress
+E
+Selection and movement keys
+F Rinse hold function activated
+G Start delayed program
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 14 =====
+Program execution mode
+14
+4.3. Stop modes
+4.3.1. End of cycle
+The acoustic warning and the End report on the display inform the user that the program has finished and that
+the door lock is released.
+4.3.2. Interrupting a program
+A. Key. This key interrupts a washing program. STOP appears on the display. Once the safety delay
+has finished, the acoustic warning and the End report on the display inform the user that the program has
+finished and that the door lock is released.
+B. Emergency stop
+(Except on models with a load of less than 13 kg / 30 lb)
+Pressing the EMERGENCY switch once interrupts the washer operation and opens the drain valve. The
+corresponding alarm report appears on the display.
+After a delay of approximately 3 minutes, the door is released.
+To resume the wash cycle, release the switch and press the key ONCE.
+To cancel the wash cycle, release the switch and press the key TWICE.
+C. Other stopping methods include:
+• Disconnecting the ON/OFF switch
+• Disconnecting the SWITCH DISCONNECTOR
+• Disconnecting the EXTERNAL AUTOMATIC SWITCH
+We do not recommend these stop methods, except in an emergency. In these cases, as long as the door
+remains closed, the machine will understand that there has been a power failure. When the power is switched
+back on, the machine will resume the program in progress.
+When a washing program is interrupted by electrical power failure, disconnecting the switches
+described in this section, or activating the Emergency Stop, the door lock mechanism stops being
+controlled by the microprocessor and the opening of the door is thermally delayed. In these circumstances, it
+is normal to have a washer delay or inactive time of about 3 minutes.
+Never disconnect these switches to rescue a person trapped inside the washing machine. See
+information with regard to this in Chapter 9.
+D. Interruption of the power supply. The operation of the washing machine is interrupted: the drain valve
+opens and after a delay of approximately 3 minutes, the door is released.
+If the door remains closed when the power supply is re-established, the wash cycle is resumed.
+If the door is open, the wash cycle is cancelled.
+On machines with pumped drain, the disconnection of the external automatic switch or the ON switch
+does not allow the bath to drain.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 15 =====
+Program execution mode
+15
+4.4. Unbalance control
+Before starting the spin, the washing machine’s electronic control checks the correct distribution of the load.
+If it detects that the load is not well distributed and that can cause an excessive unbalance during the spin, the
+linen will be repositioned.
+If there is still unbalance during the final phase spin, the washer can end the washing cycle at a reduced spin
+speed.
+Unbalance control with a micro-switch (HS/EH models only). It is only activated in cases of extreme unbalance.
+To improve the efficiency of the washer’s spin, it is advisable to:
+• Load the washer up to its nominal value.
+• Load the washer with homogeneous loads.
+4.5. Loading the washing machine
+Group the fabrics to be washed into homogeneous loads, attempting wherever possible to reach the nominal
+value of the load. Empty all pockets, fasten buttons, close zippers and remove accessories that are not machine-
+washable. Mixing whites with other colours is not recommended.
+Open the door and load the machine.
+Washer load recommendations according to the type of fabric to be washed:
+Cotton fabrics: nominal load
+Synthetic fabrics: between 80% & 90% of nominal load
+Delicate fabrics: between 35% & 50% of nominal load
+Do not overload the machine; the door must be able to close easily.
+Whilst the door is open, the display reads door indicating that the door must be closed in order for the program
+to begin.
+Health and safety instructions for loading and unloading the washer
+Installing washing machines on raised bases or pedestals, in accordance with the instructions set out in the
+corresponding installation manuals, aids in loading and unloading the machine by avoiding the need to adopt
+awkward positions.
+Use linen collecting and transporting containers that are of a suitable height for the washer size. Consult the
+dimensions of the washers set out in the corresponding installation manual.
+Take care not to overload the machine. Overloading the washer leads to excessive strain when processing the
+linen.
+Certain chemical products that are used in the washing process are toxic. Handle them with care and wear
+appropriate protection.
+Follow the legislation and regulations for Health and Safety in the Workplace in force in the country where the
+machine has been installed.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 16 =====
+Program execution mode
+16
+4.6. Using the dispenser
+Fill the compartments with the corresponding products, according to these symbols:
+Fig. 4.3 Fig. 4.4
+Symbols used in the dispenser (Fig. 4.3, 4.4).
+LOGI CONTROL LOGI PRO CONTROL
+Powdered detergent for pre-wash Dispensing compartment 1 (powder)
+Powdered detergent for wash Dispensing compartment 2 (powder)
+Liquid bleach (chlorine, bleach, etc.) Dispensing compartment 3 (liquid)
+Liquid softener / neutraliser Dispensing compartment 4 (liquid)
+IN ORDER TO OPERATE CORRECTLY AND TO PREVENT POSSIBLE DAMAGE AND SPLASHING, THE
+DISPENSER DRAWER MUST ALWAYS REMAIN CLOSED, EXCEPT WHEN ADDING PRODUCTS.
+SUDS CONTROL
+The mechanical action of front-loading washing machines improves the quality of the wash but
+encourages the creation of suds.
+Remember that a suds bath always reduces the efficiency of your wash. ALWAYS USE CONTROLLED
+SUDS DETERGENT.
+Models with a capacity lower than 13 kg (30 lb) incorporate a group of programmes (SP-I) for a superior
+rinse efficiency.
+Oversudsing causes an increase in the pressure inside the machine and decreases the efficiency of the
+sealing systems.
+Repeated washing with a large amount of suds considerably reduces the life of seals and bearings.
+THIS CIRCUMSTANCE IS NOT COVERED BY THE MACHINE’S WARRANTY.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 17 =====
+Program execution mode
+17
+4.7. Starting a program
+LOGI CONTROL
+• Close the door of the washing machine. The door report on the display will change to Pr-* (last executed
+program). (If Pr does not appear on the display, repeat the door closing operation).
+• Select the desired program with the program selection keys. The selected program number will be shown on
+the display. (To find out the initial content of each program, see Section 5.3.: Content of the washing
+programs).
+• Place the washing products in the dispenser and close the cover.
+• After pressing the ; key, the temperature value will appear for the washing phase.
+• The / keys enable the temperature of the program selected to be modified. (This option can be
+disabled in the Mod menu (see Section 6.7).
+• Press the key again to confirm the temperature selected and start the washing program.
+• Door lock. After giving the start order, a 30-second security time is started during which the drum rotation
+and the water inlet operate at short impulses and door remains released. At the end of this time, the locking
+mechanism closes and the wash cycle begins.
+• While the program is running, and depending on the configuration of parameter dt in the Mod, menu, the
+display will show the various functions being executed by the washing machine or the time remaining for the
+program (see Section 6.7)
+• Once the program has finished, the door will remain locked until the end of program LED indicator comes on
+and the turn and the End report appears on the display.
+• If the washing temperature has been modified at the start of the program, once the program has finished the
+temperature returns to the programmed value.
+DOOR FITTED WITH SAFETY LOCK
+Never attempt to open the door if:
+• the program has not finished.
+• the drum has not come to a complete halt.
+• the bath has not been completely evacuated.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 18 =====
+Program execution mode
+18
+LOGI PRO CONTROL
+• Close the door of the washing machine. The door report on the display will change to Pr-* (last executed
+program).If Pr does not appear on the display, repeat the door closing operation).
+• Select the desired program with the program selection keys. The selected program number will be shown on
+the display. (To find out the initial content of each program, see Section 7.3.: Content of the washing
+programs).
+• Place the washing products in the dispenser and close it.
+• Pressing the key will cause the LOAd report to be shown on the display. The load selection LEDs
+light up.
+• The / keys allow the user to modify the machine's load selection. The load selection LEDs switch on
+or off depending on the load selected. (This option can be disabled in the Mod menu (see Section 8.7).
+• Press the key again to confirm the load selected and start the washing program.
+• Door lock. After giving the start order, a 30-second security time is started during which the drum rotation
+and the water inlet operate at short impulses and door remains released. At the end of this time, the locking
+mechanism closes and the wash cycle begins.
+• While the program is running, and depending on the configuration of parameter dt in the Mod, menu, the
+display will show the various functions being executed by the washing machine or the time remaining for the
+program (see Section 8.7)
+• Once the program has finished, the door will remain locked until End appears on the display.
+• Once the program has finished, the load selection returns to the maximum value.
+DOOR FITTED WITH SAFETY LOCK
+Never attempt to open the door if:
+• the program has not finished.
+• the drum has not come to a complete halt.
+• the bath has not been completely evacuated.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 19 =====
+Program execution mode
+19
+4.8. Modifying a program in progress
+4.8.1. Program acceleration
+You can modify the duration of a program whilst it is in progress.
+• Press the key to activate the option. The display will flash.
+• Pressing the key repeatedly increases the rotation times minute by minute. The duration of the spin
+cycle cannot be increased.
+• Pressing the key repeatedly decreases the rotation or spin times.
+• Moving on to the subsequent phase. Moving on from one phase to the next is delayed. Press the key
+until the end of the phase and wait a few moments until the first operation of the next phase appears.
+Continue pressing the key.
+• After a few seconds without pressing any key the display will remain fixed and the modification option is
+deactivated.
+Important: (UK only) The duration of the bath filling phase in Program 3 cannot be altered.
+4.8.2. Crease-guard stop
+A function exclusive to LOGI CONTROL
+Once the washing program has started, you can program the drum rotation to stop before the final spin, with the
+objective of avoiding creases.
+To activate this function once the washing cycle has started, press the key for a few seconds. The message
+rh-0 will appear on the display. Press the key. The display message will change to rh-I. The crease-guard
+Stop function has been activated.
+Before the final spin, the drum rotation will be interrupted and the PUSH/ STAR message will appear on the
+display. To resume the program, press the key.
+4.9. DELAY option
+The DELAY option allows you to program the start time of a program depending on the needs of the user. For
+example: to use two-rate electricity, to rationalise electricity consumption, to adjust the laundry production
+system, etc.
+To use the DELAY option (start program delay) it is essential that the washing machine has the
+clock installed that allows operating in real time. If this option is not incorporated originally, it can be
+easily installed. Contact your dealer.
+Before the first use, and each time there is a time change, verify and/or adjust the time on the clock.
+(See ADVANCED USE MODE) Sections 6.9 and 8.9.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 20 =====
+Program execution mode
+20
+4.9.1. Delaying a program
+• Load the washing machine and close the door.
+• Place washing products in the dispenser compartment.
+• Select the program to be used and press the key. The dLY report will appear on the display.
+• To cancel de dLY option, press the key.
+• When dLY is displayed, press the key. The current time will appear on the screen, in hh.mm format
+(hours, minutes, using a 24-hour clock).
+• The minutes are shown flashing. They can be modified using the / keys.
+• Press the button to validate the minutes and start to modify the hours.
+• The hours are shown flashing. They can be modified using the / keys.
+• Once you have chosen the desired start time, press . The start time and the selected program will
+be displayed alternatively.
+• To cancel the delay of a program, select and hold button, for five seconds.
+4.10. Consultations during a program
+Certain washer operating parameters can be consulted while a program is running.
+LOGI CONTROL
+Sequence of parameters that can be consulted and how they are shown on the display:
+dt-0 dt-1
+consultable parameter display consultable parameter display
+Percentage of load detected ** Percentage of load detected **
+percentage of water percentage of water
+%** %**
+consumption and dosing used consumption and dosing used
+Note 1. These parameters can only be consulted if the JL function has been activated on the MOD menu
+(Section 6.7)
+The parameters can be consulted by pressing the key successively while the program is running.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 21 =====
+Program execution mode
+21
+LOGI PRO CONTROL
+Sequence of parameters that can be consulted and how they are shown on the display:
+The parameters that can be consulted vary slightly depending on the dt parameter selected in the Mod menu
+(Section 8.7).
+dt-0 dt-1
+consultable parameter display consultable parameter display
+program running P- ** program running P-**
+remaining program time t-** phase running (see Note 1) Ph**
+Bath temperature C-** Bath temperature C-**
+percentage of water percentage of water
+%-** %-**
+consumption and dosing used consumption and dosing used
+Note 1. The numbering of the phase running refers to the program tables in Section 8.4.
+The parameters can be consulted by pressing the key successively while the program is running.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 22 =====
+LOGI CONTROL. Operation
+22
+LOGI CONTROL. SPECIFIC INFORMATION
+5. LOGI CONTROL. WASH PROGRAMS
+The washer offers the possibility of selecting from among eight different wash programs for different kinds of
+garment and soiling.
+Depending on the AREA OF USE defined in the washing machine SETUP, the original content of the programs
+varies.
+The original content of the programs is defined as indicated in the charts in Section 5.3.
+The content of the programs may be modified; see Chapter 6: ADVANCED USE mode.
+5.1. Main reports that appear on the display
+REPORT MEANING
+Pr-* Program selected. Machine ready to wash
+C-**
+Water temperature in degrees Celsius or Fahrenheit
+F***
+rt-* Rotation time left
+c-** Cooling temperature
+Et-* Spin time remaining
+End End of program. Door unlocked
+door Washer with door open
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 23 =====
+LOGI CONTROL. Operation
+23
+5.2. Interpretation of the program tables
+SYMBOL OPTION DESCRIPTION
+Estimated program time
+ Minimum program time based on a machine with hot water supply and without
+** heating. Time in minutes.
+Phase number
+Ph
+** The phase indicated with a grey background belongs to the wash phase.
+Bath level
+1 Low level
+L
+2 Medium level
+3 High level (units with pumped drain, levels 2 and 3 are the same)
+Temperature of the bath
+C / F
+** Value in degrees Celsius or Fahrenheit
+Dosings
+0 No dosing
+1 Pre-wash dosing
+d
+2 Wash dosing
+3 Bleach dosing
+4 Softener / neutraliser dosing
+Drum rotation sequence
+1 Vigorous sequence rotation: 25 seconds ON / 5 seconds stop
+r
+2 Normal rotation sequence: 15 seconds ON / 15 seconds stop
+3 Light rotation sequence: 5 seconds ON / 25 seconds stop
+Rotation time
+rt
+** Value in minutes
+Gradual cool down
+c 0 Option not available
+1 Option available
+Program stop in final rinse (rinse hold)
+rh 0 Option not available
+1 Option available
+Bath drain
+0 Access to the next phase without draining in the bath
+1 Drain + wash speed
+E
+2 Drain + positioning speed
+4 Drain + medium spin speed
+6 Drain + high spin speed
+Spin time
+Et ** Value in minutes
+- - - - Non programmable function in the phase
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 24 =====
+LOGI CONTROL. Operation
+24
+5.3. Original content of the washing programs
+5.3.1. General application. HS, RMS models
+Pr - 1. EXTRA HEAVY SOIL  66 MIN Pr - 2. HEAVY SOIL – WHITE  56 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 2 20 1 1 2 - - - - - - 0 - - - 1 2 20 0 1 2 - - - - - - 1 - - -
+2 2 40 0 1 6 - - - - - - 1 - - - 2 2 30 1 1 6 - - - - - - 3 3
+3 2 40 1 1 6 - - - - - - 3 3 3 1 60 2 1 10 0 - - - 2 2
+4 1 80 2 1 12 0 - - - 2 2 4 2 40 3 1 6 - - - - - - 1 - - -
+5 2 40 3 1 6 - - - - - - 1 - - - 5 3 - - - 0 1 2 - - - - - - 3 3
+6 3 - - - 0 1 2 - - - - - - 3 - - - 6 3 - - - 0 1 2 - - - - - - 1 - - -
+7 3 - - - 0 1 2 - - - - - - 1 - - - 7 2 0 4 1 4 - - - 0 6 7
+8 2 0 4 1 4 - - - 0 6 7
+Pr - 3. WHITE  51 MIN Pr - 4. LIGHT SOIL - WHITE 37 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 2 40 1 1 6 - - - - - - 3 3 1 1 40 2 1 6 1 - - - 0 - - -
+2 1 50 2 1 8 0 - - - 2 2 2 2 30 3 1 6 - - - - - - 1 - - -
+3 2 30 3 1 6 - - - - - - 1 - - - 3 3 - - - 0 1 2 - - - - - - 3 3
+4 3 - - - 0 1 2 - - - - - - 3 3 4 3 - - - 0 1 2 - - - - - - 1 - - -
+5 3 - - - 0 1 2 - - - - - - 1 - - - 5 2 0 4 1 4 - - - 0 6 7
+6 2 0 4 1 4 - - - 0 6 7
+Pr - 5. HEAVY SOIL – COLOR 51 MIN Pr - 6. MEDIUM SOIL – COLOR  40 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 2 0 0 1 4 - - - - - - 1 - - - 1 2 30 1 2 4 - - - - - - 2 2
+2 2 40 1 1 6 - - - - - - 3 3 2 1 40 2 1 8 0 - - - 2 2
+3 1 50 2 1 10 0 - - - 2 2 3 3 - - - 0 2 2 - - - - - - 3 3
+4 3 0 0 1 2 - - - - - - 3 3 4 3 - - - 0 2 2 - - - - - - 1 - - -
+5 3 - - - 0 1 2 - - - - - - 1 - - - 5 2 0 4 2 4 - - - 0 6 7
+6 2 0 4 1 4 - - - 0 6 7
+Pr - 7. SYNTHETICS  30 MIN Pr - 8. DELICATES AND WOOL  31 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 1 40 2 2 6 0 - - - 2 2 1 3 0 1 3 4 - - - - - - 1 - - -
+2 3 - - - 0 2 2 - - - - - - 3 3 2 3 30 2 3 8 1 - - - 1 - - -
+3 3 - - - 0 2 2 - - - - - - 1 - - - 3 3 - - - 0 3 2 - - - - - - 1 - - -
+4 2 0 4 2 4 - - - 0 6 6 4 3 - - - 0 3 2 - - - - - - 1 - - -
+5 3 0 4 3 4 - - - 0 2 2
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 25 =====
+LOGI CONTROL. Operation
+25
+5.3.2. USA/Canada application. EH020 model: SP-0
+Pr - 1. EXTRA HEAVY SOIL - WHITE  22 MIN Pr - 2. HEAVY SOIL - WHITE  19 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 1 90 2 1 7 0 - - - 1 - - - 1 1 90 2 1 4 0 - - - 1 - - -
+2 1 32 3 2 2 - - - - - - 1 - - - 2 1 32 3 2 2 - - - - - - 1 - - -
+3 2 32 4 2 2 - - - 0 6 6 3 2 32 4 2 2 - - - 0 6 6
+Pr - 3. MEDIUM SOIL - WHITE  19 MIN Pr - 4. LIGHT SOIL - WHITE  19 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 1 82 2 1 4 0 - - - 1 - - - 1 1 68 2 1 4 1 - - - 1 - - -
+2 1 32 3 2 2 - - - - - - 1 - - - 2 1 32 3 2 2 - - - - - - 1 - - -
+3 2 32 4 2 2 - - - 0 6 6 3 2 32 4 2 2 - - - 0 6 6
+Pr - 5. HEAVY SOIL - COLOR  20 MIN Pr - 6. MEDIUM SOIL - COLOR  18 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 1 90 2 1 6 0 - - - 1 - - - 1 1 90 2 1 4 0 - - - 1 - - -
+2 1 32 0 2 1 - - - - - - 1 - - - 2 1 32 0 2 1 - - - - - - 1 - - -
+3 2 32 4 2 2 - - - 0 6 6 3 2 32 4 2 2 - - - 0 6 6
+Pr - 7. SYNTHETICS  18 MIN Pr - 8. WOOL AND DELICATES  15 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 1 82 2 2 4 0 - - - 1 - - - 1 2 68 2 2 4 1 - - - 1 - - -
+2 1 32 0 2 1 - - - - - - 1 - - - 2 1 32 0 3 1 - - - - - - 1 - - -
+3 2 32 4 2 2 - - - 0 6 6 3 2 32 4 3 2 - - - 0 4 3
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 26 =====
+LOGI CONTROL. Operation
+26
+5.3.3. USA/Canada application. EH020 model: SP-I; EH, REM: other models except REM025
+Pr - 1. EXTRA HEAVY SOIL - WHITE  49 MIN Pr - 2. HEAVY SOIL - WHITE  42 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 2 104 1 1 6 - - - - - - 3 2 1 2 104 1 1 3 - - - - - - 3 2
+2 2 176 2 1 12 0 - - - 1 - - - 2 2 150 2 1 8 0 - - - 1 - - -
+3 2 140 3 1 6 - - - - - - 3 2 3 2 140 3 1 5 - - - - - - 3 2
+4 3 - - - 0 1 1 - - - - - - 1 - - - 4 3 - - - 0 1 2 - - - - - - 1 - - -
+5 2 - - - 0 1 2 - - - - - - 1 - - - 5 3 - - - 0 1 2 - - - - - - 1 - - -
+6 2 32 4 1 2 - - - 0 6 6 6 2 32 4 1 3 - - - 0 6 6
+Pr - 3. MEDIUM SOIL - WHITE  37 MIN Pr - 4. LIGHT SOIL - WHITE  28 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 2 140 2 1 10 0 - - - 1 - - - 1 1 140 2 1 6 1 - - - 1 - - -
+2 2 140 3 1 5 - - - - - - 3 2 2 2 140 3 1 4 - - - - - - 3 2
+3 3 - - - 0 1 2 - - - - - - 1 - - - 3 3 - - - 0 1 2 - - - - - - 1 - - -
+4 3 - - - 0 1 2 - - - - - - 1 - - - 4 2 32 4 1 2 - - - 0 6 6
+5 2 32 4 1 2 - - - 0 6 6
+Pr - 5. HEAVY SOIL - COLOR  42 MIN Pr - 6. MEDIUM SOIL - COLOR  36 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 2 104 1 1 4 - - - - - - 3 2 1 2 86 1 1 4 - - - - - - 3 2
+2 2 140 2 1 10 0 - - - 1 - - - 2 1 104 2 1 8 0 - - - 1 - - -
+3 2 70 0 1 2 - - - - - - 3 2 3 2 70 0 1 2 - - - - - - 3 2
+4 3 - - - 0 1 2 - - - - - - 1 - - - 4 3 - - - 0 1 2 - - - - - - 1 - - -
+5 3 - - - 0 1 2 - - - - - - 1 - - - 5 2 32 4 1 3 - - - 0 6 6
+6 2 32 4 1 3 - - - 0 6 6
+Pr - 7. SYNTHETICS  29 MIN Pr - 8. WOOL AND DELICATES  27 MIN
+Ph L F d r rt c rh E Et Ph L F d r rt c rh E Et
+1 2 104 2 1 8 0 - - - 1 - - - 1 2 86 2 2 8 1 - - - 2 2
+2 2 70 0 1 2 - - - - - - 3 2 2 3 - - - 0 2 2 - - - - - - 1 - - -
+3 3 - - - 0 1 2 - - - - - - 1 - - - 3 3 - - - - - - 2 2 - - - - - - 1 - - -
+4 2 32 4 1 3 - - - 0 6 6 4 2 32 4 3 2 - - - 0 5 4
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 27 =====
+LOGI CONTROL. Operation
+27
+5.3.4. United Kingdom application. HS, RMS models
+Pr – 1. HEALTHCARE SLUICE  43 MIN Pr - 2. HEAVY SOIL  37 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 2 0 0 1 2 - - - - - - 1 - - - 1 2 0 1 1 3 - - - - - - 3 3
+2 2 0 1 1 2 - - - - - - 1 - - - 2 1 55 2 1 6 0 - - - 2 2
+3 1 67 2 1 11 0 - - - 2 2 3 2 0 3 1 2 - - - - - - 3 3
+4 2 0 3 1 3 - - - - - - 1 - - - 4 3 0 0 1 2 - - - - - - 1 - - -
+5 3 0 0 2 2 - - - - - - 1 - - - 5 2 0 4 2 3 - - - - - - 6 7
+6 3 0 4 1 4 - - - 0 6 7
+Pr - 3. ECO. 60 eW  32 MIN Pr - 4. LIGHT SOIL  32 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 3 60 2 1 10 - - - - - - 2 2 1 1 40 2 1 6 0 - - - 1 - - -
+2 4 0 0 1 3 0 - - - 1 1 2 2 0 3 2 4 - - - - - - 3 3
+3 4 0 4 1 3 - - - - - - 6 9 1. 3 3 0 0 1 2 - - - - - - 1 - - -
+4 2 0 4 1 4 - - - - - - 6 7
+Pr - 5. COLOR  48 MIN PR - 6. ECO EXPRESS 40ºC  28 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 2 0 0 2 4 - - - - - - 1 - - - 1 1 40 2 1 6 - - - - - - 2 2
+2 2 0 1 2 6 - - - - - - 3 3 2 2 0 0 2 3 0 - - - 3 3
+3 1 40 2 1 7 0 - - - 2 2 3 2 0 4 2 4 - - - - - - 6 7
+4 3 0 0 2 2 - - - - - - 3 3
+5 3 0 0 2 2 - - - - - - 1 - - -
+6 2 0 4 2 4 - - - 0 6 7
+Pr - 7. SYNTHETICS  29 MIN Pr - 8. WOOL AND DELICATES  32 MIN
+Ph L C d r rt c rh E Et Ph L C d r rt c rh E Et
+1 1 40 2 2 5 0 - - - 2 2 1 3 0 1 3 3 - - - - - - 1 - - -
+2 3 0 0 2 2 - - - - - - 3 3 2 2 30 2 2 8 1 - - - 1 - - -
+3 3 0 0 2 2 - - - - - - 1 - - - 3 3 0 0 3 3 - - - - - - 1 - - -
+4 2 0 4 2 4 - - - 0 6 6 4 3 0 0 3 2 - - - - - - 1 - - -
+5 3 0 4 3 4 - - - 0 4 3
+* Pr-3. ECO. 60 eW: Special program in accordance with WTL certification.
+* Pr-3. ECO. 60 eW: Cannot be modified. Neither can the phase be sped up while water is entering. Water
+inputs occur with the drum stationary, as does heating.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 28 =====
+LOGI CONTROL. Advanced mode
+28
+6. LOGI CONTROL. ADVANCED USE MODE
+There is an ADVANCED USE mode: This mode includes five different menus by means of which each user can
+personalise the operation of the washing machine.
+6.1. ADVANCED MODE menus
+MENU PURPOSE
+Pro Modification of the program contents
+INFO Information menu
+Mod Modification of the operation parameters
+Ncod Modifying of the access code
+HOUR Adjustment of the system time (option)
+6.2. Access to ADVANCED MODE
+Connect the washer and open the door. The display will show door.
+Hold down the key until the display shows Cod.
+Enter the access code into the menus by pressing the sequence of eight keys of the code without interruption.
+In basic configuration (when the machine is delivered) the code for accessing ADVANCED mode is: 12341234.
+Numerical correspondence of each key
+KEY CORRESPONDENCE
+1
+▲ 2
+3
+▼ 4
+If the sequence entered is correct, the display will show Pro, corresponding to the first menu.
+The ▲/▼ keys allow the selection of ADVANCED MODE menus. The menu selected is shown on the display
+following its keyword. To enter the menu, press the key when displaying it.
+If you wish to skip the ADVANCED mode, press START/STOP and machine will return to the programs
+execution mode.
+6.3. Modifying the contents of programs. Menu Pro
+In its original configuration, the washing machine has eight wash programs with content adapted to a wide
+range of usage. However, the content of each program can be modified to be adapted to the specific needs of
+different situations.
+Modifications will always be carried out within the limits marked by PROGRAMMING VECTORS (see Section
+6.5.1) which include the possible programmable parameters and the maximum and minimum values of certain
+options.
+The master program is composed of nine phases. At the start of each phase, a parameter of the value Ph-Y /
+Ph-N (executable phase YES / executable phase NO) will allow the user to determine whether the accessed
+phase should either be executed or omitted.
+Once the phase is defined as to be executed, proceed to the display and modification (if desired) of the
+parameters or values of the phase.
+Note: (UK setting only) Program 3 cannot be modified.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 29 =====
+LOGI CONTROL. Advanced mode
+29
+6.4. Initial program content
+6.4.1. General application HS, RMS models
+Pr - 1. EXTRA HEAVY SOIL  66 MIN Pr - 2. HEAVY SOIL – WHITE  56 MIN
+Ph Ph L C d r rt c rh E Et Ph Ph L C d r rt c rh E Et
+1 Y 2 20 1 1 2 - - - - - - 0 - - - 1 N 2 20 0 1 4 - - - - - - 1 - - -
+2 Y 2 40 0 1 6 - - - - - - 1 - - - 2 Y 2 20 0 1 2 - - - - - - 1 - - -
+3 Y 2 40 1 1 6 - - - - - - 3 3 3 Y 2 30 1 1 6 - - - - - - 3 3
+4 Y 1 80 2 1 12 0 - - - 2 2 4 Y 1 60 2 1 10 0 - - - 2 2
+5 Y 2 40 3 1 6 - - - - - - 1 - - - 5 Y 2 40 3 1 6 - - - - - - 1 - - -
+6 N 3 - - - 0 1 2 - - - - - - 1 - - - 6 N 3 - - - 0 1 2 - - - - - - 1 - - -
+7 Y 3 - - - 0 1 2 - - - - - - 3 3 7 Y 3 - - - 0 1 2 - - - - - - 3 3
+8 Y 3 - - - 0 1 2 - - - - - - 1 - - - 8 Y 3 - - - 0 1 2 - - - - - - 1 - - -
+9 Y 2 0 4 1 4 - - - 0 6 7 9 Y 2 0 4 1 4 - - - 0 6 7
+Pr - 3. WHITE  51 MIN Pr - 4. LIGHT SOIL - WHITE  37 MIN
+Ph Ph L C d r rt c rh E Et Ph Ph L C d r rt c rh E Et
+1 N 2 30 0 1 4 - - - - - - 1 - - - 1 N 2 30 0 1 4 - - - - - - 1 - - -
+2 N 2 0 0 1 2 - - - - - - 1 - - - 2 N 2 0 0 1 2 - - - - - - 1 - - -
+3 Y 2 40 1 1 6 - - - - - - 3 3 3 N 2 30 1 1 6 - - - - - - 3 3
+4 Y 1 50 2 1 8 0 - - - 2 2 4 Y 1 40 2 1 6 1 - - - 0 - - -
+5 Y 2 30 3 1 6 - - - - - - 1 - - - 5 Y 2 30 3 1 6 - - - - - - 1 - - -
+6 N 3 - - - 0 1 2 - - - - - - 1 - - - 6 N 3 - - - 0 1 2 - - - - - - 1 - - -
+7 Y 3 - - - 0 1 2 - - - - - - 3 3 7 Y 3 - - - 0 1 2 - - - - - - 3 3
+8 Y 3 - - - 0 1 2 - - - - - - 1 - - - 8 Y 3 - - - 0 1 2 - - - - - - 1 - - -
+9 Y 2 0 4 1 4 - - - 0 6 7 9 Y 2 0 4 1 4 - - - 0 6 7
+Pr - 5. HEAVY SOIL – COLOR  51 MIN Pr - 6. MEDIUM SOIL – COLOR  40 MIN
+Ph Ph L C d r rt c rh E Et Et Ph Ph L C d r rt c rh E Et
+1 N 2 40 0 1 4 - - - - - - 1 - - - 1 N 2 30 0 2 4 - - - - - - 1 - - -
+2 Y 2 0 0 1 4 - - - - - - 1 - - - 2 N 2 0 0 2 2 - - - - - - 1 - - -
+3 Y 2 40 1 1 6 - - - - - - 3 3 3 Y 2 30 1 2 4 - - - - - - 2 2
+4 Y 1 50 2 1 10 0 - - - 2 2 4 Y 1 40 2 1 8 0 - - - 2 2
+5 N 3 0 0 1 2 - - - - - - 1 - - - 5 N 3 0 0 2 2 - - - - - - 1 - - -
+6 N 3 - - - 0 1 2 - - - - - - 1 - - - 6 N 3 - - - 0 2 2 - - - - - - 1 - - -
+7 Y 3 - - - 0 1 2 - - - - - - 3 3 7 Y 3 - - - 0 2 2 - - - - - - 3 3
+8 Y 3 - - - 0 1 2 - - - - - - 1 - - - 8 Y 3 - - - 0 2 2 - - - - - - 1 - - -
+9 Y 2 0 4 1 4 - - - 0 6 7 9 Y 2 0 4 2 4 - - - 0 6 7
+Pr - 7. SYNTHETICS  30 MIN Pr - 8. DELICATES AND WOOL  31 MIN
+Ph Ph L C d r rt c rh E Et Ph Ph L C d r rt c rh E Et
+1 N 3 30 0 2 4 - - - - - - 1 - - - 1 N 3 0 0 3 4 - - - - - - 1 - - -
+2 N 3 0 0 2 2 - - - - - - 1 - - - 2 N 3 0 0 3 2 - - - - - - 1 - - -
+3 N 2 40 1 2 4 - - - - - - 2 2 3 Y 3 0 1 3 4 - - - - - - 1 - - -
+4 Y 1 40 2 2 6 0 - - - 2 2 4 Y 3 30 2 3 8 1 - - - 1 - - -
+5 N 3 0 0 2 2 - - - - - - 1 - - - 5 N 3 0 0 3 2 - - - - - - 1 - - -
+6 N 3 - - - 0 2 2 - - - - - - 1 - - - 6 N 3 - - - 0 3 2 - - - - - - 1 - - -
+7 Y 3 - - - 0 2 2 - - - - - - 3 3 7 Y 3 - - - 0 3 2 - - - - - - 1 - - -
+8 Y 3 - - - 0 2 2 - - - - - - 1 - - - 8 Y 3 - - - 0 3 2 - - - - - - 1 - - -
+9 Y 2 0 4 2 4 - - - 0 6 6 9 Y 3 0 4 3 4 - - - 0 2 2
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 30 =====
+LOGI CONTROL. Advanced mode
+30
+6.4.2. USA/Canada application. EH020 model: SP-0
+Pr - 1. EXTRA HEAVY SOIL - WHITE  22 MIN Pr - 2. HEAVY SOIL – WHITE  19 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 2 104 1 1 4 - - - - - - 1 - - - 1 N 2 104 0 1 4 - - - - - - 1 - - -
+2 N 2 32 0 1 2 - - - - - - 1 - - - 2 N 2 32 0 1 2 - - - - - - 1 - - -
+3 N 2 104 1 1 6 - - - - - - 3 3 3 N 2 104 1 1 6 - - - - - - 3 3
+4 Y 1 90 2 1 7 0 - - - 1 - - - 4 Y 1 90 2 1 4 0 - - - 1 - - -
+5 Y 1 32 3 2 2 - - - - - - 1 - - - 5 Y 1 32 3 2 2 - - - - - - 1 - - -
+6 N 3 - - - 0 1 1 - - - - - - 1 - - - 6 N 3 - - - 0 1 1 - - - - - - 1 - - -
+7 N 3 - - - 0 1 1 - - - - - - 1 - - - 7 N 3 - - - 0 1 1 - - - - - - 1 - - -
+8 N 3 - - - 0 2 1 - - - - - - 1 - - - 8 N 3 - - - 0 1 1 - - - - - - 1 - - -
+9 Y 2 32 4 2 2 - - - 0 6 6 9 Y 2 32 4 2 2 - - - 0 6 6
+Pr - 3. MEDIUM SOIL – WHITE  19 MIN Pr - 4. LIGHT SOIL – WHITE  19 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 2 86 0 1 4 - - - - - - 1 - - - 1 N 2 86 0 1 4 - - - - - - 1 - - -
+2 N 2 32 0 1 2 - - - - - - 1 - - - 2 N 2 32 0 1 2 - - - - - - 1 - - -
+3 N 2 104 1 1 6 - - - - - - 3 3 3 N 2 86 1 1 6 - - - - - - 3 3
+4 Y 1 82 2 1 4 0 - - - 1 - - - 4 Y 1 68 2 1 4 1 - - - 1 - - -
+5 Y 1 32 3 2 2 - - - - - - 1 - - - 5 Y 1 32 3 2 2 - - - - - - 1 - - -
+6 N 3 - - - 0 1 1 - - - - - - 1 - - - 6 N 3 - - - 0 1 1 - - - - - - 1 - - -
+7 N 3 - - - 0 1 1 - - - - - - 1 - - - 7 N 3 - - - 0 1 1 - - - - - - 1 - - -
+8 N 3 - - - 0 1 1 - - - - - - 1 - - - 8 N 3 - - - 0 1 1 - - - - - - 1 - - -
+9 Y 2 32 4 2 2 - - - 0 6 6 9 Y 2 32 4 2 2 - - - 0 6 6
+Pr - 5. HEAVY SOIL – COLOR  20 MIN Pr - 6. MEDIUM SOIL – COLOR  18 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 2 104 0 2 4 - - - - - - 1 - - - 1 N 2 86 0 2 4 - - - - - - 1 - - -
+2 N 2 32 0 2 4 - - - - - - 1 - - - 2 N 2 32 0 2 2 - - - - - - 1 - - -
+3 N 2 104 1 2 6 - - - - - - 3 3 3 N 2 104 1 2 4 - - - - - - 2 2
+4 Y 1 90 2 1 6 0 - - - 1 - - - 4 Y 1 90 2 1 4 0 - - - 1 - - -
+5 Y 1 32 0 2 1 - - - - - - 1 - - - 5 Y 1 32 0 2 1 - - - - - - 1 - - -
+6 N 3 - - - 0 2 1 - - - - - - 1 - - - 6 N 3 - - - 0 2 1 - - - - - - 1 - - -
+7 N 3 - - - 0 2 1 - - - - - - 1 - - - 7 N 3 - - - 0 2 1 - - - - - - 1 - - -
+8 N 3 - - - 0 2 1 - - - - - - 1 - - - 8 N 3 - - - 0 2 1 - - - - - - 1 - - -
+9 Y 2 32 4 2 2 - - - 0 6 6 9 Y 2 32 4 2 2 - - - 0 6 6
+Pr - 7. SYNTHETICS  18 MIN Pr - 8. WOOL AND DELICATES  15 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 3 32 0 2 4 - - - - - - 1 - - - 1 N 3 32 0 3 4 - - - - - - 1 - - -
+2 N 3 32 0 2 2 - - - - - - 1 - - - 2 N 3 32 0 3 2 - - - - - - 1 - - -
+3 N 2 32 1 2 4 - - - - - - 2 2 3 N 3 32 1 3 4 - - - - - - 1 - - -
+4 Y 1 82 2 2 4 0 - - - 1 - - - 4 Y 2 68 2 2 4 1 - - - 1 - - -
+5 Y 1 32 0 2 1 - - - - - - 1 - - - 5 Y 1 32 0 3 1 - - - - - - 1 - - -
+6 N 3 - - - 0 2 1 - - - - - - 1 - - - 6 N 3 - - - 0 3 1 - - - - - - 1 - - -
+7 N 3 - - - 0 2 1 - - - - - - 1 - - - 7 N 3 - - - 0 3 1 - - - - - - 1 - - -
+8 N 3 - - - 0 2 1 - - - - - - 1 - - - 8 N 3 - - - 0 3 1 - - - - - - 1 - - -
+9 Y 2 32 4 2 2 - - - 0 6 6 9 Y 2 32 4 3 2 - - - 0 4 3
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 31 =====
+LOGI CONTROL. Advanced mode
+31
+6.4.3. USA/Canada application. EH020 model: SP-I; EH, REM: other models except REM025
+Pr - 1. EXTRA HEAVY SOIL - WHITE  49 MIN Pr - 2. HEAVY SOIL – WHITE  42 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 2 104 1 1 4 - - - - - - 1 - - - 1 N 2 104 0 1 4 - - - - - - 1 - - -
+2 N 2 32 0 1 2 - - - - - - 1 - - - 2 N 2 32 0 1 2 - - - - - - 1 - - -
+3 Y 2 104 1 1 6 - - - - - - 3 2 3 Y 2 104 1 1 3 - - - - - - 3 2
+4 Y 2 176 2 1 12 0 - - - 1 - - - 4 Y 2 150 2 1 8 0 - - - 1 - - -
+5 Y 2 140 3 1 6 - - - - - - 3 2 5 Y 2 140 3 1 5 - - - - - - 3 2
+6 N 3 - - - 0 1 1 - - - - - - 1 - - - 6 N 3 - - - 0 1 1 - - - - - - 1 - - -
+7 Y 3 - - - 0 1 2 - - - - - - 1 - - - 7 Y 3 - - - 0 1 2 - - - - - - 1 - - -
+8 Y 3 - - - 0 1 2 - - - - - - 1 - - - 8 Y 3 - - - 0 1 2 - - - - - - 1 - - -
+9 Y 2 32 4 1 2 - - - 0 6 6 9 Y 2 32 4 1 3 - - - 0 6 6
+Pr - 3. MEDIUM SOIL – WHITE  37 MIN Pr - 4. LIGHT SOIL – WHITE  28 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 2 86 0 1 4 - - - - - - 1 - - - 1 N 2 86 0 1 4 - - - - - - 1 - - -
+2 N 2 32 0 1 2 - - - - - - 1 - - - 2 N 2 32 0 1 2 - - - - - - 1 - - -
+3 N 2 86 1 1 6 - - - - - - 3 3 3 N 2 86 1 1 6 - - - - - - 3 3
+4 Y 2 140 2 1 10 0 - - - 1 - - - 4 Y 2 140 2 1 6 0 - - - 1 - - -
+5 Y 2 140 3 1 5 - - - - - - 3 2 5 Y 2 140 3 1 4 - - - - - - 3 2
+6 N 3 - - - 0 1 1 - - - - - - 1 - - - 6 N 3 - - - 0 1 1 - - - - - - 1 - - -
+7 Y 3 - - - 0 1 2 - - - - - - 1 - - - 7 N 3 - - - 0 1 1 - - - - - - 1 - - -
+8 Y 3 - - - 0 1 2 - - - - - - 1 - - - 8 Y 3 - - - 0 1 2 - - - - - - 1 - - -
+9 Y 2 32 4 1 2 - - - 0 6 6 9 Y 2 32 4 1 2 - - - 0 6 6
+Pr - 5. HEAVY SOIL – COLOR  42 MIN Pr - 6. MEDIUM SOIL – COLOR  36 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 2 104 0 2 4 - - - - - - 1 - - - 1 N 2 86 0 2 4 - - - - - - 1 - - -
+2 N 2 32 0 2 4 - - - - - - 1 - - - 2 N 2 32 0 2 2 - - - - - - 1 - - -
+3 Y 2 104 1 1 4 - - - - - - 3 2 3 Y 2 86 1 1 4 - - - - - - 3 2
+4 Y 2 140 2 1 10 0 - - - 1 - - - 4 Y 2 104 2 1 8 0 - - - 1 - - -
+5 Y 2 70 0 1 2 - - - - - - 3 2 5 Y 2 70 0 1 2 - - - - - - 3 2
+6 N 3 - - - 0 2 1 - - - - - - 1 - - - 6 N 3 - - - 0 2 1 - - - - - - 1 - - -
+7 Y 3 - - - 0 1 2 - - - - - - 1 - - - 7 N 3 - - - 0 2 1 - - - - - - 1 - - -
+8 Y 3 - - - 0 1 2 - - - - - - 1 - - - 8 Y 3 - - - 0 1 2 - - - - - - 1 - - -
+9 Y 2 32 4 1 3 - - - 0 6 6 9 Y 2 32 4 1 3 - - - 0 6 6
+Pr - 7. SYNTHETICS  29 MIN Pr - 8. WOOL AND DELICATES  27 MIN
+Ph Ph L F d r rt c rh E Et Ph Ph L F d r rt c rh E Et
+1 N 3 32 0 2 4 - - - - - - 1 - - - 1 N 3 32 0 3 4 - - - - - - 1 - - -
+2 N 3 32 0 2 2 - - - - - - 1 - - - 2 N 3 32 0 3 2 - - - - - - 1 - - -
+3 N 2 32 1 2 4 - - - - - - 2 2 3 N 3 32 1 3 4 - - - - - - 1 - - -
+4 Y 2 104 2 1 8 0 - - - 1 - - - 4 Y 2 86 2 2 8 1 - - - 2 2
+5 Y 2 68 0 1 2 - - - - - - 3 2 5 N 2 32 0 2 2 - - - - - - 1 - - -
+6 N 3 - - - 0 2 1 - - - - - - 1 - - - 6 N 3 - - - 0 2 1 - - - - - - 1 - - -
+7 N 3 - - - 0 2 1 - - - - - - 1 - - - 7 Y 3 - - - 0 2 2 - - - - - - 1 - - -
+8 Y 3 - - - 0 1 2 - - - - - - 1 - - - 8 Y 3 - - - 0 2 2 - - - - - - 1 - - -
+9 Y 2 32 4 1 3 - - - 0 6 6 9 Y 2 32 4 2 3 - - - 0 5 4
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 32 =====
+LOGI CONTROL. Advanced mode
+32
+6.4.4. United Kingdom application. HS, MS, RMS models
+Pr - 1. HEALTHCARE SLUICE  43 MIN Pr - 2. HEAVY SOIL  37 MIN
+Ph Ph L C d r rt c rh E Et Ph Ph L C d r rt c rh E Et
+1 N 2 40 1 1 4 - - - - - - 1 - - - 1 N 2 40 0 1 4 - - - - - - 1 - - -
+2 Y 2 0 0 1 2 - - - - - - 1 - - - 2 N 2 0 0 1 2 - - - - - - 1 - - -
+3 Y 2 0 1 1 2 - - - - - - 1 - - - 3 Y 2 0 1 1 3 - - - - - - 3 3
+4 Y 1 67 2 1 11 0 - - - 2 2 4 Y 1 55 2 1 6 0 - - - 2 2
+5 Y 2 0 3 1 3 - - - - - - 1 - - - 5 Y 2 0 3 1 2 0 - - - 3 3
+6 Y 3 0 0 2 2 - - - - - - 1 - - - 6 Y 3 0 0 1 2 - - - - - - 1 - - -
+7 N 3 - - - 0 1 2 - - - - - - 1 - - - 7 N 3 - - - 0 1 2 - - - - - - 1 - - -
+8 N 3 - - - 0 1 2 - - - - - - 1 - - - 8 N 3 - - - 0 1 2 - - - - - - 1 - - -
+9 Y 3 0 4 1 4 - - - 0 6 7 9 Y 2 0 4 2 3 - - - - - - 6 7
+Pr - 3. ECO. 60 eW  32 MIN Pr - 4. LIGHT SOIL  32 MIN
+Ph Ph L C d r rt c rh E Et Ph Ph L C d r rt c rh E Et
+1 N 2 30 0 1 4 - - - - - - 1 - - - 1 N 2 30 0 1 4 - - - - - - 1 - - -
+2 N 2 0 0 1 2 - - - - - - 1 - - - 2 N 2 0 0 1 2 - - - - - - 1 - - -
+3 N 2 40 1 1 6 - - - - - - 3 3 3 N 2 30 1 1 6 - - - - - - 3 3
+4 Y 3 60 2 1 10 - - - - - - 2 2 4 Y 1 40 2 1 6 0 - - - 1 - - -
+5 Y 4 0 0 1 3 0 - - - 1 1 5 Y 2 0 3 2 4 - - - - - - 3 3
+6 N 3 - - - 0 1 2 - - - - - - 1 - - - 6 Y 3 0 0 1 2 - - - - - - 1 - - -
+7 N 3 - - - 0 1 2 - - - - - - 1 - - - 7 N 3 - - - 0 1 2 - - - - - - 1 - - -
+8 N 3 - - - 0 1 2 - - - - - - 1 - - - 8 N 3 - - - 0 1 2 - - - - - - 1 - - -
+9 Y 4 0 4 1 3 - - - - - - 6 9 9 Y 2 0 4 1 4 - - - - - - 6 7
+Pr - 5. COLOR  48 MIN Pr - 6. ECO EXPRESS 40ºC  28 MIN
+Ph Ph L C d r rt c rh E Et Ph Ph L C d r rt c rh E Et
+1 N 2 40 0 2 4 - - - - - - 1 - - - 1 N 2 30 0 2 4 - - - - - - 1 - - -
+2 Y 2 0 0 2 4 - - - - - - 1 - - - 2 N 2 0 0 2 2 - - - - - - 1 - - -
+3 Y 2 0 1 2 6 - - - - - - 3 3 3 N 2 40 1 2 4 - - - - - - 2 2
+4 Y 1 40 2 1 7 0 - - - 2 2 4 Y 1 40 2 1 6 - - - - - - 2 2
+5 Y 3 0 0 2 2 - - - - - - 3 3 5 Y 2 0 0 2 3 0 - - - 3 3
+6 N 3 - - - 0 2 2 - - - - - - 1 - - - 6 N 3 - - - 0 2 2 - - - - - - 1 - - -
+7 N 3 - - - 0 2 2 - - - - - - 1 - - - 7 N 3 - - - 0 2 2 - - - - - - 1 - - -
+8 Y 3 0 0 2 2 - - - - - - 1 - - - 8 N 3 - - - 0 2 2 - - - - - - 1 - - -
+9 Y 2 0 4 2 4 - - - 0 6 7 9 Y 2 0 4 2 4 - - - - - - 6 7
+Pr - 7. SYNTHETICS  29 MIN Pr - 8. WOOL AND DELICATES  32 MIN
+Ph Ph L C d r rt c rh E Et Ph Ph L C d r rt c rh E Et
+1 N 3 30 0 2 4 - - - - - - 1 - - - 1 N 3 0 0 3 4 - - - - - - 1 - - -
+2 N 3 0 0 2 2 - - - - - - 1 - - - 2 N 3 0 0 3 2 - - - - - - 1 - - -
+3 N 2 40 1 2 4 - - - - - - 2 2 3 Y 3 0 1 3 3 - - - - - - 1 - - -
+4 Y 1 40 2 2 5 0 - - - 2 2 4 Y 2 30 2 2 8 1 - - - 1 - - -
+5 Y 3 0 0 2 2 - - - - - - 3 3 5 Y 3 0 0 3 3 - - - - - - 1 - - -
+6 N 3 - - - 0 2 2 - - - - - - 1 - - - 6 N 3 - - - 0 3 2 - - - - - - 1 - - -
+7 N 3 - - - 0 2 2 - - - - - - 1 - - - 7 N 3 - - - 0 3 2 - - - - - - 1 - - -
+8 Y 3 0 0 2 2 - - - - - - 1 - - - 8 Y 3 0 0 3 2 - - - - - - 1 - - -
+9 Y 2 0 4 2 4 - - - 0 6 6 9 Y 3 0 4 3 4 - - - 0 4 3
+* Pr-3. ECO. 60 eW: Special program in accordance with WTL certification.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 33 =====
+LOGI CONTROL. Advanced mode
+33
+6.5. Modifying a program
+6.5.1. Programming vectors
+See the definition of the functions and values programmable in each phase in the following sections.
+ROTATION COOL EXTRACT
+EXECUTION LEVEL TEMP. DISP. ROTATION PAUSE EXTRACT
+TIME DOWN TIME
+PHASE
+Ph L C / F d r rt c rh E Et
+0 ... 90
+1 Y / N 1…4 0, 1...4 1...3 1...12 n.p. n.p. 0 / 1 n.p.
+32 ... 194
+0 ... 90
+2 Y / N 1…4 0, 1...4 1...3 1...12 n.p. n.p. 0 / 1 n.p.
+32 ... 194
+0 ... 90
+3 Y / N 1…4 0, 1...4 1...3 1...12 n.p. n.p. 0...3 n.p. 2...4
+32 ... 194
+0 ... 90
+4 Y 1…4 0, 1...4 1...3 1...20 0 / 1 n.p. 0...2 n.p. 2...4
+32 ... 194
+0 ... 60
+5 Y / N 1…4 0, 1...4 1...3 1...12 n.p. n.p. 1...3 n.p. 2...4
+32 ... 140
+6 Y / N 1…4 n.p. 0, 1...4 1...3 1...12 n.p. n.p. 1...3 n.p. 2...4
+7 Y / N 1…4 n.p. 0, 1...4 1...3 1...12 n.p. n.p. 1...3 n.p. 2...4
+8 Y / N 1…4 n.p. 0, 1...4 1...3 1...12 n.p. n.p. 1 n.p.
+0 ... 60
+9 Y 1…4 0, 1...4 1...3 1...12 n.p. 0 / 1 1...6 n.p. 2...9
+32 ... 140
+Note: (UK setting only). Program 3 cannot be modified.
+6.5.2. Definition of phases
+PHASES DEFINITION
+1, 2, 3 Soaking and pre-washes. Optional execution phase.
+4 Washing. Obligatory execution phase.
+5 First Rinse. Optional execution phase.
+6 - 8 Second, third and fourth rinses. Optional execution phase.
+9 Final Rinse. Obligatory execution phase.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 34 =====
+LOGI CONTROL. Advanced mode
+34
+6.5.3. Definition of programmable functions and values for each phase
+FUNCTION CONCEPT OPTIONS
+Ph-Y Phase can be executed
+Ph Phase execution
+Ph-N Phase cannot be executed
+L-1 Low level
+L-2 Medium level
+High level (level not programmable in machines with pump
+L Bath level L-3
+drain or valve closed without current)
+Extra high level
+L-4 (level not programmable in machines with pump drain or valve
+closed without current)
+0 / ** Programmable range in degrees Celsius
+C / F Temperature of the 32 / *** Programmable range in degrees Fahrenheit
+bath
+n.p Not possible to program temperature in phase
+d-0 Phase without dosing
+Dosing via pre-wash compartment
+d-1
+Pre-wash external dosing signal
+Dosing via wash compartment
+d-2
+d Dosings Wash external dosing signal
+Dosing via whitening compartment
+d-3
+Whitening external dosing signal
+Dosing via softener or neutraliser compartment
+d-4
+Softener or neutraliser external dosing signal
+r-1 Vigorous rotation sequence: 25 sec. ON - 5 sec. OFF
+r Rotation sequence r-2 Normal rotation sequence: 15 sec. ON - 15 sec. OFF
+r-3 Light rotation sequence: 25 sec. ON - 5 sec. OFF
+rt Rotation time 1...12 Programmable range in soak, pre-wash and rinse phases
+(in minutes) 1...20 Programmable range in the wash phase
+0 Without gradual cool-down
+c Gradual cool down 1 Gradual cool-down in wash phase
+n.p Option not programmable
+0 Without stop in final rinse
+rh Program stop in final 1 Stop in final rinse
+rinse
+n.p Option not programmable
+0 Access to the next phase without draining in the bath
+1 Drain + wash speed
+2 Drain + positioning speed
+E Bath drain 3 Drain + low extract speed
+4 Drain + medium spin speed
+5 Drain + medium/high extract speed
+6 Drain + high spin speed
+Et Extract time ** Time in minutes.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 35 =====
+LOGI CONTROL. Advanced mode
+35
+6.5.4. Program modification sequence
+Access the ADVANCED USE MODE (Section 6.2). The display shows Pro.
+Press the key to access the PROGRAMMING menu.
+The display shows Pr-1. Program 1 is ready for modification. The ▲/▼ keys allow the user to select another
+program. Press the key to access the modification of the displayed program.
+The display shows Pr-1. Phase 1 is ready for modification. The ▲/▼ keys allow the user to select another
+phase. Press the key to start modifying the values of the selected phase.
+When the number of the phase is displayed (at the start of phase), the START/STOP key is used to finalise the
+program modification.
+Once a program modification has been finalised, the display will show the Pr-* report (modified program).
+Pressing the START/STOP key allows the user to access the higher level of the menu. Pressing twice
+consecutively allows the user to exit the ADVANCED USE MODE.
+Note: (UK setting only) Program 3 cannot be modified.
+Activation of the phase
+Allows the user to program the execution of the selected phase.
+Once the desired phase to be modified has been selected, press the key. The display shows Ph-*.
+OPTIONS MEANING
+Ph-Y The phase to be executed is available
+Ph-N The phase to be executed is unavailable
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Bath level
+Bath level allows the selection of the bath level inside the washer.
+OPTIONS MEANING
+L-1 Low level
+L-2 Medium level
+L-3 High level
+L-4 Extra high level
+For safety reasons, options L-3 and L-4 are not programmable in machines with a pump drain or a valve closed
+without current.
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 36 =====
+LOGI CONTROL. Advanced mode
+36
+Temperature of the bath
+This allows the user to modify the water temperature in the phases in which this function is available. In other
+phases, it is not possible to program the water temperature.
+OPTIONS MEANING
+Programmable range in soak, pre-wash and wash phases
+C-00 ... C-90 C-**: degrees Celsius
+F 32 ... F 194 F***: degrees Fahrenheit
+Programmable range in the pre-wash and last rinse phase
+C-00 ... C-60 C-**: degrees Celsius
+F 32 ... F 140 F***: degrees Fahrenheit
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Dosings
+This allows the dosing of each phase to be selected.
+OPTIONS MEANING
+d-0 Without dosing
+Dosing via pre-wash compartment
+d-1 Pre-wash external dosing signal
+Programmable in the soak and pre-wash phases (Ph 1…3)
+Dosing via wash compartment
+d-2 Wash external dosing signal
+Programmable only in the wash phase (Ph 4)
+Dosing via whitening compartment
+d-3 Whitening external dosing signal
+Programmable in the 1 to 4 rinse phases (Ph 5…8)
+Dosing via softener or neutraliser compartment
+d-4 Softener or neutraliser external dosing signal
+Programmable only in the last rinse phase (Ph 9)
+The external dosing signals are simultaneously activated with the water inlets through the dispenser.
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Rotation sequence
+The mechanical action of the washing machine with regard to the laundry is different according to the selected
+ON/OFF sequence.
+Time ON: drum rotating
+Time OFF: drum stopped
+OPTIONS MEANING
+Vigorous sequence rotation:
+r-1
+ON: 25 sec. OFF: 5 sec.
+Normal rotation sequence
+r-2
+ON: 15 sec. OFF: 15 sec.
+Light rotation sequence
+r-3
+ON: 5 sec. OFF: 25 sec.
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 37 =====
+LOGI CONTROL. Advanced mode
+37
+Rotation time
+Rotation time programmed in the phase. Time in minutes.
+This time is started once the programmed temperature and level are reached.
+OPTIONS MEANING
+1 ... 12 Programmable range in the soak, pre-wash and rinse phases
+1 ... 20 Programmable range in the wash phase
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Gradual cool down
+The gradual cooling down of the water is achieved by adding cold water until a temperature of 45 ºC (113 ºF) is
+reached.
+This function will appear only in the wash phase if the programmed temperature is over 50 ºC (122 ºF).
+OPTIONS MEANING
+c-0 Gradual cool-down deactivated
+c-1 Gradual cool-down activated
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Rinse hold
+All the functions of the washing machine stop, maintaining the water inside, with a light rotation of the drum at
+15 minute intervals. This is only programmable in the final phase of the program.
+This function is designed to prevent the laundry from remaining for a long time inside the drum, once the final
+spin is finished, thus preventing the appearance of creases.
+OPTIONS MEANING
+rh-0 Rinse hold OFF
+rh-1 Rinse hold ON
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Bath drain
+The draining of the water from the washing machine is achieved by activating of the drain system and a drum
+rotation speed.
+Option E-1 implies an unchangeable time value. The duration of options E-2 – E-6 is programmable within a
+determined range.
+OPTIONS MEANING
+E-0 Access to the next phase without draining in the bath
+E-1 Drain + wash speed
+E-2 Drain + positioning speed
+E-3 Drain + low extract speed
+E-4 Drain + medium extract speed
+E-5 Drain + medium/high extract speed
+Drain + high extract speed
+E-6
+Only programmable in the final phase of the program
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 38 =====
+LOGI CONTROL. Advanced mode
+38
+R.P.M. (G FORCE) FOLLOWING MACHINE MODEL
+RMS613/17 RMS623 RMS628
+OPTIONS RMS610
+REM033/040 REM055 REM070
+E-1 50 47 44 42
+E-2 100 100 100 86
+E-3 410 300 300 342
+E-4 500 400 400 433
+E-5 580 500 500 530
+E-6 600(108) 600(125) 600(140) 592(150)
+R.P.M. (G FORCE) FOLLOWING MACHINE MODEL
+HS-6008 HS-6013 HS-6017 HS-6023 HS-6024
+OPTIONS
+EH020 EH030 EH040 EH055 EH060
+E-1 50 48 45 43 42
+E-2 100 100 100 87 86
+E-3 400 400 375 330 350
+E-4 600 600 570 525 550
+E-5 800 800 750 725 725
+E-6 970(283) 1000(351) 950(354) 920(350) 966(400)
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Spin time
+Extract time programmed in the phase. Time in minutes.
+OPTIONS MEANING
+n.p. Draining time E-1 not programmable
+2 ... 4 Programmable range not in final phase of the program
+2 ... 9 Programmable range in final phase of the program
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the displayed selection and ends the phase programming.
+The display will show the following phase.
+When finalising the programming of the last phase of the program, display shows Pr-* (modified program)
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 39 =====
+LOGI CONTROL. Advanced mode
+39
+6.6. Information menu. INFO menu
+PARAMETERS MEANING
+LOGI Type of control
+**** Washer model
+EP
+Software version
+****
+Pr Number of total cycles executed
+Pr-* Number of cycles executed individually by each program
+SUD Number of times the anti-suds function has been activated
+Access the ADVANCED USE MODE. Section 6.2. The display shows Pro.
+Press the ▲ key. The display shows INFO.
+Press the key to sequentially access the listing of the different parameters and the values for the
+corresponding counters.
+Once the last option is listed, press the key. The display shows INFO.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED USE MODE press the START/STOP key.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 40 =====
+LOGI CONTROL. Advanced mode
+40
+6.7. Modifying the operating parameters. Mod menu
+The Mod menu allows the user to modify the operation parameters of all the programs.
+The modifications carried out from Mod menu affect the eight programs.
+6.7.1. Summary table of the changeable parameters
+PARAMETER MODIFICATION OF OPTIONS CE USA
+b-0 Without buzzer
+b-1 Low buzzer
+b Buzzer
+b-2 Normal buzzer  
+b-3 Strong buzzer
+Information on the dt-0 Functions display  
+dt display during a
+program dt-1 Program time remaining display
+C Temperature displayed in degrees Celsius 
+C / F Temperature unit
+F Temperature displayed in degrees Fahrenheit 
+Cleaning the dc-0 Dispenser cleaning NO activated  
+dc
+dispenser dc-1 Dispenser cleaning YES activated
+AC-0 Without acceleration permission
+AC Program acceleration
+AC-1 With acceleration permission  
+SP-0 Without suds prevention  
+Suds prevention
+SP
+(note 1)
+SP-1 Suds prevention option enabled
+Wash temperature tS-0 Wash temperature selection disabled
+tS selection when
+tS-1 Wash temperature selection enabled  
+starting program
+Pg-0 Purge option disabled  
+Hot water purge
+Pg
+(note 2)
+P250 Maximum purge time: 250 sec.
+Purge water outlet via normally opened drain
+Purge drain Pd-2  
+valve
+Pd selection.
+Purge water outlet via normally closed drain
+(note 3) Pd-3
+valve or pump.
+Id-0 Disabled communication  
+Id Network identifier
+Id-1..99 Enabled communication
+ Indicates default option following configuration.
+Note 1: EH020 models only.
+Note 2: Except models HS-6008, RMS610 & EH020.
+Note 3: Option available only on models with a double drainage kit installed on the machine and activated on
+the configuration menu.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 41 =====
+LOGI CONTROL. Advanced mode
+41
+6.7.2. Summary table of the changeable parameters Applicable only in the United Kingdom
+PARAMETER MODIFICATION OF OPTIONS CE USA
+b-0 Without buzzer
+b-1 Low buzzer
+b Buzzer
+b-2 Normal buzzer  
+b-3 Strong buzzer
+Information on the dt-0 Functions display  
+dt display during a
+program dt-1 Program time remaining display
+C Temperature displayed in degrees Celsius 
+C / F Temperature unit
+F Temperature displayed in degrees Fahrenheit 
+Cleaning the dc-0 Dispenser cleaning NO activated  
+dc
+dispenser dc-1 Dispenser cleaning YES activated
+AC-0 Without acceleration permission
+AC Program acceleration
+AC-1 With acceleration permission  
+Wash temperature tS-0 Wash temperature selection disabled
+tS selection when
+tS-1 Wash temperature selection enabled  
+starting program
+JL-0 Option disabled  
+Automatic weighing
+JL system (notes 1 and
+2)
+JL-2 Option enabled
+dL-0 Option disabled  
+Proportional dosing
+dL
+time (notes 1 and 2)
+dL-1 Option enabled
+Pg-0 Purge option disabled  
+Hot water purge
+Pg
+(note 3)
+P250 Maximum purge time: 250 sec.
+Purge water outlet via normally opened drain
+Purge drain Pd-2  
+valve
+Pd selection.
+Purge water outlet via normally closed drain
+(note 4) Pd-3
+valve or pump.
+Id-0 Disabled communication  
+Id Network identifier
+Id-1..99 Enabled communication
+ Indicates default option following configuration.
+Note 1: The weighing system is only applicable to HS models (Programs: 2, 3, 4 and 7).
+Note 2: The automatic weighing system is not applicable to model HS-6024.
+Note 3: Except models HS-6008 & RMS610.
+Note 4: Option available only on models with a double drainage kit installed on the machine and activated on
+the configuration menu.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 42 =====
+LOGI CONTROL. Advanced mode
+42
+6.7.3. Parameter modification sequence
+Access to ADVANCED USE MODE. Section 6.2. The display shows Pro.
+Press the ▲ key twice. The display shows INFO, Mod successively.
+Press key to display the first parameter.
+Buzzer
+The door safety unlock can be warned by sounding a beep. The duration of this warning is programmable.
+OPTIONS MEANING
+b-0 Buzzer OFF
+b-1 Low buzzer: two beeps
+b-2 Normal buzzer: four beeps
+b-3 Strong buzzer: six beeps
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Information on the display during a program
+Allows the user to select the information to be displayed during the program execution.
+If the view functions option is selected, the table in Section 5.1 allows the user to identify the reports on the
+display with the functions that the washing machine is executing.
+OPTIONS MEANING
+dt-0 Display of functions being executed by the washer
+dt-1 Display of the program time remaining in minutes
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Temperature unit
+The bath water temperature can be displayed in degrees Celsius or Fahrenheit.
+OPTIONS MEANING
+C Temperature unit in degrees Celsius
+F Temperature unit in degrees Fahrenheit
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 43 =====
+LOGI CONTROL. Advanced mode
+43
+Dispenser cleaning
+CAUTION!
+DO NOT ACTIVATE THIS OPTION IN MACHINES CONNECTED TO EXTERNAL DOSING
+INSTALLATIONS.
+This option activates the cleaning of the dispenser liquid product compartments by opening their water filling
+valves to eliminate the possible remaining products.
+OPTIONS MEANING
+dc-0 Dispenser cleaning NO activated
+dc-1 Dispenser cleaning YES activated
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Program acceleration
+Program acceleration can reduce the time of the programs accessing functions or subsequent phases, or
+reducing the times of rotation and spinning. There is also the possibility of increasing the rotation times.
+The AC option enables or disables the use of the ACCEL (acceleration) key.
+OPTIONS MEANING
+AC-0 Acceleration option disabled
+AC-1 Acceleration option enabled
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Suds prevention program
+(EH020 models only.)
+Certain detergents commonly used in some countries produce large quantities of suds and can complicate the
+proper functioning of the wash programs.
+To reduce this problem it is advisable to activate the suds prevention option (SP-I). This option modifies the
+contents of the programmes (see Section 5.3) by increasing rinsing efficiency.
+CAUTION!
+THE USE OF SOAP CHEMICALS WITH SUDS CONTROL IS RECOMMENDED. DO NOT EXCEED THE
+RECOMMENDED DOSAGE.
+OPTIONS MEANING
+SP-0 Without suds prevention
+SP-1 Suds prevention option enabled
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 44 =====
+LOGI CONTROL. Advanced mode
+44
+One-off wash phase temperature selection
+This option allows the user to disable the possibility of modifying the temperature of the wash phase for the
+program that is currently in use.
+OPTIONS MEANING
+tS-0 Wash phase temperature selection disabled
+tS-1 Wash phase temperature selection enabled
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Automatic weighing system (UK setting only)
+This option enables the user to activate the automatic weighing system. HS models only.
+OPTIONS MEANING
+JL-0 Automatic weighing system disabled
+JL-2 Automatic weighing system enabled
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Proportional dosing time (UK setting only)
+This option only appears if JL-2 has been programmed in the previous stage.
+This modifies the dosing time in proportion to the bath level calculated according to the load detected.
+OPTIONS MEANING
+dL-0 Proportional modification of the dosing time deactivated
+dL-1 Proportional modification of the dosing time activated
+The ▲ key allows the user to modify the option displayed.
+The PRO key validates the selection on the display and allows the user to access the following programmable
+function.
+Hot water purge
+(Option not available on HS-6008, MS-610, RMS610, EH020 and EM025)
+The purge is an option that keeps the water inlet valve and the drain valve simultaneously open during the
+programmed time, with the aim of purging the hot water pipe.
+The purge function is only executed at the first phase of the program with water filling at a temperature equal to
+or higher than 86 ºF (30 ºC).
+Purge time: programmable in 5 second steps.
+OPTIONS MEANING
+Pg-0 Purge disabled
+P*** Purge time in seconds (maximum time 250 sec.)
+The ▲/▼ keys allows to activate and modify the purge time.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 45 =====
+LOGI CONTROL. Advanced mode
+45
+Purge drain
+(Option available only on models with a double drainage kit installed on the machine and activated on the
+configuration menu. Intervention reserved for the Authorised Technical Service)
+The parameter only appears if a Purge Time other than 0 has been programmed in the previous parameter.
+This option allows selecting the drain through which the purging water will be drained.
+OPTIONS MEANING
+Pd-2 Purge water outlet via normally opened drain valve
+Pd-3 Purge water outlet via normally closed drain valve or pump.
+The ▲/▼ keys allows to activate and modify the purge time.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Network identifier
+This parameter assigns a network identifier to the washer. This identifier enables the communication of the
+washer with the environment through a protocol based on RS-485.
+Selected option by default: Id-0.
+OPTIONS MEANING
+Id-0 Disabled communication
+Id-1..99 Enabled communication
+For further information, see the Communication Protocol Instruction Manual.
+The ▲/▼ keys allows to activate and modify the Network identifier.
+Press key . The display shows Mod.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED USE MODE press the START/STOP key.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 46 =====
+LOGI CONTROL. Advanced mode
+46
+6.8. Code for accessing the ADVANCED USE MODE. Ncod menu
+As described in Section 6.2, the access to the CONFIGURATION mode is restricted by an access code.
+This code can be modified by the user if so desired.
+The code must always contain a combination of EIGHT numbers.
+6.8.1. Modifying of the access code
+Access the ADVANCED USE MODE. Section 6.2. The display shows Pro.
+Press ▲ key three times. The display shows INFO, Mod, NCod successively.
+Press the key to set a new code. All the information on the display will disappear.
+Enter a combination of eight numbers using the four central keys in the control panel.
+The key pressed is shown on the display as follows:
+KEY CORRESPONDENCE
+1
+▲ 2
+3
+▼ 4
+At the end of the sequence the SURE report will be shown.
+Confirm the new code with the key .
+If you do not wish to validate the new code, press the START/STOP key.
+In both cases, the display will show Ncod.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED USE MODE press the START/STOP key.
+NOTE
+If you forget the modified code, call the Service Department to restore the original code.
+6.9. System clock. Hour Menu
+Access to this menu is only possible if the clock option is available, and it allows the user to enquire and / or
+modify the time in the system.
+The clock must be set at the real time for the proper operation of the starting time.
+6.9.1. Setting the clock
+Access the ADVANCED USE MODE. Section 6.2. The display shows Pro.
+Press the ▲ key four times. The display will show INFO, Mod, NCod, Hour successively.
+When displaying Hour press the key. The SURE report will be displayed.
+The washing machine control requests confirmation of the access command for the time modification.
+To exit the Hour menu, press START/STOP.
+Press key to access and modify the clock time.
+The system time is shown on the display in the format: hh.mm (24 hour time format).
+The changeable parameters are shown flashing.
+Press key to pass from the minute modification to the hour modification.
+Change the selected value with the ▲/▼ keys.
+Press the key to validate the selection.
+The START/STOP key allows the user to exit the menu without validating the modification.
+After validating the time selection, Hour is shown on the display.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED USE MODE press the START/STOP key. The washing machine can execute the
+programs.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 47 =====
+LOGI PRO. Operation
+47
+LOGI PRO. SPECIFIC INFORMATION
+7. LOGI PRO. WASH PROGRAMS
+The washing machine offers the possibility of selecting from among 25 different washing programs. The first 8
+programs are devoted to different types of linen and degrees of soiling. The remaining programs have a single
+content in all their phases and are designed for the user to be able to modify them, thereby creating new
+programs.
+Depending on the AREA OF USE defined in the washing machine SETUP, the original content of the programs
+varies.
+The original content of the programs is defined as indicated in the charts in Section 7.3.
+The content of the programs may be modified; see Chapter 8: ADVANCED USE MODE.
+7.1. Main reports that appear on the display
+Viewing on the display the parameters that the washer is executing during the washing cycle. Value of the dt-0
+parameter in the Mod menu. (Section 8.5).
+REPORT MEANING
+LOAd Determination of load volume.
+Pr-* Program selected. Machine ready to wash
+A-1 Cold water inlet
+A-2 Hot water inlet
+d-* First dosing
+C-**
+Water temperature in degrees Celsius or Fahrenheit
+F***
+rt-* Rotation time left
+c-** Cooling temperature
+PUSH
+Program halt using the rh function
+STAR
+Et-* Spin time remaining
+End End of program. Door unlocked
+door Washer with door open
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 48 =====
+LOGI PRO. Operation
+48
+7.2. Interpretation of the program tables
+SYMBOL OPTION DESCRIPTION
+Estimated program time
+ Minimum program time based on a machine with hot water supply and without
+** heating. Time in minutes.
+Phase number
+Ph
+** The phase indicated with a grey background belongs to the wash phase.
+Phase execution
+Y / N Y Phase can be executed
+N Phase cannot be executed
+Bath level
+0 Without water inlet
+L
+1 Low level
+2 Medium low level
+(see note in 3 Medium level
+Section 4 Medium high level
+8.5.3) 5 High level
+6 Extra high level
+Temperature of the bath
+C / F
+** Value in degrees Celsius or Fahrenheit
+First dosing
+0 No dosing
+1 Dispensing via Compartment 1 (solid product)
+1d
+2 Dispensing via Compartment 2 (solid product)
+3 Dispensing via Compartment 3 (liquid product)
+4 Dispensing via Compartment 4 (liquid product)
+First dosing time
+dt
+** Value in seconds (see note in section 8.5.3)
+Second dosing
+2d **
+The same parameters as in the first dosing
+Second dosing time
+dt **
+Value in seconds
+Drum rotation sequence
+no No rotation in the phase
+r Lo Light rotation sequence: 5 sec. ON / 25 sec. OFF
+Md Normal rotation sequence: 15 sec. ON / 15 sec. OFF
+Hi Vigorous sequence rotation: 25 sec. ON / 5 sec. OFF
+Rotation time
+rt
+** Value in minutes
+Gradual cool down
+c 0 Option not available
+1 Option available
+Program stop
+rh 0 Option not available
+1 Option available
+Bath drain
+0 Access to the next phase without draining in the bath
+1 Drain + wash speed
+E
+2 Drain + positioning speed
+4 Drain + medium spin speed
+6 Drain + high spin speed
+Spin time
+Et ** Value in minutes
+- - - - Non programmable function in the phase
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 49 =====
+LOGI PRO. Operation
+49
+7.3. Original content of the washing programs
+7.3.1. General application. HS-6008, RMS610, RMG models
+Pr - 1. EXTRA HEAVY SOIL  66 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 20 68 1 30 0 - - - Hi 1 0 0 0 - - -
+2 Y 3 40 104 0 - - - 0 - - - Hi 6 0 0 1 - - -
+3 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 3
+4 Y 2 80 176 2 30 0 - - - Hi 12 0 0 1 - - -
+5 Y 3 40 104 3 30 0 - - - Hi 6 0 0 1 - - -
+6 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+7 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+8 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 2. HEAVY SOIL – WHITE  56 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 20 68 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 Y 3 30 86 1 30 0 - - - Hi 6 0 0 3 3
+3 Y 2 60 140 2 30 0 - - - Hi 10 0 0 2 2
+4 Y 3 40 104 3 30 0 - - - Hi 6 0 0 1 - - -
+5 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+6 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+7 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 3. WHITE  51 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 3
+2 Y 2 50 122 2 30 0 - - - Hi 8 0 0 2 2
+3 Y 3 30 86 3 30 0 - - - Hi 6 0 0 1 - - -
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+5 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+6 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 4. LIGHT SOIL - WHITE  37 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 2 40 104 2 30 0 - - - Hi 6 0 0 0 - - -
+2 Y 3 30 86 3 30 0 - - - Hi 6 0 0 1 - - -
+3 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+5 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 50 =====
+LOGI PRO. Operation
+50
+Pr - 5. HEAVY SOIL – COLOR  51 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 0 32 0 - - - 0 - - - Hi 4 0 0 1 - - -
+2 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 3
+3 Y 2 50 122 2 30 0 - - - Hi 10 0 0 2 2
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+5 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+6 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 6. MEDIUM SOIL - COLOR  40 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 30 86 1 30 0 - - - Md 4 0 0 2 2
+2 Y 2 40 104 2 30 0 - - - Hi 8 0 0 2 2
+3 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+4 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 1
+5 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 7
+Pr - 7. SYNTHETICS  30 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 40 104 1 30 0 - - - Md 4 0 0 2 2
+2 Y 2 40 104 2 30 0 - - - Md 6 0 0 2 2
+3 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+4 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 1
+5 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 6
+Pr - 8. DELICATES AND WOOL  31 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 4 0 32 1 30 0 - - - Lo 4 0 0 1 - - -
+2 Y 4 30 86 2 30 0 - - - Lo 9 0 0 1 - - -
+3 Y 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+4 Y 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+5 Y 4 0 32 4 30 0 - - - Lo 4 0 0 2 2
+Pr – 9 … 25. SINGLE CONTENT PROGRAMS  5 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 2 0 32 0 0 0 - - - Hi 2 0 0 1 - - -
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 51 =====
+LOGI PRO. Operation
+51
+7.3.2. USA/CANADA application. EH020, REM025, RMG models
+Pr - 1. EXTRA HEAVY SOIL - WHITE  49 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 2
+2 Y 3 80 176 2 30 0 - - - Hi 12 0 0 1 - - -
+3 Y 3 60 140 3 30 0 - - - Hi 6 0 0 3 2
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+6 Y 3 0 32 4 30 0 - - - Hi 2 0 0 6(*) 6
+Pr - 2. HEAVY SOIL - WHITE  42 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 40 104 1 30 0 - - - Hi 3 0 0 3 2
+2 Y 3 66 150 2 30 0 - - - Hi 8 0 0 1 - - -
+3 Y 3 60 140 3 30 0 - - - Hi 5 0 0 3 2
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+6 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 3. MEDIUM SOIL - WHITE  37 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 60 140 2 30 0 - - - Hi 10 0 0 1 - - -
+2 Y 3 60 140 3 30 0 - - - Hi 5 0 0 3 2
+3 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 0 32 4 30 0 - - - Hi 2 0 0 6(*) 6
+Pr - 4. LIGHT SOIL - WHITE  28 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 60 140 2 30 0 - - - Hi 6 0 0 1 - - -
+2 Y 3 60 140 3 30 0 - - - Hi 4 0 0 3 2
+3 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+4 Y 3 0 32 4 30 0 - - - Hi 2 0 0 6(*) 6
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 52 =====
+LOGI PRO. Operation
+52
+Pr - 5. HEAVY SOIL - COLOR  42 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 40 104 1 30 0 - - - Hi 4 0 0 3 2
+2 Y 3 60 140 2 30 0 - - - Hi 10 0 0 1 - - -
+3 Y 3 21 70 0 - - - 0 - - - Hi 2 0 0 3 2
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+6 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 6. MEDIUM SOIL - COLOR  36 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 30 86 1 30 0 - - - Hi 4 0 0 3 2
+2 Y 3 40 104 2 30 0 - - - Hi 8 0 0 1 - - -
+3 Y 3 21 70 0 - - - 0 - - - Hi 2 0 0 3 2
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 7. SYNTHETICS  29 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 40 104 2 30 0 - - - Hi 8 0 0 1 - - -
+2 Y 3 21 70 0 - - - 0 - - - Hi 2 0 0 3 2
+3 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+4 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 8. WOOL AND DELICATES  27 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 30 86 2 30 0 - - - Md 8 0 0 2 2
+2 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+3 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+4 Y 3 0 32 4 30 0 - - - Md 3 0 0 5 4
+Pr – 9 … 25. SINGLE CONTENT PROGRAMS  5 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 2 0 32 0 0 0 - - - Hi 2 0 0 1 - - -
+(*) In Models RMG033/40/55/70 the default spin value is 5.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 53 =====
+LOGI PRO. Operation
+53
+7.3.3. United Kingdom application. HS-6008, RMS610, RMG models
+Pr - 1. HEALTHCARE SLUICE  43 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 Y 3 0 32 1 30 0 - - - Hi 2 0 0 1 - - -
+3 Y 2 67 153 2 30 0 - - - Hi 11 0 0 2 2
+4 Y 3 0 32 3 30 0 - - - Hi 3 0 0 1 - - -
+5 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+6 Y 4 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 2. HEAVY SOIL  37 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 0 32 1 - - - 0 - - - Hi 3 0 0 3 3
+2 Y 2 55 131 2 30 0 - - - Hi 6 0 0 2 2
+3 Y 3 0 32 3 30 0 - - - Hi 2 0 0 3 3
+4 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 0 32 4 30 0 - - - Md 3 0 0 6 7
+Pr - 3. ECO. 60 ew  32 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 60 140 2 30 0 - - - Hi 10 0 0 2 1
+2 Y 4 0 32 0 - - - 0 - - - Hi 3 0 0 1 - - -
+3 Y 4 0 32 4 30 0 - - - Hi 3 0 0 6 9
+Pr - 4. LIGHT SOIL  32 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 2 40 104 2 30 0 - - - Hi 6 0 0 1 - - -
+2 Y 3 0 32 3 30 0 - - - Md 4 0 0 3 3
+3 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+4 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 5. COLOR  48 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 3 0 32 0 - - - 0 - - - Md 4 0 0 1 - - -
+2 Y 3 0 32 1 30 0 - - - Md 6 0 0 3 3
+3 Y 2 40 104 2 30 0 - - - Hi 7 0 0 2 2
+4 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+5 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+6 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 7
+Pr - 6. ECO EXPRESS 40OC  28 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 2 40 104 2 - - - 0 - - - Hi 6 0 0 2 2
+2 Y 3 0 32 0 30 0 - - - Md 3 0 0 3 3
+3 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 7
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 54 =====
+LOGI PRO. Operation
+54
+Pr - 7. SYNTHETICS  29 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 2 40 104 2 30 0 - - - Md 5 0 0 2 2
+2 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+3 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+4 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 6
+Pr - 8. WOOL AND DELICATES  32 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 4 0 32 1 30 0 - - - Lo 3 0 0 1 - - -
+2 Y 3 30 86 2 30 0 - - - Md 8 1 0 1 - - -
+3 Y 4 0 32 0 - - - 0 - - - Lo 3 0 0 1 - - -
+4 Y 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+5 Y 4 0 32 4 30 0 - - - Lo 4 0 0 4 3
+Pr – 9 … 25. SINGLE CONTENT PROGRAMS  5 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 Y 2 0 32 0 0 0 - - - Hi 2 0 0 1 - - -
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 55 =====
+LOGI PRO. Advanced mode
+55
+8. LOGI PRO. ADVANCED USE MODE
+There is an ADVANCED USE mode: This mode includes five different menus by means of which each user can
+personalise the operation of the washing machine.
+8.1. ADVANCED MODE menus
+MENU PURPOSE
+Pro Programming menu. Modification of the program contents
+INFO Information menu
+Mod Modification of the general operating parameters menu
+Ncod Modification of the access code menu
+HOUR Adjustment of the system time menu
+8.2. Access to ADVANCED MODE
+Connect the washer and open the door. The display will show door.
+Hold down the key until the display shows Cod.
+Enter the access code into the menus by pressing the sequence of eight keys of the code without interruption.
+In basic configuration (factory set) the code to access the ADVANCED USE MODE is: 12341234
+Numerical correspondence of each key
+KEY CORRESPONDENCE
+1
+▲ 2
+3
+▼ 4
+If the sequence entered is correct, the display will show Pro, corresponding to the first menu.
+The ▲/▼ keys allow the user to select the precedent table menus. The menu selected is shown on the display
+following its keyword. To enter the menu, press the key when displaying it.
+If you wish to skip the ADVANCED USE MODE, press START/STOP and the machine will return to the
+program execution mode.
+8.3. Modifying the contents of programs. Menu Pro
+In its original configuration the washer presents the first eight programs with a content adapted to a broad sector
+of use.
+The content of the remaining programs is the same in all the phases.
+The content of each program can be modified to adapt it to specific needs of different areas.
+The modifications are always made within the limits set by a PROGRAMMING VECTORS that includes the
+possible programmable parameters and the maximum and minimum values of certain options.
+At the start of each phase, a parameter of the value Ph-Y / Ph-N (executable phase YES / executable phase
+NO) will allow the user to determine whether the accessed phase should either be executed or omitted.
+Once the phase is defined as to be executed, proceed to the display and modification (if desired) of the
+parameters or values of the phase.
+In the LOGI PRO CONTROL, the programmable values are the same in all the phases of all the programs.
+Phase 11 is always of obligatory execution since it defines the end of the program.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 56 =====
+LOGI PRO. Advanced mode
+56
+8.4. Initial program content
+8.4.1. General application. HS-6008, RMS610, RMG models
+Pr - 1. EXTRA HEAVY SOIL  66 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 Y 3 20 68 1 30 0 - - - Hi 1 0 0 0 - - -
+4 Y 3 40 104 0 - - - 0 - - - Hi 6 0 0 1 - - -
+5 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 2 80 176 2 30 0 - - - Hi 12 0 0 1 - - -
+7 Y 3 40 104 3 30 0 - - - Hi 6 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+11 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 2. HEAVY SOIL – WHITE  56 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 20 68 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 Y 3 20 68 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 30 86 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 2 60 140 2 30 0 - - - Hi 10 0 0 2 2
+7 Y 3 40 104 3 30 0 - - - Hi 6 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+11 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 3. WHITE  51 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 2 50 122 2 30 0 - - - Hi 8 0 0 2 2
+7 Y 3 30 86 3 30 0 - - - Hi 6 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+11 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 4. LIGHT SOIL - WHITE  37 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 N 3 30 86 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 2 40 104 2 30 0 - - - Hi 6 0 0 0 - - -
+7 Y 3 30 86 3 30 0 - - - Hi 6 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+11 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 57 =====
+LOGI PRO. Advanced mode
+57
+Pr - 5. HEAVY SOIL – COLOR  51 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 40 104 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 Y 3 0 32 0 - - - 0 - - - Hi 4 0 0 1 - - -
+5 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 2 50 122 2 30 0 - - - Hi 10 0 0 2 2
+7 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 3 3
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 1
+11 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 6. MEDIUM SOIL - COLOR  40 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Md 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+5 Y 3 30 86 1 30 0 - - - Md 4 0 0 2 2
+6 Y 2 40 104 2 30 0 - - - Hi 8 0 0 2 2
+7 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+10 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 1
+11 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 7
+Pr - 7. SYNTHETICS  30 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 4 30 86 0 - - - 0 - - - Md 4 0 0 1 - - -
+4 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+5 Y 3 40 104 1 30 0 - - - Md 4 0 0 2 2
+6 Y 2 40 104 2 30 0 - - - Md 6 0 0 2 2
+7 N 4 0 86 0 - - - 0 - - - Md 2 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+10 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 1
+11 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 6
+Pr - 8. DELICATES AND WOOL  31 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 4 0 32 0 - - - 0 - - - Lo 4 0 0 1 - - -
+4 N 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+5 Y 4 0 32 1 30 0 - - - Lo 4 0 0 1 - - -
+6 Y 4 30 86 2 30 0 - - - Lo 9 0 0 1 - - -
+7 N 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+11 Y 4 0 32 4 30 0 - - - Lo 4 0 0 2 2
+Pr – 9 … 25. SINGLE CONTENT PROGRAMS  5 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1…10 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 2 0 32 0 0 0 - - - Hi 2 0 0 1 - - -
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 58 =====
+LOGI PRO. Advanced mode
+58
+8.4.2. USA/CANADA application. EH020, REM025, RMG models
+Pr - 1. EXTRA HEAVY SOIL - WHITE  49 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 40 104 1 30 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 40 104 1 30 0 - - - Hi 6 0 0 3 2
+6 Y 3 80 176 2 30 0 - - - Hi 12 0 0 1 - - -
+7 Y 3 60 140 3 30 0 - - - Hi 6 0 0 3 2
+8 N 4 0 32 0 - - - 0 - - - Hi 1 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 2 0 0 6(*) 6
+Pr - 2. HEAVY SOIL - WHITE  42 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 40 104 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 40 104 1 30 0 - - - Hi 3 0 0 3 2
+6 Y 3 66 151 2 30 0 - - - Hi 8 0 0 1 - - -
+7 Y 3 60 140 3 30 0 - - - Hi 5 0 0 3 2
+8 N 4 0 32 0 - - - 0 - - - Hi 1 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 3. MEDIUM SOIL - WHITE  37 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 N 3 30 86 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 3 60 140 2 30 0 - - - Hi 10 0 0 1 - - -
+7 Y 3 60 140 3 30 0 - - - Hi 5 0 0 3 2
+8 N 4 0 32 0 - - - 0 - - - Hi 1 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 2 0 0 6(*) 6
+Pr - 4. LIGHT SOIL - WHITE  28 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 N 3 30 86 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 3 60 140 2 30 0 - - - Hi 6 0 0 1 - - -
+7 Y 3 60 140 3 30 0 - - - Hi 4 0 0 3 2
+8 N 4 0 32 0 - - - 0 - - - Hi 1 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Hi 1 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 2 0 0 6(*) 6
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 59 =====
+LOGI PRO. Advanced mode
+59
+Pr - 5. HEAVY SOIL - COLOR  42 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 40 104 0 - - - 0 - - - Md 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Md 4 0 0 1 - - -
+5 Y 3 40 104 1 30 0 - - - Hi 4 0 0 3 2
+6 Y 3 60 140 2 30 0 - - - Hi 10 0 0 1 - - -
+7 Y 3 21 70 0 - - - 0 - - - Hi 2 0 0 3 2
+8 N 4 0 32 0 - - - 0 - - - Md 1 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 6. MEDIUM SOIL - COLOR  36 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Md 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+5 Y 3 30 86 1 30 0 - - - Hi 4 0 0 3 2
+6 Y 3 40 104 2 30 0 - - - Hi 8 0 0 1 - - -
+7 Y 3 21 70 0 - - - 0 - - - Hi 2 0 0 3 2
+8 N 4 0 32 0 - - - 0 - - - Md 1 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Md 1 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 7. SYNTHETICS  29 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 4 0 32 0 - - - 0 - - - Md 4 0 0 1 - - -
+4 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+5 N 3 0 32 1 30 0 - - - Md 4 0 0 2 2
+6 Y 3 40 104 2 30 0 - - - Hi 8 0 0 1 - - -
+7 Y 3 21 70 0 - - - 0 - - - Hi 2 0 0 3 2
+8 N 4 0 32 0 - - - 0 - - - Md 1 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Md 1 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 3 0 0 6(*) 6
+Pr - 8. WOOL AND DELICATES  27 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 4 0 32 0 - - - 0 - - - Lo 4 0 0 1 - - -
+4 N 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+5 N 4 0 32 1 30 0 - - - Lo 4 0 0 1 - - -
+6 Y 3 30 86 2 30 0 - - - Md 8 0 0 2 2
+7 N 3 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Md 1 0 0 1 - - -
+9 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Md 3 0 0 5 4
+PR – 9 … 25. SINGLE CONTENT PROGRAMS  5 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1…10 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 2 0 32 0 0 0 - - - Hi 2 0 0 1 - - -
+(*) In Models RMG033/40/55/70 the default spin value is 5.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 60 =====
+LOGI PRO. Advanced mode
+60
+8.4.3. United Kingdom application. HS-6008, RMS610, RMG models
+Pr - 1. HEALTHCARE SLUICE  43 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 40 104 1 30 0 - - - Hi 4 0 0 1 - - -
+4 Y 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 0 32 1 30 0 - - - Hi 2 0 0 1 - - -
+6 Y 2 67 153 2 30 0 - - - Hi 11 0 0 2 2
+7 Y 3 0 32 3 30 0 - - - Hi 3 0 0 1 - - -
+8 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 4 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Pr - 2. HEAVY SOIL  37 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 Y 3 40 104 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 Y 3 0 32 1 30 0 - - - Hi 3 0 0 3 3
+6 Y 2 55 131 2 30 0 - - - Hi 6 0 0 2 2
+7 Y 3 0 32 3 30 0 - - - Hi 2 0 0 3 3
+8 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Md 3 0 0 6 7
+Pr - 3. ECO. 60 ew  32 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 N 3 40 104 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 3 60 140 2 30 0 - - - Hi 10 0 0 2 1
+7 Y 4 0 32 0 - - - 0 - - - Hi 3 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 4 0 32 4 30 0 - - - Hi 3 0 0 6 9
+Pr - 4. LIGHT SOIL  32 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Hi 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+5 N 3 30 104 1 30 0 - - - Hi 6 0 0 3 3
+6 Y 2 40 104 2 30 0 - - - Hi 6 0 0 1 - - -
+7 Y 3 0 32 3 30 0 - - - Md 4 0 0 3 3
+8 Y 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+10 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Hi 4 0 0 6 7
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 61 =====
+LOGI PRO. Advanced mode
+61
+Pr - 5. COLOR  48 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 40 104 0 30 0 - - - Md 4 0 0 1 - - -
+4 Y 3 0 32 0 - - - 0 - - - Md 4 0 0 1 - - -
+5 Y 3 0 32 1 30 0 - - - Md 6 0 0 3 3
+6 Y 2 40 104 2 30 0 - - - Hi 7 0 0 2 2
+7 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+8 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 7
+Pr - 6. ECO EXPRESS 40ºC  28 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 3 30 86 0 - - - 0 - - - Md 4 0 0 1 - - -
+4 N 3 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+5 N 3 40 104 1 30 0 - - - Md 4 0 0 2 2
+6 Y 2 40 104 2 30 0 - - - Hi 6 0 0 2 2
+7 Y 3 0 32 0 - - - 0 - - - Md 3 0 0 3 3
+8 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+10 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 7
+Pr - 7. SYNTHETICS  29 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 4 30 86 0 - - - 0 - - - Md 4 0 0 1 - - -
+4 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+5 N 3 40 104 1 30 0 - - - Md 4 0 0 2 2
+6 Y 2 40 104 2 30 0 - - - Md 5 0 0 2 2
+7 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 3 3
+8 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Md 2 0 0 1 - - -
+11 Y 3 0 32 4 30 0 - - - Md 4 0 0 6 6
+Pr - 8. WOOL AND DELICATES  32 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+2 N 4 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+3 N 4 0 32 0 - - - 0 - - - Lo 4 0 0 1 - - -
+4 N 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+5 Y 4 0 32 1 30 0 - - - Lo 3 0 0 1 - - -
+6 Y 3 30 86 2 30 0 - - - Md 8 1 0 1 - - -
+7 Y 4 0 32 0 - - - 0 - - - Lo 3 0 0 1 - - -
+8 N 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+9 N 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+10 Y 4 0 32 0 - - - 0 - - - Lo 2 0 0 1 - - -
+11 Y 4 0 32 4 30 0 - - - Lo 4 0 0 4 3
+Pr – 9 … 25.SINGLE CONTENT PROGRAMS  5 MIN
+Ph Y/N L C F 1d dt 2d dt r rt c rh E Et
+1…10 N 3 0 32 0 - - - 0 - - - Hi 2 0 0 1 - - -
+11 Y 3 0 32 0 0 0 - - - Hi 2 0 0 1 - - -
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 62 =====
+LOGI PRO. Advanced mode
+62
+8.5. Modifying a program
+8.5.1. Programming vectors
+PHASE Ph L C / F 1d dt 2d dt r rt c rh E Et
+0 ... 90 no, Lo,
+1…10 Y / N 0…6 0…4 1…99 0…4 1…99 0...20 0 / 1 0 / 1 0 / 1…6 n.p. 2...9
+32 ... 194 Md, Hi
+0 ... 90 no, Lo,
+11 Y 0…6 0…4 1…99 0…4 1…99 0...20 0 / 1 0 / 1 1…6 n.p. 2...9
+32 ... 194 Md, Hi
+8.5.2. Definition of programmable functions and values for each phase
+FUNCTION CONCEPT OPTIONS
+Ph-Y Phase can be executed
+Ph Phase execution
+Ph-N Phase cannot be executed
+L-0 Without water inlet
+L-1 Low level
+L-2 Medium low level
+Bath level
+L L-3 Medium level
+(see note in Section 8.5.3)
+L-4 Medium high level
+L-5 High level
+L-6 Extra high level
+0 / 90 Programmable range in degrees Celsius
+C / F Temperature of the bath
+32 / 194 Programmable range in degrees Fahrenheit
+1d-0 Phase without dosing
+Dosing via compartment 1 (powder)
+1d-1
+External dosing signal 1
+Dosing via compartment 2 (powder)
+1d-2
+1d First dosing External dosing signal 2
+Dosing via compartment 3 (liquid)
+1d-3
+External dosing signal 3
+Dosing via compartment 4 (liquid)
+1d-4
+External dosing signal 4
+t First dosing time 0 / 99 Value in seconds (see note in section 8.5.3)
+2d Second dosing 2d-* The same parameters as in the first dosing
+t Second dosing time 1 / 99 Value in seconds
+no No rotation in the phase
+Lo Light rotation sequence: ON: 5 sec. / OFF: 25 sec.
+r Rotation sequence
+Md Normal rotation sequence: ON: 15 sec. / OFF: 15 sec.
+Hi Vigorous rotation sequence: ON: 5 sec./ OFF: 25 sec.pm
+rt Rotation time 1...20 Value in minutes
+0 Without gradual cool-down
+c Gradual cool down
+n.p Gradual cool-down activated
+0 Without program stop
+rh Program stop
+1 Program stop activated
+0 Access to the next phase without draining in the bath
+1 Drain + wash speed
+2 Drain + positioning speed
+E Bath drain 3 Drain + low extract speed
+4 Drain + medium spin speed
+5 Drain + medium/high extract speed
+6 Drain + high spin speed
+Et Extract time ** Time in minutes.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 63 =====
+LOGI PRO. Advanced mode
+63
+8.5.3. Program modification sequence
+Access the ADVANCED USE MODE (Section 8.2). The display shows Pro.
+Press the key to access the PROGRAMMING menu.
+The display shows Pr-1. Program 1 is ready for modification. The ▲/▼ keys allow the user to select another
+program. Press the key to access the modification of the displayed program.
+The display shows Pr-1. Phase 1 is ready for modification. The ▲/▼ keys allow the user to select another
+phase. Press the key to start modifying the values of the selected phase.
+When the number of the phase is displayed (at the start of phase), the START/STOP key is used to finalise the
+program modification.
+Once a program modification has been finalised, the display will show the Pr-* report (modified program).
+Pressing the START/STOP key allows the user to access the higher level of the menu. Pressing twice
+consecutively allows the user to exit the ADVANCED USE MODE.
+Activation of the phase
+Allows the user to program the execution of the selected phase.
+Once the desired phase to be modified has been selected, press the key. The display shows Ph-*.
+OPTIONS MEANING
+Ph-Y The phase to be executed is available
+Ph-N The phase to be executed is unavailable
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Bath level
+Bath level allows the selection of the bath level inside the washer.
+OPTIONS MEANING
+L-0 Without water inlet
+L-1 Low level
+L-2 Medium low level
+L-3 Medium level
+L-4 Medium high level
+L-5 High level
+L-6 Extra high level
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+CAUTION!
+Programming levels L4, L5 and L6 IS NOT ALLOWED in models with a pump drain or drain closed
+without power supply.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 64 =====
+LOGI PRO. Advanced mode
+64
+Temperature of the bath
+Allows the water temperature to be modified
+OPTIONS MEANING
+Programmable values
+C-00 ... C-90 C-**:degrees Celsius
+F 32 ... F 194 F***:degrees Fahrenheit
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+First dosing
+This allows the dosing of each phase to be selected.
+The simultaneous dosing of two products can be programmed in each phase. The programming option for the
+second product will only appear if product dosing has been programmed in the first dosing.
+OPTIONS MEANING
+1d-0 Phase without dosing
+Dosing via compartment 1 (powder)
+1d-1
+External dosing signal 1
+Dosing via compartment 2 (powder)
+1d-2
+External dosing signal 2
+Dosing via compartment 3 (liquid)
+1d-3
+External dosing signal 3
+Dosing via compartment 4 (liquid)
+1d-4
+External dosing signal 4
+The external dosing signals are simultaneously connected with the water inlets via the dispenser.
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+First dosing time
+Duration of the first dosing programmed in the phase.
+This option will only appear if product dosing has been programmed in the first dosing.
+The dosing time controls both the duration of the opening of the valve for entry of water into the dispenser and
+the signal for activating the external dosing.
+CAUTION!
+IT IS NOT ADVISABLE TO REDUCE THE DISPENSING TIME IN MACHINES THAT ARE NOT
+CONNECTED TO EXTERNAL DISPENSING EQUIPMENT.
+Default values of the program tables may slightly vary depending on the machine model.
+OPTIONS MEANING
+1 ... 99 Programmable range. Value in seconds
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Second dosing and second dosing time
+This allows the user to select the second dosing of each phase and its corresponding duration.
+The second dosing is initiated at the same time as the first dosing.
+These options only appear if the product dosing has been programmed in the first dosing.
+Programmable options and range as in the first dosing.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 65 =====
+LOGI PRO. Advanced mode
+65
+Rotation sequence
+The mechanical action of the washing machine on the linen is different depending on the rotation sequence
+selected.
+R.P.M. FOLLOWING MACHINE MODEL
+HS-6008
+ROTATION
+OPTIONS REVERSE RMS610 RMG613/17 RMG623 RMG628
+SEQUENCE
+EH020 RMG033/040 RMG055 RMG070
+REM025
+No rotation in
+no - - - - - - - - - - - - - - - - - - - - -
+the phase
+ON: 5 sec.
+Lo Low 25 30 30 20
+OFF: 25 sec.
+ON: 15 sec.
+Md Normal 35 37 37 36
+OFF: 15 sec.
+ON: 25 sec.
+Hi High 50 47 44 42
+OFF: 5 sec.
+Time ON: drum rotating
+Time OFF: drum stopped
+The speeds may vary slightly depending on the type of load.
+The ▲key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Gradual cool down
+The gradual cooling down of the water is achieved by adding cold water until a temperature of 45 ºC (113 ºF) is
+reached.
+This function will appear only if the programmed temperature in the phase is over 50 ºC (122 ºF).
+OPTIONS MEANING
+c-0 Gradual cool-down deactivated
+c-1 Gradual cool-down activated
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Program stop
+All the functions of the washing machine stop, maintaining the water inside, with a light rotation of the drum at
+15 minute intervals.
+This option can be programmed in any phase of the program.
+When programmed before the final phase spin, the indicator light for the function lights up on the control panel.
+OPTIONS MEANING
+rh-0 Program stop deactivated
+rh-1 Program stop active in the phase
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 66 =====
+LOGI PRO. Advanced mode
+66
+Bath drain
+The emptying of the washing machine bath involves activating the draining system, and the selection of a drum
+rotation speed.
+Option E-1 implies an unchangeable time value. The duration of options E-2...E-6 is programmable within a
+determined range.
+R.P.M. (G FORCE) FOLLOWING MACHINE MODEL
+MEANING HS-6008 RMS610 RMG613 RMG617 RMG623 RMG628
+EH020 REM025 RMG033 RMG040 RMG055 RMG070
+Without draining
+E-0 - - - - - - - - - - - - - - - - - - - - - - - -
+Access to the next phase
+E-1 Drain + wash speed 50 50 44 47 47 45
+E-2 Drain + positioning speed 100 100 100 100 100 100
+E-3 Drain + low extract speed 400(50) 400(50) 380(50) 380(50) 360(50) 342(50)
+Drain + medium spin
+E-4 600(110) 500(75) 574(115) 574(115) 505(100) 485100)
+speed
+Drain + medium/high
+E-5 800(190) 580(100) 635(140) 635(140) 600(140) 570(140)
+extract speed
+E-6 Drain + high spin speed 970(280) 600(108) 760(200) 760(200) 715(200) 685(200)
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Spin time
+Extract time programmed in the phase. Time in minutes.
+OPTIONS MEANING
+n.p. Draining time E-1 not programmable
+2 ... 9 Programmable values
+The ▲/▼ keys allow the user to modify the option displayed.
+The key validates the displayed selection and ends the phase programming.
+The display will show the following phase.
+When finalising the programming of the last phase of the program, the display shows Pr-* (modified program).
+The ▲/▼ keys allow the user to select another program in the PROGRAMMING menu.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 67 =====
+LOGI PRO. Advanced mode
+67
+8.6. Information menu. INFO menu
+PARAMETERS MEANING
+LOGI Type of control
+**** Washer model
+EP
+Software version
+****
+Pr Number of total cycles executed
+Pr-* Number of cycles executed individually by each program
+SUD Number of times the anti-suds function has been activated
+Access the ADVANCED USE MODE. Section 8.2. The display shows Pro.
+Press the ▲key. The display shows INFO.
+Press the key to sequentially access the listing of the different parameters and the values for the
+corresponding counters.
+Once the last option is listed, press the key. The display shows INFO.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED USE MODE press the START/STOP key.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 68 =====
+LOGI PRO. Advanced mode
+68
+8.7. Modifying the operating parameters. Mod menu
+The Mod menu allows the user to modify the operation parameters of all the programs.
+The modifications carried out from Mod menu affects all programs.
+8.7.1. Summary table of the changeable parameters
+PARAMETER MODIFICATION OF OPTIONS CE USA
+b-0 Without buzzer
+b-1 Low buzzer
+b Buzzer
+b-2 Normal buzzer  
+b-3 Strong buzzer
+Information on the dt-0 Functions display  
+dt display during a
+program dt-1 Program time remaining display
+C Temperature unit in degrees Celsius 
+C / F Temperature unit
+F Temperature unit in degrees Fahrenheit 
+Cleaning the dc-0 Dispenser cleaning NO activated  
+dc
+dispenser dc-1 Dispenser cleaning YES activated
+AC-0 Without acceleration permission
+AC Program acceleration
+AC-1 With acceleration permission  
+JL-0 Option disabled  
+Proportional water
+JL
+level
+JL-1 Option enabled
+dL-0 Option disabled  
+Proportional dosing
+dL
+time
+dL-1 Option enabled
+PG-0 Purge option disabled  
+Pg Hot water purge
+PG*** Maximum purge time: 250 sec.
+Id-0 Disabled communication  
+Id Network identifier
+Id-1..99 Enabled communication
+ Indicates default option following configuration.
+8.7.2. Parameter modification sequence
+Access to ADVANCED USE MODE. Section 8.2. The display shows Pro.
+Press the ▲ key twice. The display shows INFO, Mod successively.
+Press key to display the first parameter.
+Buzzer
+The door safety unlock can be warned by sounding a beep. The duration of this warning is programmable.
+OPTIONS MEANING
+b-0 Buzzer OFF
+b-1 Low buzzer: two beeps
+b-2 Normal buzzer: four beeps
+b-3 Strong buzzer: six beeps
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 69 =====
+LOGI PRO. Advanced mode
+69
+Information on the display during a program
+Allows the user to select the information to be displayed during the program execution.
+If the View Functions option is selected, the table in Section 7.1 allows the user to identify the reports displayed
+with the functions that the washing machine is executing.
+OPTIONS MEANING
+dt-0 Display of functions being executed by the washer
+dt-1 Display of the program time remaining in minutes
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Temperature unit
+The bath water temperature can be displayed in degrees Celsius or Fahrenheit.
+OPTIONS MEANING
+C Temperature unit in degrees Celsius
+F Temperature unit in degrees Fahrenheit
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Dispenser cleaning
+CAUTION!
+DO NOT ACTIVATE THIS OPTION IN MACHINES CONNECTED TO EXTERNAL DOSING
+INSTALLATIONS.
+This option activates the cleaning of the dispenser liquid product compartments by opening their water filling
+valves to eliminate the possible remaining products.
+OPTIONS MEANING
+dc-0 Dispenser cleaning NO activated
+dc-1 Dispenser cleaning YES activated
+The ▲/▼ keys allow the modification of the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Program acceleration
+Program acceleration can reduce the time of the programs accessing functions or subsequent phases, or
+reducing the times of rotation and spinning. There is also the possibility of increasing the rotation times.
+The AC option enables or disables the use of the (acceleration) key.
+OPTIONS MEANING
+AC-0 Acceleration option disabled
+AC-1 Acceleration option enabled
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 70 =====
+LOGI PRO. Advanced mode
+70
+Proportional water level
+This modifies the values of the bath levels in proportion to the predetermined load.
+OPTIONS MEANING
+JL-0 Proportional modification of the bath time deactivated
+JL-1 Proportional modification of the bath time activated
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Proportional dosing time
+This option only appears if JL-1 has been programmed in the previous stage.
+It modifies the dosing time in proportion to the bath level calculated according to the predetermined load.
+OPTIONS MEANING
+dL-0 Proportional modification of the dosing time deactivated
+dL-1 Proportional modification of the dosing time activated
+The ▲ key allows the user to modify the option displayed.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Hot water purge
+The purge is an option that keeps the water inlet valve and the drain valve simultaneously open during the
+programmed time, with the aim of purging the hot water pipe.
+The purge function is only executed during the first phase of the program with water filling if the programmed
+temperature is equal or higher than 86 ºF (30 ºC).
+Purge time: programmable in 5 second steps.
+OPTIONS MEANING
+Pg-0 Purge disabled
+Pg** Programmed purge time. Maximum time: 250 sec.
+The ▲/▼ keys allows to activate and modify the purge time.
+The key validates the selection on the display and allows the user to access the following programmable
+function.
+Network identifier
+This parameter assigns a network identifier to the washer. This identifier enables the communication of the
+washer with the environment through a protocol based on RS-485.
+Selected option by default: Id-0.
+OPTIONS MEANING
+Id-0 Disabled communication
+Id-1..99 Enabled communication
+For further information, see the Communication Protocol Instruction Manual.
+The ▲/▼ keys allows to activate and modify the Network identifier.
+Press the key. The display shows Mod.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED USE MODE press the START/STOP key.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 71 =====
+LOGI PRO. Advanced mode
+71
+8.8. Code for accessing the ADVANCED MODE. Ncod menu
+As described in Section 8.2 the access to ADVANCED MODE is restricted by an access code.
+This code can be modified by the user if so desired.
+The code must always contain a combination of EIGHT numbers.
+8.8.1. Modifying of the access code
+Access to ADVANCED MODE. Section 8.2. The display shows Pro.
+Press ▲ key three times. The display shows INFO, Mod, NCod successively.
+Press the key to set a new code. All the information on the display will disappear.
+Enter a combination of eight keys using the four central keys in the control panel.
+The pressed key is shown on the display as follows:
+KEY CORRESPONDENCE
+1
++ 2
+3
+− 4
+At the end of the sequence the SURE report will be shown.
+Confirm the new code with the key .
+If you do not wish want to validate the new code, press the START/STOP key.
+In both cases, the display will show Ncod.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED USE MODE press the START/STOP key.
+NOTE.
+If you forget the modified code, call the Service Department to restore the original code.
+8.9. System clock. Hour Menu
+Access to this menu is only possible if the clock option is available.
+This menu allows the user to check and / or modify the time in the system.
+The clock must be set at the real time for the proper operation of the starting time.
+8.9.1. Setting the clock
+Access to ADVANCED MODE. Section 8.2. The display shows Pro.
+Press the ▲ key four times. The display shows INFO, Mod, NCod, Hour successively.
+When displaying Hour press the key. The SURE report will be displayed.
+The washing machine control requests confirmation of the access command for the time modification.
+To exit the Hour menu, press START/STOP.
+Press key to access and modify the clock time.
+The system time is shown on the display in the format: hh.mm (24 hour time format).
+The changeable parameters are shown flashing.
+Press key to pass from the minute modification to the hour modification.
+Change the selected value with the▲/▼ keys.
+Press the key to validate the selection.
+The START/STOP key allows the user to exit the menu without validating the modification.
+After validating the time selection, Hour is shown on the display.
+The ▲/▼ keys allow the user to access to other menus.
+To exit the ADVANCED MODE press the START/STOP key. The washing machine can execute the programs.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 72 =====
+Troubleshooting
+72
+INFORMATION COMMON TO BOTH LOGI CONTROL AND LOGI PRO
+CONTROL
+9. TROUBLESHOOTING
+9.1. Freeing a trapped person
+PROCEDURE IN THE EVENT OF ENTRAPMENT OF A PERSON OR AN ANIMAL
+INSIDE THE WASHER
+1. Press the START/STOP key. This action interrupts the wash cycle in operation and opens the washing
+machine drain. The washing machine control circuit remains in operation.
+2. Open the door. After the bath has been drained and the drum rotation has ended, the door lock is
+unblocked allowing the door to be opened.
+3. If the door fails to release: Consult the following sections: Dismantling the door of the washing
+machine, or Manual realising of the safety lock (sections 9.2 and 9.3)
+CAUTION! If instead of pressing the START/STOP key you perform one of the following
+actions THE DOOR LOCK WILL NOT BE RELEASED immediately:
+• Pressing the EMERGENCY STOP
+• Disconnecting the ON/OFF switch
+• Disconnecting the SWITCH DISCONNECTOR
+9.2. Manual releasing the safety lock
+WARNING:
+This procedure is recommended in problems caused by a
+failure to realise the door of the machine. It should only be
+carried out by the Authorised Technical Service except in
+emergency situations.
+Specific information for HS-6023, HS-6024, EH055, EH060,
+RMS/RMG628, REM/RMG070 models.
+Before disassembling the door of the washing machine:
+• Check that the bath level does not exceed the door opening
+level.
+• Close and mechanically interlock the manual water supply
+valves.
+• Close and mechanically lock the manual steam inlet valve
+(steam heated washing machines)
+• Disconnect and mechanically lock the External Automatic
+Switch or the of the washing machine disconnector switch.
+In order to release the safety lock manually, completely insert a rod Fig. 9.3
+with a diameter of 0.2 inches (3 mm) and an approximate length of
+4 inches (100 mm)into the bottom side of the safety lock cover, and
+at the same time turn the knob downwards (Fig. 9.3).
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 73 =====
+Troubleshooting
+73
+9.3. Disassembling the door of the washing machine
+WARNING:
+It should only be carried out by the Authorised Technical
+Service except in emergency situations. This procedure is
+recommended in problems caused by a failure to realise
+the door of the machine.
+Specific information for RMS610, RMS/RMG613, RMS/
+/RMG617, RMS/RMG623, RMS/RMG628, HS-6008, HS-6013,
+HS-6017, HS-6024, REM025, REM/RMG033, REM/RMG040, Fig. 9.1
+REM/RMG055, REM/RMG070, EH020, EH030, EH040, EH060.
+Before disassembling the door of the washing machine:
+• Check that the bath level does not exceed the door
+opening level.
+• Close and mechanically interlock the manual water supply
+valves.
+• Close and mechanically lock the manual steam inlet valve
+(steam heated washing machines)
+• Disconnect and mechanically lock the External Automatic
+Switch or the of the washing machine disconnector switch.
+Fig. 9.2
+Door disassembly.
+• Remove the protective caps from the hinge securing
+screws. (Fig. 9.1). On RMS/RMG628, REM/RMG070, HS-
+6024 and EH040 models, the plastic protector has to be
+removed first (Fig.9.2/A).
+• Remove the hinge securing screws (Fig. 9.3).
+Fig. 9.3
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 74 =====
+Troubleshooting
+74
+9.4. What to do when …
+Some of the washing machine’s operating problems can be solved by the user intervention. These problems are
+detailed below.
+Should you have any questions, remember to consult the Authorised Technical Service.
+..... the wash cycle ends with the report: END/BAL
+This report indicates that the final spin cycle is not possible because the load is unbalanced.
+• Unload the machine and reload it.
+• Begin the wash cycle and accelerate the program to the last phase.
+• The washing machine will repeat the last spin cycle without refilling with water.
+• If the problem persists, or occurs often, contact the Authorised Technical Service.
+..... the machine makes a strange noise during the spin cycle
+• Check the levelling of the machine. See Instruction Manual for Installation.
+• Tighten the locking screws on the outside panels.
+• If fault persists, contact the Authorised Technical Service.
+..... the door is leaking
+• Clean the door seal of any possible deposits or remains of linen.
+..... there is water leaking inside the washer cabinet
+• Check the outlet draining pipe.
+• Check the seals on the water inlet hoses; tighten the connection couplings.
+• Check the condition of the door seal and check whether there are any ruptures.
+• If the problem persists, seal all of the water inlets and contact the Authorised Technical Service.
+..... you have forgotten the access code for the advanced mode
+• Contact the Authorised Technical Services.
+..... the clock (option) stops working correctly. Possible battery failure. Contact the Authorised Technical
+Services.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 75 =====
+Troubleshooting
+75
+9.5. System alarms
+The safety of the washing machine in use requires the machine to monitor itself closely for any possible
+anomalies. These anomalies are reported in the form of alarms.
+The ALM message will appear on the washing machine’s display alternating with the specific alarm report.
+DISPLAY REPORT LIKELY CAUSE PROCEDURE
+Check water entry pressure.
+Check the manual water inlet valves.
+Faulty water inlet
+Check the status of the filters in the solenoid
+ALM/A-*
+valves. (Refer to section 10: Maintenance)
+Defect in the solenoid valves
+Contact Authorised Technical Services.
+Defect in the level control system
+Machines with pump drain: obstruction of the
+Contact Authorised Technical Services.
+draining pump
+ALM/E Check the status of the washing bath’s output
+Anomaly in the drain system
+hoses.
+Error in drain configuration
+Contact Authorised Technical Services.
+Close the door of the washing machine to allow
+opening of cold water valve.
+Press START/STOP key to drain the bath and
+Inadequate stop of the washing machine with access the door opening.
+bath at high temperature Repeat this operation until the alarm report
+ALM/HOT Excessive temperature when machine is disappears.
+stopped If the alarm report does not disappear after five
+Anomaly in the heating system attempts, disconnect the general power supply
+and close the water inlet manual valves.
+Contact AUTHORISED TECHNICAL
+SERVICES.
+Close manual water inlet valves.
+Leakage in the solenoid valve
+ALM/L Contact AUTHORISED TECHNICAL
+Bath level with machine idle
+SERVICES.
+Close manual water inlet valves.
+ALM/SL Bath level exceeded Contact AUTHORISED TECHNICAL
+SERVICES.
+Defect in the temperature probe
+Contact AUTHORISED TECHNICAL
+ALM/C Error in the heating configuration
+SERVICES.
+Defect in the heating circuit
+Contact AUTHORISED TECHNICAL
+ALM/Prob Defect in the temperature probe
+SERVICES.
+Contact AUTHORISED TECHNICAL
+ALM/BAL Defect in the unbalance control switch
+SERVICES.
+Disconnection of the motor’s thermal protection Contact AUTHORISED TECHNICAL
+ALM/VAR*
+Alarm set off by the inverter SERVICES.
+Contact AUTHORISED TECHNICAL
+ALM door Faulty door lock
+SERVICES.
+The washing machine will automatically accept
+Interruption of the program using the cold water and will not allow the door unlock.
+Hot START/STOP key with the bath at high When the bath temperature is below 45 ºC
+temperature (133 ºF) the bath will drain and the safety door
+lock will be released.
+door Door badly closed Open and close the door.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 76 =====
+Maintenance
+76
+10. MAINTENANCE
+Caution
+• The users must refrain from carrying out actions reserved for the Authorised Technical
+Services.
+• Before performing any work on the washing machine, disconnect and mechanically lock the
+external switch, and close and mechanically lock the manual water inlet valves.
+• Check that the temperature of the parts to be handled represents no risk of burns.
+• The dispenser may contain residues of chemical products. In cleaning operations, avoid direct
+contact with the skin and protect the eyes.
+• The draining pump and valve may contain residual water. When handling these components,
+avoid direct contact with the skin and use eye protection.
+• Remember to reassemble ALL of the panels and replace them correctly after any maintenance
+work.
+• It is highly recommended to ask the Authorised Technical Service for a register or report of all
+the maintenance and service work done on your washer.
+Operations described
+USER-MAINTENANCE INSTRUCTIONS
+• Cleaning the washer (Section 10.1)
+• Cleaning the door seal (Section 10.2)
+• Cleaning the solenoid valve filters (Section 10.3)
+• Checking safety devices (Section 10.4)
+ONLY TO BE PERFORMED BY THE AUTHORISED TECHNICAL SERVICE
+• Cleaning the dispenser (Section 10.5)
+• Cleaning the drain pump (Section 10.6)
+• Checking the condition of the bearing housing seals (Section 10.7)
+• General overhaul (Section 10.8)
+10.1. Cleaning the washer
+• We recommend cleaning the outside of the washing machine periodically. Use a damp cloth or sponge.
+• To remove grease marks use a neutral soap and rinse well.
+• Never use aggressive products, solvents, abrasive scourers or tools that may scratch or deteriorate the
+external surface of the washing machine.
+10.2. Cleaning the door seal
+• Use a cloth or sponge moistened in water.
+• Be especially careful to remove traces of laundry products or pieces of fabric that could be caught between
+the folds of the seal.
+• Never use abrasive products or tools that could cut or damage the seal.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 77 =====
+Maintenance
+77
+10.3. Cleaning the solenoid valve filters
+Only by qualified personnel
+Required tools:
+• Disassembly of the fittings: Slip-joint pliers or pipe spanner diam. 1-½ in. (35 mm)
+• Disassembly of the filter supports: spanner 1-3/ in (34 mm)
+8
+• Disassembly of the filters: pliers
+Steps to follow
+• Disconnect and mechanically lock the external switch. Close and mechanically interlock the manual water
+supply valves.
+• To avoid the risk of burns, check the temperature of the hot water inlet hose.
+• Disassemble the fittings that connect the hoses to the washing machine.
+• Disassemble the filter supports (according to model).
+• Remove the filters from their housings and clean the filters with pressurised water. Refit them in their
+housings.
+• Assemble the solenoid valve supports (according to model).
+• Assemble the hoses in their corresponding inputs. Tighten the fittings.
+• Connect the external switch, open the manual water input valves and check the water-tightness of the
+coupling.
+10.4. Checking safety mechanisms
+10.4.1. Checking the door lock
+Check the door safety lock device on a DAILY basis.
+CAUTION. Only by qualified personnel
+Take great care in checking the safety mechanisms.
+Carry out the check described below while the drum is turning at washing speed and never at a higher
+speed.
+If there is a failure in the door lock, never place one’s hand in the loading area of the washer.
+Checking procedure:
+Disconnect the ON switch. The display is off.
+Close and mechanically interlock the manual water supply valves (and steam inlet valve in washers with this
+option included).
+Open the washing machine door.
+Connect the ON/OFF switch. The display will read door.
+Close the door.
+Select and start a wash cycle.
+About a minute after starting the cycle, check that the door is locked.
+Press the START/STOP key to finish the check.
+After a safety period of no longer than 30 seconds has passed, the door lock will be released.
+The check is completed.
+If no anomaly has been detected, open the fluid inlet valves.
+CAUTION
+If anything other than that was described is detected during the operation, disconnect the washer, do not
+use it, and contact the Authorised Technical Service URGENTLY.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 78 =====
+Maintenance
+78
+10.4.2. Checking the emergency stop
+(Only models with Emergency Stop Button)
+Check the Emergency Stop on a WEEKLY basis.
+Checking procedure:
+Connect the ON/OFF switch. The display will read door.
+Close the door. Select and start a wash cycle.
+About a minute after starting the cycle, activate the EMERGENCY button. The buzzer will sound and the drum
+will stop rotating. The display will read ALM EMER.
+Unlock the Emergency Stop button by turning the activation in the direction of the arrows, and press the START
+key to resume the operation of the washing machine.
+After a safety period of no longer than 3 minutes has passed, the washing machine will resume operation.
+Press the START/STOP key to end the washing cycle. The check is completed.
+CAUTION
+If anything other than that was described is detected during the operation, disconnect the washer, do not
+use it, and contact the Authorised Technical Service URGENTLY.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 79 =====
+Maintenance
+79
+10.5. Cleaning the dispenser
+Only to be performed by the Authorised Technical Service
+• Disconnect and mechanically lock the external switch. Close and mechanically interlock the manual water
+supply valves.
+• Clean the dispenser by using a cloth or sponge dampened with water. Warm water makes cleaning easier.
+Never use abrasive products, solvents or tools that could scratch or damage the dispenser.
+Once the dispenser cleaning and assembly operations are finished:
+• Connect the external switch and open the manual water inlet valves.
+• Start a washing program that uses a bleaching agent and softener and check that both compartments drain
+properly.
+10.5.1. Washers with front dispenser
+Required tools:
+Unscrewing the fastening tabs: Torx T20 screwdriver
+Disassembly and assembly:
+• Open the dispenser drawer and loosen the screws on
+the retaining tabs visible along the bottom (Fig. 10.1).
+• Completely remove the drawer and dismount the siphon
+tubes from the liquid compartment by pulling them
+upwards.
+Once the cleaning operations are over:
+• Replace the siphon tubes and replace the drawer in its
+housing.
+• Refit the fastening tabs and check that the drawer cannot Fig. 10.1
+be completely removed.
+10.5.2. Washers with top dispenser
+Disassembly and assembly
+• Open the fastening clasps on the top cover. The
+dispenser is now accessible.
+• Detach the siphon tubes from the liquid compartment by
+pulling them upwards.
+• To clean the lower basin, remove the leak seal and
+separate the two dispenser bodies by separating the side
+lips (Fig. 10.2).
+Once the cleaning operations are over:
+• Refit the two dispenser bodies and check that the side
+lips fasten both pieces.
+• Replace the siphon tubes.
+• Check that the dispenser is set well in its bracket.
+Fig. 10.2
+• Check the condition of the top cover seal. If seal is
+damaged, deformed or has lost elasticity, call the
+AUTHORISED TECHNICAL SERVICE for replacement.
+• Replace the seal. Fit the top cover. Close the clasps.
+VERY IMPORTANT
+The dispenser protection seal is necessary to prevent humidity and corrosion inside the machine
+and the premature damage of the electrical and electronic circuits of machine control.
+Cod. 523340
+Rev. 11b/1218
+
+===== PDF page 80 =====
+Maintenance
+80
+10.6. Cleaning the drain pump
+(Drain pump washers. Fig. 10.3)
+Only to be performed by the Authorised Technical Service
+Required tools. Disassembly of the lower front panel: Torx. T25 screwdriver
+• Before disassembling the lower front panel of
+the washing machine, disconnect and
+mechanically lock the external switch, and close
+and mechanically lock the manual water inlet
+valves.
+• Empty any residual water contained in the drain
+ducts, placing the corrugated rear tube
+horizontally on the floor. The water will come out
+of the end.
+• Disassemble the lower front panel. The draining
+pump is accessible.
+• Turn the filter counter-clockwise and separate it
+from the pump body.
+• Clean the filter and any possible deposits from
+the inside of the pump body.
+• Assemble the filter and the draining pump.
+• Replace the bottom panel.
+• Connect the external switch and open the
+manual water inlet valves.
+• Begin a washing program and check that there
+are no water leaks. Fig. 10.3
+The bottom front cover is a stabilising element of the washer cabinet. Make sure that it is
+properly fitted and fastened.
+10.7. Checking the condition of the bearing housing seals
+Only to be performed by the Authorised Technical Service
+At regular intervals check that no water is leaking out of the bearing drain pipe located at the back of the washer
+at the bottom. Water loss indicates that the seals are in poor condition and need to be replaced.
+10.8. General Overhaul
+Only to be performed by the Authorised Technical Service
+• As preventive maintenance action, it is very important to request the Authorised Technical Service for a
+periodic overhaul of the washing machine.
+• Recommended periodicity: once a year or every 3000 washing cycles.
+• When performing this overhaul on HS-6008 / EH020 models, due to the wear and tear it is subject to, we
+recommend carefully checking the door seal and replacing it if wear is noticed.
+Cod. 523340
+Rev. 11b/1218
