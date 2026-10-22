@@ -35,7 +35,3 @@ Cuando se autorice una compilación, ejecuta desde PowerShell en la raíz:
 ```powershell
 .\build.ps1
 ```
-
-El proceso genera la aplicación y el paquete `.ffpfsc`. Esta implementación está en código fuente; no se ha compilado ni empaquetado. La compilación queda pendiente de una orden expresa.
-
-Versión de contenido preparada para la próxima compilación: `01.000.012`.
